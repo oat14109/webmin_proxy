@@ -1,0 +1,1996 @@
+2025/03/23 09:46:27| Current Directory is /
+2025/03/23 09:46:27| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 09:46:27| Service Name: squid
+2025/03/23 09:46:27| Process ID 1
+2025/03/23 09:46:27| Process Roles: master worker
+2025/03/23 09:46:27| With 1048576 file descriptors available
+2025/03/23 09:46:27| Initializing IP Cache...
+2025/03/23 09:46:27| DNS Socket created at [::], FD 8
+2025/03/23 09:46:27| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 09:46:27| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 09:46:27| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 09:46:27| Logfile: opening log /var/log/squid/access.log
+2025/03/23 09:46:27| WARNING: log name now starts with a module name. Use 'stdio:/var/log/squid/access.log'
+2025/03/23 09:46:27| Unlinkd pipe opened on FD 14
+2025/03/23 09:46:27| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 09:46:27| Store logging disabled
+2025/03/23 09:46:27| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 09:46:27| Target number of buckets: 1402
+2025/03/23 09:46:27| Using 8192 Store buckets
+2025/03/23 09:46:27| Max Mem  size: 262144 KB
+2025/03/23 09:46:27| Max Swap size: 102400 KB
+2025/03/23 09:46:27| ERROR: /var/spool/squid/00: (2) No such file or directory
+2025/03/23 09:46:27| Not currently OK to rewrite swap log.
+2025/03/23 09:46:27| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 09:46:27| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 09:46:27| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.100 seconds = 0.023 user + 0.077 sys
+Maximum Resident Size: 685904 KB
+Page faults with physical i/o: 0
+2025/03/23 09:46:27| Removing PID file (/run/squid.pid)
+2025/03/23 09:46:27| Current Directory is /
+2025/03/23 09:46:27| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 09:46:27| Service Name: squid
+2025/03/23 09:46:27| Process ID 1
+2025/03/23 09:46:27| Process Roles: master worker
+2025/03/23 09:46:27| With 1048576 file descriptors available
+2025/03/23 09:46:27| Initializing IP Cache...
+2025/03/23 09:46:27| DNS Socket created at [::], FD 8
+2025/03/23 09:46:27| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 09:46:27| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 09:46:27| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 09:46:27| Logfile: opening log /var/log/squid/access.log
+2025/03/23 09:46:27| WARNING: log name now starts with a module name. Use 'stdio:/var/log/squid/access.log'
+2025/03/23 09:46:28| Unlinkd pipe opened on FD 14
+2025/03/23 09:46:28| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 09:46:28| Store logging disabled
+2025/03/23 09:46:28| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 09:46:28| Target number of buckets: 1402
+2025/03/23 09:46:28| Using 8192 Store buckets
+2025/03/23 09:46:28| Max Mem  size: 262144 KB
+2025/03/23 09:46:28| Max Swap size: 102400 KB
+2025/03/23 09:46:28| ERROR: /var/spool/squid/00: (2) No such file or directory
+2025/03/23 09:46:28| Not currently OK to rewrite swap log.
+2025/03/23 09:46:28| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 09:46:28| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 09:46:28| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.056 seconds = 0.024 user + 0.032 sys
+Maximum Resident Size: 687792 KB
+Page faults with physical i/o: 0
+2025/03/23 09:46:28| Removing PID file (/run/squid.pid)
+2025/03/23 09:46:28| Current Directory is /
+2025/03/23 09:46:28| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 09:46:28| Service Name: squid
+2025/03/23 09:46:28| Process ID 1
+2025/03/23 09:46:28| Process Roles: master worker
+2025/03/23 09:46:28| With 1048576 file descriptors available
+2025/03/23 09:46:28| Initializing IP Cache...
+2025/03/23 09:46:28| DNS Socket created at [::], FD 8
+2025/03/23 09:46:28| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 09:46:28| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 09:46:28| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 09:46:28| Logfile: opening log /var/log/squid/access.log
+2025/03/23 09:46:28| WARNING: log name now starts with a module name. Use 'stdio:/var/log/squid/access.log'
+2025/03/23 09:46:28| Unlinkd pipe opened on FD 14
+2025/03/23 09:46:28| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 09:46:28| Store logging disabled
+2025/03/23 09:46:28| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 09:46:28| Target number of buckets: 1402
+2025/03/23 09:46:28| Using 8192 Store buckets
+2025/03/23 09:46:28| Max Mem  size: 262144 KB
+2025/03/23 09:46:28| Max Swap size: 102400 KB
+2025/03/23 09:46:28| ERROR: /var/spool/squid/00: (2) No such file or directory
+2025/03/23 09:46:28| Not currently OK to rewrite swap log.
+2025/03/23 09:46:28| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 09:46:28| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 09:46:28| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.049 seconds = 0.031 user + 0.018 sys
+Maximum Resident Size: 687472 KB
+Page faults with physical i/o: 0
+2025/03/23 09:46:28| Removing PID file (/run/squid.pid)
+2025/03/23 09:46:29| Current Directory is /
+2025/03/23 09:46:29| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 09:46:29| Service Name: squid
+2025/03/23 09:46:29| Process ID 1
+2025/03/23 09:46:29| Process Roles: master worker
+2025/03/23 09:46:29| With 1048576 file descriptors available
+2025/03/23 09:46:29| Initializing IP Cache...
+2025/03/23 09:46:29| DNS Socket created at [::], FD 8
+2025/03/23 09:46:29| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 09:46:29| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 09:46:29| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 09:46:29| Logfile: opening log /var/log/squid/access.log
+2025/03/23 09:46:29| WARNING: log name now starts with a module name. Use 'stdio:/var/log/squid/access.log'
+2025/03/23 09:46:29| Unlinkd pipe opened on FD 14
+2025/03/23 09:46:29| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 09:46:29| Store logging disabled
+2025/03/23 09:46:29| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 09:46:29| Target number of buckets: 1402
+2025/03/23 09:46:29| Using 8192 Store buckets
+2025/03/23 09:46:29| Max Mem  size: 262144 KB
+2025/03/23 09:46:29| Max Swap size: 102400 KB
+2025/03/23 09:46:29| ERROR: /var/spool/squid/00: (2) No such file or directory
+2025/03/23 09:46:29| Not currently OK to rewrite swap log.
+2025/03/23 09:46:29| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 09:46:29| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 09:46:29| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.061 seconds = 0.030 user + 0.030 sys
+Maximum Resident Size: 687808 KB
+Page faults with physical i/o: 0
+2025/03/23 09:46:29| Removing PID file (/run/squid.pid)
+2025/03/23 09:46:30| Current Directory is /
+2025/03/23 09:46:30| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 09:46:30| Service Name: squid
+2025/03/23 09:46:30| Process ID 1
+2025/03/23 09:46:30| Process Roles: master worker
+2025/03/23 09:46:30| With 1048576 file descriptors available
+2025/03/23 09:46:30| Initializing IP Cache...
+2025/03/23 09:46:30| DNS Socket created at [::], FD 8
+2025/03/23 09:46:30| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 09:46:30| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 09:46:30| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 09:46:30| Logfile: opening log /var/log/squid/access.log
+2025/03/23 09:46:30| WARNING: log name now starts with a module name. Use 'stdio:/var/log/squid/access.log'
+2025/03/23 09:46:30| Unlinkd pipe opened on FD 14
+2025/03/23 09:46:30| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 09:46:30| Store logging disabled
+2025/03/23 09:46:30| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 09:46:30| Target number of buckets: 1402
+2025/03/23 09:46:30| Using 8192 Store buckets
+2025/03/23 09:46:30| Max Mem  size: 262144 KB
+2025/03/23 09:46:30| Max Swap size: 102400 KB
+2025/03/23 09:46:30| ERROR: /var/spool/squid/00: (2) No such file or directory
+2025/03/23 09:46:30| Not currently OK to rewrite swap log.
+2025/03/23 09:46:30| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 09:46:30| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 09:46:30| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.044 seconds = 0.018 user + 0.026 sys
+Maximum Resident Size: 688544 KB
+Page faults with physical i/o: 0
+2025/03/23 09:46:30| Removing PID file (/run/squid.pid)
+2025/03/23 09:46:32| Current Directory is /
+2025/03/23 09:46:32| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 09:46:32| Service Name: squid
+2025/03/23 09:46:32| Process ID 1
+2025/03/23 09:46:32| Process Roles: master worker
+2025/03/23 09:46:32| With 1048576 file descriptors available
+2025/03/23 09:46:32| Initializing IP Cache...
+2025/03/23 09:46:32| DNS Socket created at [::], FD 8
+2025/03/23 09:46:32| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 09:46:32| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 09:46:32| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 09:46:32| Logfile: opening log /var/log/squid/access.log
+2025/03/23 09:46:32| WARNING: log name now starts with a module name. Use 'stdio:/var/log/squid/access.log'
+2025/03/23 09:46:33| Unlinkd pipe opened on FD 14
+2025/03/23 09:46:33| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 09:46:33| Store logging disabled
+2025/03/23 09:46:33| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 09:46:33| Target number of buckets: 1402
+2025/03/23 09:46:33| Using 8192 Store buckets
+2025/03/23 09:46:33| Max Mem  size: 262144 KB
+2025/03/23 09:46:33| Max Swap size: 102400 KB
+2025/03/23 09:46:33| ERROR: /var/spool/squid/00: (2) No such file or directory
+2025/03/23 09:46:33| Not currently OK to rewrite swap log.
+2025/03/23 09:46:33| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 09:46:33| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 09:46:33| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.049 seconds = 0.029 user + 0.020 sys
+Maximum Resident Size: 688464 KB
+Page faults with physical i/o: 0
+2025/03/23 09:46:33| Removing PID file (/run/squid.pid)
+2025/03/23 09:46:36| Current Directory is /
+2025/03/23 09:46:36| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 09:46:36| Service Name: squid
+2025/03/23 09:46:36| Process ID 1
+2025/03/23 09:46:36| Process Roles: master worker
+2025/03/23 09:46:36| With 1048576 file descriptors available
+2025/03/23 09:46:36| Initializing IP Cache...
+2025/03/23 09:46:36| DNS Socket created at [::], FD 8
+2025/03/23 09:46:36| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 09:46:36| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 09:46:36| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 09:46:36| Logfile: opening log /var/log/squid/access.log
+2025/03/23 09:46:36| WARNING: log name now starts with a module name. Use 'stdio:/var/log/squid/access.log'
+2025/03/23 09:46:36| Unlinkd pipe opened on FD 14
+2025/03/23 09:46:36| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 09:46:36| Store logging disabled
+2025/03/23 09:46:36| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 09:46:36| Target number of buckets: 1402
+2025/03/23 09:46:36| Using 8192 Store buckets
+2025/03/23 09:46:36| Max Mem  size: 262144 KB
+2025/03/23 09:46:36| Max Swap size: 102400 KB
+2025/03/23 09:46:36| ERROR: /var/spool/squid/00: (2) No such file or directory
+2025/03/23 09:46:36| Not currently OK to rewrite swap log.
+2025/03/23 09:46:36| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 09:46:36| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 09:46:36| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.050 seconds = 0.029 user + 0.021 sys
+Maximum Resident Size: 689072 KB
+Page faults with physical i/o: 0
+2025/03/23 09:46:36| Removing PID file (/run/squid.pid)
+2025/03/23 09:46:43| Current Directory is /
+2025/03/23 09:46:43| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 09:46:43| Service Name: squid
+2025/03/23 09:46:43| Process ID 1
+2025/03/23 09:46:43| Process Roles: master worker
+2025/03/23 09:46:43| With 1048576 file descriptors available
+2025/03/23 09:46:43| Initializing IP Cache...
+2025/03/23 09:46:43| DNS Socket created at [::], FD 8
+2025/03/23 09:46:43| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 09:46:43| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 09:46:43| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 09:46:43| Logfile: opening log /var/log/squid/access.log
+2025/03/23 09:46:43| WARNING: log name now starts with a module name. Use 'stdio:/var/log/squid/access.log'
+2025/03/23 09:46:43| Unlinkd pipe opened on FD 14
+2025/03/23 09:46:43| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 09:46:43| Store logging disabled
+2025/03/23 09:46:43| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 09:46:43| Target number of buckets: 1402
+2025/03/23 09:46:43| Using 8192 Store buckets
+2025/03/23 09:46:43| Max Mem  size: 262144 KB
+2025/03/23 09:46:43| Max Swap size: 102400 KB
+2025/03/23 09:46:43| ERROR: /var/spool/squid/00: (2) No such file or directory
+2025/03/23 09:46:43| Not currently OK to rewrite swap log.
+2025/03/23 09:46:43| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 09:46:43| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 09:46:43| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.059 seconds = 0.024 user + 0.035 sys
+Maximum Resident Size: 688176 KB
+Page faults with physical i/o: 0
+2025/03/23 09:46:43| Removing PID file (/run/squid.pid)
+2025/03/23 09:46:56| Current Directory is /
+2025/03/23 09:46:56| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 09:46:56| Service Name: squid
+2025/03/23 09:46:56| Process ID 1
+2025/03/23 09:46:56| Process Roles: master worker
+2025/03/23 09:46:56| With 1048576 file descriptors available
+2025/03/23 09:46:56| Initializing IP Cache...
+2025/03/23 09:46:56| DNS Socket created at [::], FD 8
+2025/03/23 09:46:56| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 09:46:56| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 09:46:56| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 09:46:56| Logfile: opening log /var/log/squid/access.log
+2025/03/23 09:46:56| WARNING: log name now starts with a module name. Use 'stdio:/var/log/squid/access.log'
+2025/03/23 09:46:56| Unlinkd pipe opened on FD 14
+2025/03/23 09:46:56| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 09:46:56| Store logging disabled
+2025/03/23 09:46:56| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 09:46:56| Target number of buckets: 1402
+2025/03/23 09:46:56| Using 8192 Store buckets
+2025/03/23 09:46:56| Max Mem  size: 262144 KB
+2025/03/23 09:46:56| Max Swap size: 102400 KB
+2025/03/23 09:46:56| ERROR: /var/spool/squid/00: (2) No such file or directory
+2025/03/23 09:46:56| Not currently OK to rewrite swap log.
+2025/03/23 09:46:56| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 09:46:56| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 09:46:56| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.052 seconds = 0.027 user + 0.025 sys
+Maximum Resident Size: 688336 KB
+Page faults with physical i/o: 0
+2025/03/23 09:46:56| Removing PID file (/run/squid.pid)
+2025/03/23 09:47:22| Current Directory is /
+2025/03/23 09:47:22| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 09:47:22| Service Name: squid
+2025/03/23 09:47:22| Process ID 1
+2025/03/23 09:47:22| Process Roles: master worker
+2025/03/23 09:47:22| With 1048576 file descriptors available
+2025/03/23 09:47:22| Initializing IP Cache...
+2025/03/23 09:47:22| DNS Socket created at [::], FD 8
+2025/03/23 09:47:22| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 09:47:22| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 09:47:22| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 09:47:22| Logfile: opening log /var/log/squid/access.log
+2025/03/23 09:47:22| WARNING: log name now starts with a module name. Use 'stdio:/var/log/squid/access.log'
+2025/03/23 09:47:22| Unlinkd pipe opened on FD 14
+2025/03/23 09:47:22| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 09:47:22| Store logging disabled
+2025/03/23 09:47:22| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 09:47:22| Target number of buckets: 1402
+2025/03/23 09:47:22| Using 8192 Store buckets
+2025/03/23 09:47:22| Max Mem  size: 262144 KB
+2025/03/23 09:47:22| Max Swap size: 102400 KB
+2025/03/23 09:47:22| ERROR: /var/spool/squid/00: (2) No such file or directory
+2025/03/23 09:47:22| Not currently OK to rewrite swap log.
+2025/03/23 09:47:22| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 09:47:22| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 09:47:22| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.057 seconds = 0.026 user + 0.031 sys
+Maximum Resident Size: 688384 KB
+Page faults with physical i/o: 0
+2025/03/23 09:47:22| Removing PID file (/run/squid.pid)
+2025/03/23 09:48:14| Current Directory is /
+2025/03/23 09:48:14| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 09:48:14| Service Name: squid
+2025/03/23 09:48:14| Process ID 1
+2025/03/23 09:48:14| Process Roles: master worker
+2025/03/23 09:48:14| With 1048576 file descriptors available
+2025/03/23 09:48:14| Initializing IP Cache...
+2025/03/23 09:48:14| DNS Socket created at [::], FD 8
+2025/03/23 09:48:14| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 09:48:14| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 09:48:14| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 09:48:14| Logfile: opening log /var/log/squid/access.log
+2025/03/23 09:48:14| WARNING: log name now starts with a module name. Use 'stdio:/var/log/squid/access.log'
+2025/03/23 09:48:14| Unlinkd pipe opened on FD 14
+2025/03/23 09:48:14| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 09:48:14| Store logging disabled
+2025/03/23 09:48:14| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 09:48:14| Target number of buckets: 1402
+2025/03/23 09:48:14| Using 8192 Store buckets
+2025/03/23 09:48:14| Max Mem  size: 262144 KB
+2025/03/23 09:48:14| Max Swap size: 102400 KB
+2025/03/23 09:48:14| ERROR: /var/spool/squid/00: (2) No such file or directory
+2025/03/23 09:48:14| Not currently OK to rewrite swap log.
+2025/03/23 09:48:14| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 09:48:14| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 09:48:14| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.065 seconds = 0.030 user + 0.035 sys
+Maximum Resident Size: 687872 KB
+Page faults with physical i/o: 0
+2025/03/23 09:48:14| Removing PID file (/run/squid.pid)
+2025/03/23 09:49:14| Current Directory is /
+2025/03/23 09:49:14| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 09:49:14| Service Name: squid
+2025/03/23 09:49:14| Process ID 1
+2025/03/23 09:49:14| Process Roles: master worker
+2025/03/23 09:49:14| With 1048576 file descriptors available
+2025/03/23 09:49:14| Initializing IP Cache...
+2025/03/23 09:49:14| DNS Socket created at [::], FD 8
+2025/03/23 09:49:14| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 09:49:14| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 09:49:14| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 09:49:14| Logfile: opening log /var/log/squid/access.log
+2025/03/23 09:49:14| WARNING: log name now starts with a module name. Use 'stdio:/var/log/squid/access.log'
+2025/03/23 09:49:15| Unlinkd pipe opened on FD 14
+2025/03/23 09:49:15| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 09:49:15| Store logging disabled
+2025/03/23 09:49:15| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 09:49:15| Target number of buckets: 1402
+2025/03/23 09:49:15| Using 8192 Store buckets
+2025/03/23 09:49:15| Max Mem  size: 262144 KB
+2025/03/23 09:49:15| Max Swap size: 102400 KB
+2025/03/23 09:49:15| ERROR: /var/spool/squid/00: (2) No such file or directory
+2025/03/23 09:49:15| Not currently OK to rewrite swap log.
+2025/03/23 09:49:15| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 09:49:15| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 09:49:15| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.051 seconds = 0.031 user + 0.020 sys
+Maximum Resident Size: 688432 KB
+Page faults with physical i/o: 0
+2025/03/23 09:49:15| Removing PID file (/run/squid.pid)
+2025/03/23 09:49:40| Current Directory is /
+2025/03/23 09:49:40| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 09:49:40| Service Name: squid
+2025/03/23 09:49:40| Process ID 1
+2025/03/23 09:49:40| Process Roles: master worker
+2025/03/23 09:49:40| With 1048576 file descriptors available
+2025/03/23 09:49:40| Initializing IP Cache...
+2025/03/23 09:49:40| DNS Socket created at [::], FD 8
+2025/03/23 09:49:40| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 09:49:40| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 09:49:40| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 09:49:40| Logfile: opening log stdio:/var/log/squid/access.log
+2025/03/23 09:49:40| Unlinkd pipe opened on FD 14
+2025/03/23 09:49:40| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 09:49:40| Store logging disabled
+2025/03/23 09:49:40| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 09:49:40| Target number of buckets: 1402
+2025/03/23 09:49:40| Using 8192 Store buckets
+2025/03/23 09:49:40| Max Mem  size: 262144 KB
+2025/03/23 09:49:40| Max Swap size: 102400 KB
+2025/03/23 09:49:40| ERROR: /var/spool/squid/00: (2) No such file or directory
+2025/03/23 09:49:40| Not currently OK to rewrite swap log.
+2025/03/23 09:49:40| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 09:49:40| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 09:49:40| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.056 seconds = 0.017 user + 0.039 sys
+Maximum Resident Size: 684464 KB
+Page faults with physical i/o: 0
+2025/03/23 09:49:40| Removing PID file (/run/squid.pid)
+2025/03/23 09:49:40 kid1| Current Directory is /
+2025/03/23 09:49:40 kid1| Creating missing swap directories
+2025/03/23 09:49:40 kid1| /var/spool/squid exists
+2025/03/23 09:49:40 kid1| Making directories in /var/spool/squid/00
+2025/03/23 09:49:41| Current Directory is /
+2025/03/23 09:49:41| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 09:49:41| Service Name: squid
+2025/03/23 09:49:41| Process ID 1
+2025/03/23 09:49:41| Process Roles: master worker
+2025/03/23 09:49:41| With 1048576 file descriptors available
+2025/03/23 09:49:41| Initializing IP Cache...
+2025/03/23 09:49:41| DNS Socket created at [::], FD 8
+2025/03/23 09:49:41| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 09:49:41| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 09:49:41| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 09:49:41| Logfile: opening log stdio:/var/log/squid/access.log
+2025/03/23 09:49:41| Unlinkd pipe opened on FD 14
+2025/03/23 09:49:41| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 09:49:41| Store logging disabled
+2025/03/23 09:49:41| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 09:49:41| Target number of buckets: 1402
+2025/03/23 09:49:41| Using 8192 Store buckets
+2025/03/23 09:49:41| Max Mem  size: 262144 KB
+2025/03/23 09:49:41| Max Swap size: 102400 KB
+2025/03/23 09:49:41| ERROR: /var/spool/squid/01: (2) No such file or directory
+2025/03/23 09:49:41| Not currently OK to rewrite swap log.
+2025/03/23 09:49:41| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 09:49:41| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 09:49:41| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.056 seconds = 0.027 user + 0.029 sys
+Maximum Resident Size: 686000 KB
+Page faults with physical i/o: 0
+2025/03/23 09:49:41| Removing PID file (/run/squid.pid)
+2025/03/23 09:49:42 kid1| Current Directory is /
+2025/03/23 09:49:42 kid1| Creating missing swap directories
+2025/03/23 09:49:42 kid1| /var/spool/squid exists
+2025/03/23 09:49:42 kid1| /var/spool/squid/00 exists
+2025/03/23 09:49:42 kid1| Making directories in /var/spool/squid/00
+2025/03/23 09:49:44| Current Directory is /
+2025/03/23 09:49:44| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 09:49:44| Service Name: squid
+2025/03/23 09:49:44| Process ID 1
+2025/03/23 09:49:44| Process Roles: master worker
+2025/03/23 09:49:44| With 1048576 file descriptors available
+2025/03/23 09:49:44| Initializing IP Cache...
+2025/03/23 09:49:44| DNS Socket created at [::], FD 8
+2025/03/23 09:49:44| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 09:49:44| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 09:49:44| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 09:49:44| Logfile: opening log stdio:/var/log/squid/access.log
+2025/03/23 09:49:44| Unlinkd pipe opened on FD 14
+2025/03/23 09:49:44| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 09:49:44| Store logging disabled
+2025/03/23 09:49:44| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 09:49:44| Target number of buckets: 1402
+2025/03/23 09:49:44| Using 8192 Store buckets
+2025/03/23 09:49:44| Max Mem  size: 262144 KB
+2025/03/23 09:49:44| Max Swap size: 102400 KB
+2025/03/23 09:49:44| ERROR: /var/spool/squid/01: (2) No such file or directory
+2025/03/23 09:49:44| Not currently OK to rewrite swap log.
+2025/03/23 09:49:44| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 09:49:44| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 09:49:44| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.049 seconds = 0.024 user + 0.024 sys
+Maximum Resident Size: 686064 KB
+Page faults with physical i/o: 0
+2025/03/23 09:49:44| Removing PID file (/run/squid.pid)
+2025/03/23 09:49:48 kid1| Current Directory is /
+2025/03/23 09:49:48 kid1| Creating missing swap directories
+2025/03/23 09:49:48 kid1| /var/spool/squid exists
+2025/03/23 09:49:48 kid1| /var/spool/squid/00 exists
+2025/03/23 09:49:48 kid1| Making directories in /var/spool/squid/00
+2025/03/23 09:49:52| Current Directory is /
+2025/03/23 09:49:52| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 09:49:52| Service Name: squid
+2025/03/23 09:49:52| Process ID 1
+2025/03/23 09:49:52| Process Roles: master worker
+2025/03/23 09:49:52| With 1048576 file descriptors available
+2025/03/23 09:49:52| Initializing IP Cache...
+2025/03/23 09:49:52| DNS Socket created at [::], FD 8
+2025/03/23 09:49:52| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 09:49:52| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 09:49:52| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 09:49:52| Logfile: opening log stdio:/var/log/squid/access.log
+2025/03/23 09:49:52| Unlinkd pipe opened on FD 14
+2025/03/23 09:49:52| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 09:49:52| Store logging disabled
+2025/03/23 09:49:52| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 09:49:52| Target number of buckets: 1402
+2025/03/23 09:49:52| Using 8192 Store buckets
+2025/03/23 09:49:52| Max Mem  size: 262144 KB
+2025/03/23 09:49:52| Max Swap size: 102400 KB
+2025/03/23 09:49:52| ERROR: /var/spool/squid/01: (2) No such file or directory
+2025/03/23 09:49:52| Not currently OK to rewrite swap log.
+2025/03/23 09:49:52| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 09:49:52| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 09:49:52| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.051 seconds = 0.029 user + 0.022 sys
+Maximum Resident Size: 685424 KB
+Page faults with physical i/o: 0
+2025/03/23 09:49:52| Removing PID file (/run/squid.pid)
+2025/03/23 09:49:53 kid1| Current Directory is /
+2025/03/23 09:49:53 kid1| Creating missing swap directories
+2025/03/23 09:49:53 kid1| /var/spool/squid exists
+2025/03/23 09:49:53 kid1| /var/spool/squid/00 exists
+2025/03/23 09:49:53 kid1| Making directories in /var/spool/squid/00
+2025/03/23 09:49:53 kid1| /var/spool/squid/00/0F created
+2025/03/23 09:49:53 kid1| /var/spool/squid/00/10 created
+2025/03/23 09:49:53 kid1| /var/spool/squid/00/11 created
+2025/03/23 09:49:53| Current Directory is /
+2025/03/23 09:49:53| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 09:49:53| Service Name: squid
+2025/03/23 09:49:53| Process ID 1
+2025/03/23 09:49:53| Process Roles: master worker
+2025/03/23 09:49:53| With 1048576 file descriptors available
+2025/03/23 09:49:53| Initializing IP Cache...
+2025/03/23 09:49:53| DNS Socket created at [::], FD 8
+2025/03/23 09:49:53| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 09:49:53| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 09:49:53| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 09:49:53| Logfile: opening log stdio:/var/log/squid/access.log
+2025/03/23 09:49:53| Unlinkd pipe opened on FD 14
+2025/03/23 09:49:53| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 09:49:53| Store logging disabled
+2025/03/23 09:49:53| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 09:49:53| Target number of buckets: 1402
+2025/03/23 09:49:53| Using 8192 Store buckets
+2025/03/23 09:49:53| Max Mem  size: 262144 KB
+2025/03/23 09:49:53| Max Swap size: 102400 KB
+2025/03/23 09:49:53| ERROR: /var/spool/squid/01: (2) No such file or directory
+2025/03/23 09:49:53| Not currently OK to rewrite swap log.
+2025/03/23 09:49:53| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 09:49:53| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 09:49:53| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.052 seconds = 0.027 user + 0.025 sys
+Maximum Resident Size: 685872 KB
+Page faults with physical i/o: 0
+2025/03/23 09:49:53| Removing PID file (/run/squid.pid)
+2025/03/23 09:49:54 kid1| Current Directory is /
+2025/03/23 09:49:54 kid1| Creating missing swap directories
+2025/03/23 09:49:54 kid1| /var/spool/squid exists
+2025/03/23 09:49:55| Current Directory is /
+2025/03/23 09:49:55| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 09:49:55| Service Name: squid
+2025/03/23 09:49:55| Process ID 1
+2025/03/23 09:49:55| Process Roles: master worker
+2025/03/23 09:49:55| With 1048576 file descriptors available
+2025/03/23 09:49:55| Initializing IP Cache...
+2025/03/23 09:49:55| DNS Socket created at [::], FD 8
+2025/03/23 09:49:55| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 09:49:55| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 09:49:55| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 09:49:55| Logfile: opening log stdio:/var/log/squid/access.log
+2025/03/23 09:49:55| Unlinkd pipe opened on FD 14
+2025/03/23 09:49:55| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 09:49:55| Store logging disabled
+2025/03/23 09:49:55| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 09:49:55| Target number of buckets: 1402
+2025/03/23 09:49:55| Using 8192 Store buckets
+2025/03/23 09:49:55| Max Mem  size: 262144 KB
+2025/03/23 09:49:55| Max Swap size: 102400 KB
+2025/03/23 09:49:55| ERROR: /var/spool/squid/01: (2) No such file or directory
+2025/03/23 09:49:55| Not currently OK to rewrite swap log.
+2025/03/23 09:49:55| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 09:49:55| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 09:49:55| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.048 seconds = 0.025 user + 0.023 sys
+Maximum Resident Size: 686000 KB
+Page faults with physical i/o: 0
+2025/03/23 09:49:55| Removing PID file (/run/squid.pid)
+2025/03/23 09:55:04 kid1| Current Directory is /
+2025/03/23 09:55:04 kid1| Creating missing swap directories
+2025/03/23 09:55:04 kid1| /var/spool/squid exists
+2025/03/23 09:55:05| Current Directory is /
+2025/03/23 09:55:05| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 09:55:05| Service Name: squid
+2025/03/23 09:55:05| Process ID 1
+2025/03/23 09:55:05| Process Roles: master worker
+2025/03/23 09:55:05| With 1048576 file descriptors available
+2025/03/23 09:55:05| Initializing IP Cache...
+2025/03/23 09:55:05| DNS Socket created at [::], FD 8
+2025/03/23 09:55:05| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 09:55:05| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 09:55:05| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 09:55:05| Logfile: opening log stdio:/var/log/squid/access.log
+2025/03/23 09:55:05| Unlinkd pipe opened on FD 14
+2025/03/23 09:55:05| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 09:55:05| Store logging disabled
+2025/03/23 09:55:05| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 09:55:05| Target number of buckets: 1402
+2025/03/23 09:55:05| Using 8192 Store buckets
+2025/03/23 09:55:05| Max Mem  size: 262144 KB
+2025/03/23 09:55:05| Max Swap size: 102400 KB
+2025/03/23 09:55:05| ERROR: /var/spool/squid/00: (2) No such file or directory
+2025/03/23 09:55:05| Not currently OK to rewrite swap log.
+2025/03/23 09:55:05| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 09:55:05| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 09:55:05| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.052 seconds = 0.023 user + 0.029 sys
+Maximum Resident Size: 685920 KB
+Page faults with physical i/o: 0
+2025/03/23 09:55:05| Removing PID file (/run/squid.pid)
+2025/03/23 09:55:05 kid1| Current Directory is /
+2025/03/23 09:55:05 kid1| Creating missing swap directories
+2025/03/23 09:55:05 kid1| /var/spool/squid exists
+2025/03/23 09:55:05 kid1| Making directories in /var/spool/squid/00
+2025/03/23 09:55:06| Current Directory is /
+2025/03/23 09:55:06| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 09:55:06| Service Name: squid
+2025/03/23 09:55:06| Process ID 1
+2025/03/23 09:55:06| Process Roles: master worker
+2025/03/23 09:55:06| With 1048576 file descriptors available
+2025/03/23 09:55:06| Initializing IP Cache...
+2025/03/23 09:55:06| DNS Socket created at [::], FD 8
+2025/03/23 09:55:06| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 09:55:06| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 09:55:06| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 09:55:06| Logfile: opening log stdio:/var/log/squid/access.log
+2025/03/23 09:55:06| Unlinkd pipe opened on FD 14
+2025/03/23 09:55:06| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 09:55:06| Store logging disabled
+2025/03/23 09:55:06| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 09:55:06| Target number of buckets: 1402
+2025/03/23 09:55:06| Using 8192 Store buckets
+2025/03/23 09:55:06| Max Mem  size: 262144 KB
+2025/03/23 09:55:06| Max Swap size: 102400 KB
+2025/03/23 09:55:06| ERROR: /var/spool/squid/01: (2) No such file or directory
+2025/03/23 09:55:06| Not currently OK to rewrite swap log.
+2025/03/23 09:55:06| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 09:55:06| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 09:55:06| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.055 seconds = 0.024 user + 0.031 sys
+Maximum Resident Size: 686000 KB
+Page faults with physical i/o: 0
+2025/03/23 09:55:06| Removing PID file (/run/squid.pid)
+2025/03/23 09:55:07| Current Directory is /
+2025/03/23 09:55:07| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 09:55:07| Service Name: squid
+2025/03/23 09:55:07| Process ID 1
+2025/03/23 09:55:07| Process Roles: master worker
+2025/03/23 09:55:07| With 1048576 file descriptors available
+2025/03/23 09:55:07| Initializing IP Cache...
+2025/03/23 09:55:07| DNS Socket created at [::], FD 8
+2025/03/23 09:55:07| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 09:55:07| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 09:55:07| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 09:55:07| Logfile: opening log stdio:/var/log/squid/access.log
+2025/03/23 09:55:07| Unlinkd pipe opened on FD 14
+2025/03/23 09:55:07| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 09:55:07| Store logging disabled
+2025/03/23 09:55:07| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 09:55:07| Target number of buckets: 1402
+2025/03/23 09:55:07| Using 8192 Store buckets
+2025/03/23 09:55:07| Max Mem  size: 262144 KB
+2025/03/23 09:55:07| Max Swap size: 102400 KB
+2025/03/23 09:55:07| ERROR: /var/spool/squid/01: (2) No such file or directory
+2025/03/23 09:55:07| Not currently OK to rewrite swap log.
+2025/03/23 09:55:07| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 09:55:07| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 09:55:07| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.050 seconds = 0.031 user + 0.019 sys
+Maximum Resident Size: 687152 KB
+Page faults with physical i/o: 0
+2025/03/23 09:55:07| Removing PID file (/run/squid.pid)
+2025/03/23 09:55:09| Current Directory is /
+2025/03/23 09:55:09| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 09:55:09| Service Name: squid
+2025/03/23 09:55:09| Process ID 1
+2025/03/23 09:55:09| Process Roles: master worker
+2025/03/23 09:55:09| With 1048576 file descriptors available
+2025/03/23 09:55:09| Initializing IP Cache...
+2025/03/23 09:55:09| DNS Socket created at [::], FD 8
+2025/03/23 09:55:09| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 09:55:09| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 09:55:09| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 09:55:09| Logfile: opening log stdio:/var/log/squid/access.log
+2025/03/23 09:55:10| Unlinkd pipe opened on FD 14
+2025/03/23 09:55:10| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 09:55:10| Store logging disabled
+2025/03/23 09:55:10| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 09:55:10| Target number of buckets: 1402
+2025/03/23 09:55:10| Using 8192 Store buckets
+2025/03/23 09:55:10| Max Mem  size: 262144 KB
+2025/03/23 09:55:10| Max Swap size: 102400 KB
+2025/03/23 09:55:10| ERROR: /var/spool/squid/01: (2) No such file or directory
+2025/03/23 09:55:10| Not currently OK to rewrite swap log.
+2025/03/23 09:55:10| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 09:55:10| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 09:55:10| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.058 seconds = 0.024 user + 0.034 sys
+Maximum Resident Size: 687616 KB
+Page faults with physical i/o: 0
+2025/03/23 09:55:10| Removing PID file (/run/squid.pid)
+2025/03/23 09:55:13| Current Directory is /
+2025/03/23 09:55:13| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 09:55:13| Service Name: squid
+2025/03/23 09:55:13| Process ID 1
+2025/03/23 09:55:13| Process Roles: master worker
+2025/03/23 09:55:13| With 1048576 file descriptors available
+2025/03/23 09:55:13| Initializing IP Cache...
+2025/03/23 09:55:13| DNS Socket created at [::], FD 8
+2025/03/23 09:55:13| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 09:55:13| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 09:55:13| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 09:55:13| Logfile: opening log stdio:/var/log/squid/access.log
+2025/03/23 09:55:13| Unlinkd pipe opened on FD 14
+2025/03/23 09:55:13| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 09:55:13| Store logging disabled
+2025/03/23 09:55:13| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 09:55:13| Target number of buckets: 1402
+2025/03/23 09:55:13| Using 8192 Store buckets
+2025/03/23 09:55:13| Max Mem  size: 262144 KB
+2025/03/23 09:55:13| Max Swap size: 102400 KB
+2025/03/23 09:55:13| ERROR: /var/spool/squid/01: (2) No such file or directory
+2025/03/23 09:55:13| Not currently OK to rewrite swap log.
+2025/03/23 09:55:13| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 09:55:13| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 09:55:13| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.048 seconds = 0.025 user + 0.023 sys
+Maximum Resident Size: 687680 KB
+Page faults with physical i/o: 0
+2025/03/23 09:55:13| Removing PID file (/run/squid.pid)
+2025/03/23 09:55:20| Current Directory is /
+2025/03/23 09:55:20| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 09:55:20| Service Name: squid
+2025/03/23 09:55:20| Process ID 1
+2025/03/23 09:55:20| Process Roles: master worker
+2025/03/23 09:55:20| With 1048576 file descriptors available
+2025/03/23 09:55:20| Initializing IP Cache...
+2025/03/23 09:55:20| DNS Socket created at [::], FD 8
+2025/03/23 09:55:20| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 09:55:20| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 09:55:20| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 09:55:20| Logfile: opening log stdio:/var/log/squid/access.log
+2025/03/23 09:55:20| Unlinkd pipe opened on FD 14
+2025/03/23 09:55:20| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 09:55:20| Store logging disabled
+2025/03/23 09:55:20| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 09:55:20| Target number of buckets: 1402
+2025/03/23 09:55:20| Using 8192 Store buckets
+2025/03/23 09:55:20| Max Mem  size: 262144 KB
+2025/03/23 09:55:20| Max Swap size: 102400 KB
+2025/03/23 09:55:20| ERROR: /var/spool/squid/01: (2) No such file or directory
+2025/03/23 09:55:20| Not currently OK to rewrite swap log.
+2025/03/23 09:55:20| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 09:55:20| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 09:55:20| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.057 seconds = 0.026 user + 0.031 sys
+Maximum Resident Size: 687568 KB
+Page faults with physical i/o: 0
+2025/03/23 09:55:20| Removing PID file (/run/squid.pid)
+2025/03/23 09:55:33| Current Directory is /
+2025/03/23 09:55:33| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 09:55:33| Service Name: squid
+2025/03/23 09:55:33| Process ID 1
+2025/03/23 09:55:33| Process Roles: master worker
+2025/03/23 09:55:33| With 1048576 file descriptors available
+2025/03/23 09:55:33| Initializing IP Cache...
+2025/03/23 09:55:33| DNS Socket created at [::], FD 8
+2025/03/23 09:55:33| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 09:55:33| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 09:55:33| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 09:55:33| Logfile: opening log stdio:/var/log/squid/access.log
+2025/03/23 09:55:33| Unlinkd pipe opened on FD 14
+2025/03/23 09:55:33| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 09:55:33| Store logging disabled
+2025/03/23 09:55:33| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 09:55:33| Target number of buckets: 1402
+2025/03/23 09:55:33| Using 8192 Store buckets
+2025/03/23 09:55:33| Max Mem  size: 262144 KB
+2025/03/23 09:55:33| Max Swap size: 102400 KB
+2025/03/23 09:55:33| ERROR: /var/spool/squid/01: (2) No such file or directory
+2025/03/23 09:55:33| Not currently OK to rewrite swap log.
+2025/03/23 09:55:33| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 09:55:33| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 09:55:33| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.048 seconds = 0.025 user + 0.023 sys
+Maximum Resident Size: 688224 KB
+Page faults with physical i/o: 0
+2025/03/23 09:55:33| Removing PID file (/run/squid.pid)
+2025/03/23 09:55:59| Current Directory is /
+2025/03/23 09:55:59| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 09:55:59| Service Name: squid
+2025/03/23 09:55:59| Process ID 1
+2025/03/23 09:55:59| Process Roles: master worker
+2025/03/23 09:55:59| With 1048576 file descriptors available
+2025/03/23 09:55:59| Initializing IP Cache...
+2025/03/23 09:55:59| DNS Socket created at [::], FD 8
+2025/03/23 09:55:59| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 09:55:59| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 09:55:59| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 09:55:59| Logfile: opening log stdio:/var/log/squid/access.log
+2025/03/23 09:55:59| Unlinkd pipe opened on FD 14
+2025/03/23 09:55:59| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 09:55:59| Store logging disabled
+2025/03/23 09:55:59| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 09:55:59| Target number of buckets: 1402
+2025/03/23 09:55:59| Using 8192 Store buckets
+2025/03/23 09:55:59| Max Mem  size: 262144 KB
+2025/03/23 09:55:59| Max Swap size: 102400 KB
+2025/03/23 09:55:59| ERROR: /var/spool/squid/01: (2) No such file or directory
+2025/03/23 09:55:59| Not currently OK to rewrite swap log.
+2025/03/23 09:55:59| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 09:55:59| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 09:55:59| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.050 seconds = 0.023 user + 0.026 sys
+Maximum Resident Size: 688160 KB
+Page faults with physical i/o: 0
+2025/03/23 09:55:59| Removing PID file (/run/squid.pid)
+2025/03/23 09:56:51| Current Directory is /
+2025/03/23 09:56:51| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 09:56:51| Service Name: squid
+2025/03/23 09:56:51| Process ID 1
+2025/03/23 09:56:51| Process Roles: master worker
+2025/03/23 09:56:51| With 1048576 file descriptors available
+2025/03/23 09:56:51| Initializing IP Cache...
+2025/03/23 09:56:51| DNS Socket created at [::], FD 8
+2025/03/23 09:56:51| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 09:56:51| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 09:56:51| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 09:56:51| Logfile: opening log stdio:/var/log/squid/access.log
+2025/03/23 09:56:51| Unlinkd pipe opened on FD 14
+2025/03/23 09:56:51| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 09:56:51| Store logging disabled
+2025/03/23 09:56:51| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 09:56:51| Target number of buckets: 1402
+2025/03/23 09:56:51| Using 8192 Store buckets
+2025/03/23 09:56:51| Max Mem  size: 262144 KB
+2025/03/23 09:56:51| Max Swap size: 102400 KB
+2025/03/23 09:56:51| ERROR: /var/spool/squid/01: (2) No such file or directory
+2025/03/23 09:56:51| Not currently OK to rewrite swap log.
+2025/03/23 09:56:51| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 09:56:51| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 09:56:51| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.061 seconds = 0.034 user + 0.028 sys
+Maximum Resident Size: 687920 KB
+Page faults with physical i/o: 0
+2025/03/23 09:56:51| Removing PID file (/run/squid.pid)
+2025/03/23 09:57:51| Current Directory is /
+2025/03/23 09:57:51| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 09:57:51| Service Name: squid
+2025/03/23 09:57:51| Process ID 1
+2025/03/23 09:57:51| Process Roles: master worker
+2025/03/23 09:57:51| With 1048576 file descriptors available
+2025/03/23 09:57:51| Initializing IP Cache...
+2025/03/23 09:57:51| DNS Socket created at [::], FD 8
+2025/03/23 09:57:51| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 09:57:51| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 09:57:51| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 09:57:51| Logfile: opening log stdio:/var/log/squid/access.log
+2025/03/23 09:57:52| Unlinkd pipe opened on FD 14
+2025/03/23 09:57:52| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 09:57:52| Store logging disabled
+2025/03/23 09:57:52| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 09:57:52| Target number of buckets: 1402
+2025/03/23 09:57:52| Using 8192 Store buckets
+2025/03/23 09:57:52| Max Mem  size: 262144 KB
+2025/03/23 09:57:52| Max Swap size: 102400 KB
+2025/03/23 09:57:52| ERROR: /var/spool/squid/01: (2) No such file or directory
+2025/03/23 09:57:52| Not currently OK to rewrite swap log.
+2025/03/23 09:57:52| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 09:57:52| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 09:57:52| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.050 seconds = 0.019 user + 0.032 sys
+Maximum Resident Size: 686880 KB
+Page faults with physical i/o: 0
+2025/03/23 09:57:52| Removing PID file (/run/squid.pid)
+2025/03/23 10:01:36| Current Directory is /
+2025/03/23 10:01:36| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 10:01:36| Service Name: squid
+2025/03/23 10:01:36| Process ID 1
+2025/03/23 10:01:36| Process Roles: master worker
+2025/03/23 10:01:36| With 1048576 file descriptors available
+2025/03/23 10:01:36| Initializing IP Cache...
+2025/03/23 10:01:36| DNS Socket created at [::], FD 8
+2025/03/23 10:01:36| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 10:01:36| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 10:01:36| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 10:01:36| Logfile: opening log stdio:/var/log/squid/access.log
+2025/03/23 10:01:36| Unlinkd pipe opened on FD 14
+2025/03/23 10:01:36| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 10:01:36| Store logging disabled
+2025/03/23 10:01:36| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 10:01:36| Target number of buckets: 1402
+2025/03/23 10:01:36| Using 8192 Store buckets
+2025/03/23 10:01:36| Max Mem  size: 262144 KB
+2025/03/23 10:01:36| Max Swap size: 102400 KB
+2025/03/23 10:01:36| ERROR: /var/spool/squid/00: (2) No such file or directory
+2025/03/23 10:01:36| Not currently OK to rewrite swap log.
+2025/03/23 10:01:36| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 10:01:36| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 10:01:36| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.073 seconds = 0.040 user + 0.033 sys
+Maximum Resident Size: 687808 KB
+Page faults with physical i/o: 0
+2025/03/23 10:01:36| Removing PID file (/run/squid.pid)
+2025/03/23 10:04:01| Current Directory is /
+2025/03/23 10:04:01| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 10:04:01| Service Name: squid
+2025/03/23 10:04:01| Process ID 1
+2025/03/23 10:04:01| Process Roles: master worker
+2025/03/23 10:04:01| With 1048576 file descriptors available
+2025/03/23 10:04:01| Initializing IP Cache...
+2025/03/23 10:04:01| DNS Socket created at [::], FD 8
+2025/03/23 10:04:01| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 10:04:01| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 10:04:01| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 10:04:01| Logfile: opening log stdio:/var/log/squid/access.log
+2025/03/23 10:04:01| Unlinkd pipe opened on FD 14
+2025/03/23 10:04:01| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 10:04:01| Store logging disabled
+2025/03/23 10:04:01| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 10:04:01| Target number of buckets: 1402
+2025/03/23 10:04:01| Using 8192 Store buckets
+2025/03/23 10:04:01| Max Mem  size: 262144 KB
+2025/03/23 10:04:01| Max Swap size: 102400 KB
+2025/03/23 10:04:01| ERROR: /var/spool/squid/00: (2) No such file or directory
+2025/03/23 10:04:01| Not currently OK to rewrite swap log.
+2025/03/23 10:04:01| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 10:04:01| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 10:04:01| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.065 seconds = 0.029 user + 0.036 sys
+Maximum Resident Size: 687680 KB
+Page faults with physical i/o: 0
+2025/03/23 10:04:01| Removing PID file (/run/squid.pid)
+2025/03/23 10:31:20| Current Directory is /
+2025/03/23 10:31:20| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 10:31:20| Service Name: squid
+2025/03/23 10:31:20| Process ID 1
+2025/03/23 10:31:20| Process Roles: master worker
+2025/03/23 10:31:20| With 1048576 file descriptors available
+2025/03/23 10:31:20| Initializing IP Cache...
+2025/03/23 10:31:20| DNS Socket created at [::], FD 8
+2025/03/23 10:31:20| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 10:31:20| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 10:31:20| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 10:31:20| Logfile: opening log daemon:/var/log/squid/access.log
+2025/03/23 10:31:20| Logfile Daemon: opening log /var/log/squid/access.log
+2025/03/23 10:31:20| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 10:31:20| Store logging disabled
+2025/03/23 10:31:20| Swap maxSize 0 + 262144 KB, estimated 20164 objects
+2025/03/23 10:31:20| Target number of buckets: 1008
+2025/03/23 10:31:20| Using 8192 Store buckets
+2025/03/23 10:31:20| Max Mem  size: 262144 KB
+2025/03/23 10:31:20| Max Swap size: 0 KB
+2025/03/23 10:31:20| Using Least Load store dir selection
+2025/03/23 10:31:20| Current Directory is /
+2025/03/23 10:31:20| Finished loading MIME types and icons.
+2025/03/23 10:31:20| HTCP Disabled.
+2025/03/23 10:31:20| Pinger socket opened on FD 14
+2025/03/23 10:31:20| Squid plugin modules loaded: 0
+2025/03/23 10:31:20| Adaptation support is off.
+2025/03/23 10:31:20| Accepting HTTP Socket connections at conn3 local=[::]:3128 remote=[::] FD 12 flags=9
+2025/03/23 10:31:20| pinger: Initialising ICMP pinger ...
+2025/03/23 10:31:20| pinger: ICMP socket opened.
+2025/03/23 10:31:20| pinger: ICMPv6 socket opened
+2025/03/23 10:31:21| storeLateRelease: released 0 objects
+2025/03/23 10:35:36| Preparing for shutdown after 6 requests
+2025/03/23 10:35:36| Waiting 30 seconds for active connections to finish
+2025/03/23 10:35:36| Closing HTTP(S) port [::]:3128
+2025/03/23 10:35:36| Closing Pinger socket on FD 14
+2025/03/23 10:35:47| Current Directory is /
+2025/03/23 10:35:47| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 10:35:47| Service Name: squid
+2025/03/23 10:35:47| Process ID 1
+2025/03/23 10:35:47| Process Roles: master worker
+2025/03/23 10:35:47| With 1048576 file descriptors available
+2025/03/23 10:35:47| Initializing IP Cache...
+2025/03/23 10:35:47| DNS Socket created at [::], FD 8
+2025/03/23 10:35:47| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 10:35:47| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 10:35:47| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 10:35:47| Logfile: opening log daemon:/var/log/squid/access.log
+2025/03/23 10:35:47| Logfile Daemon: opening log /var/log/squid/access.log
+2025/03/23 10:35:47| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 10:35:47| Store logging disabled
+2025/03/23 10:35:47| Swap maxSize 0 + 262144 KB, estimated 20164 objects
+2025/03/23 10:35:47| Target number of buckets: 1008
+2025/03/23 10:35:47| Using 8192 Store buckets
+2025/03/23 10:35:47| Max Mem  size: 262144 KB
+2025/03/23 10:35:47| Max Swap size: 0 KB
+2025/03/23 10:35:47| Using Least Load store dir selection
+2025/03/23 10:35:47| Current Directory is /
+2025/03/23 10:35:47| Finished loading MIME types and icons.
+2025/03/23 10:35:47| HTCP Disabled.
+2025/03/23 10:35:47| Pinger socket opened on FD 14
+2025/03/23 10:35:47| Squid plugin modules loaded: 0
+2025/03/23 10:35:47| Adaptation support is off.
+2025/03/23 10:35:47| Accepting HTTP Socket connections at conn3 local=[::]:3128 remote=[::] FD 12 flags=9
+2025/03/23 10:35:47| pinger: Initialising ICMP pinger ...
+2025/03/23 10:35:47| pinger: ICMP socket opened.
+2025/03/23 10:35:47| pinger: ICMPv6 socket opened
+2025/03/23 10:35:48| storeLateRelease: released 0 objects
+2025/03/23 10:35:52| SendEcho ERROR: sending to ICMPv6 packet to [2600:1406:3a00:21::173e:2e65]: (101) Network is unreachable
+2025/03/23 10:35:55| SendEcho ERROR: sending to ICMPv6 packet to [2a00:800:1010::1]: (101) Network is unreachable
+2025/03/23 10:54:29| Preparing for shutdown after 5 requests
+2025/03/23 10:54:29| Waiting 30 seconds for active connections to finish
+2025/03/23 10:54:29| Closing HTTP(S) port [::]:3128
+2025/03/23 10:54:29| Closing Pinger socket on FD 14
+2025/03/23 10:54:40| Set Current Directory to /var/spool/squid
+2025/03/23 10:54:40| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 10:54:40| Service Name: squid
+2025/03/23 10:54:40| Process ID 1
+2025/03/23 10:54:40| Process Roles: master worker
+2025/03/23 10:54:40| With 1048576 file descriptors available
+2025/03/23 10:54:40| Initializing IP Cache...
+2025/03/23 10:54:40| DNS Socket created at [::], FD 8
+2025/03/23 10:54:40| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 10:54:40| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 10:54:40| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 10:54:40| Logfile: opening log /var/log/squid/access.log
+2025/03/23 10:54:40| WARNING: log name now starts with a module name. Use 'stdio:/var/log/squid/access.log'
+2025/03/23 10:54:40| Unlinkd pipe opened on FD 14
+2025/03/23 10:54:40| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 10:54:40| Store logging disabled
+2025/03/23 10:54:40| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 10:54:40| Target number of buckets: 1402
+2025/03/23 10:54:40| Using 8192 Store buckets
+2025/03/23 10:54:40| Max Mem  size: 262144 KB
+2025/03/23 10:54:40| Max Swap size: 102400 KB
+2025/03/23 10:54:40| ERROR: /var/spool/squid/00: (2) No such file or directory
+2025/03/23 10:54:40| Not currently OK to rewrite swap log.
+2025/03/23 10:54:40| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 10:54:40| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 10:54:40| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.056 seconds = 0.026 user + 0.030 sys
+Maximum Resident Size: 686784 KB
+Page faults with physical i/o: 0
+2025/03/23 10:54:40| Removing PID file (/run/squid.pid)
+2025/03/23 10:54:40| Set Current Directory to /var/spool/squid
+2025/03/23 10:54:40| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 10:54:40| Service Name: squid
+2025/03/23 10:54:40| Process ID 1
+2025/03/23 10:54:40| Process Roles: master worker
+2025/03/23 10:54:40| With 1048576 file descriptors available
+2025/03/23 10:54:40| Initializing IP Cache...
+2025/03/23 10:54:40| DNS Socket created at [::], FD 8
+2025/03/23 10:54:40| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 10:54:40| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 10:54:40| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 10:54:40| Logfile: opening log /var/log/squid/access.log
+2025/03/23 10:54:40| WARNING: log name now starts with a module name. Use 'stdio:/var/log/squid/access.log'
+2025/03/23 10:54:41| Unlinkd pipe opened on FD 14
+2025/03/23 10:54:41| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 10:54:41| Store logging disabled
+2025/03/23 10:54:41| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 10:54:41| Target number of buckets: 1402
+2025/03/23 10:54:41| Using 8192 Store buckets
+2025/03/23 10:54:41| Max Mem  size: 262144 KB
+2025/03/23 10:54:41| Max Swap size: 102400 KB
+2025/03/23 10:54:41| ERROR: /var/spool/squid/00: (2) No such file or directory
+2025/03/23 10:54:41| Not currently OK to rewrite swap log.
+2025/03/23 10:54:41| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 10:54:41| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 10:54:41| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.050 seconds = 0.027 user + 0.023 sys
+Maximum Resident Size: 686032 KB
+Page faults with physical i/o: 0
+2025/03/23 10:54:41| Removing PID file (/run/squid.pid)
+2025/03/23 10:54:41| Set Current Directory to /var/spool/squid
+2025/03/23 10:54:41| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 10:54:41| Service Name: squid
+2025/03/23 10:54:41| Process ID 1
+2025/03/23 10:54:41| Process Roles: master worker
+2025/03/23 10:54:41| With 1048576 file descriptors available
+2025/03/23 10:54:41| Initializing IP Cache...
+2025/03/23 10:54:41| DNS Socket created at [::], FD 8
+2025/03/23 10:54:41| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 10:54:41| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 10:54:41| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 10:54:41| Logfile: opening log /var/log/squid/access.log
+2025/03/23 10:54:41| WARNING: log name now starts with a module name. Use 'stdio:/var/log/squid/access.log'
+2025/03/23 10:54:41| Unlinkd pipe opened on FD 14
+2025/03/23 10:54:41| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 10:54:41| Store logging disabled
+2025/03/23 10:54:41| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 10:54:41| Target number of buckets: 1402
+2025/03/23 10:54:41| Using 8192 Store buckets
+2025/03/23 10:54:41| Max Mem  size: 262144 KB
+2025/03/23 10:54:41| Max Swap size: 102400 KB
+2025/03/23 10:54:41| ERROR: /var/spool/squid/00: (2) No such file or directory
+2025/03/23 10:54:41| Not currently OK to rewrite swap log.
+2025/03/23 10:54:41| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 10:54:41| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 10:54:41| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.048 seconds = 0.019 user + 0.028 sys
+Maximum Resident Size: 686784 KB
+Page faults with physical i/o: 0
+2025/03/23 10:54:41| Removing PID file (/run/squid.pid)
+2025/03/23 10:54:42| Set Current Directory to /var/spool/squid
+2025/03/23 10:54:42| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 10:54:42| Service Name: squid
+2025/03/23 10:54:42| Process ID 1
+2025/03/23 10:54:42| Process Roles: master worker
+2025/03/23 10:54:42| With 1048576 file descriptors available
+2025/03/23 10:54:42| Initializing IP Cache...
+2025/03/23 10:54:42| DNS Socket created at [::], FD 8
+2025/03/23 10:54:42| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 10:54:42| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 10:54:42| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 10:54:42| Logfile: opening log /var/log/squid/access.log
+2025/03/23 10:54:42| WARNING: log name now starts with a module name. Use 'stdio:/var/log/squid/access.log'
+2025/03/23 10:54:42| Unlinkd pipe opened on FD 14
+2025/03/23 10:54:42| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 10:54:42| Store logging disabled
+2025/03/23 10:54:42| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 10:54:42| Target number of buckets: 1402
+2025/03/23 10:54:42| Using 8192 Store buckets
+2025/03/23 10:54:42| Max Mem  size: 262144 KB
+2025/03/23 10:54:42| Max Swap size: 102400 KB
+2025/03/23 10:54:42| ERROR: /var/spool/squid/00: (2) No such file or directory
+2025/03/23 10:54:42| Not currently OK to rewrite swap log.
+2025/03/23 10:54:42| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 10:54:42| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 10:54:42| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.047 seconds = 0.023 user + 0.023 sys
+Maximum Resident Size: 687408 KB
+Page faults with physical i/o: 0
+2025/03/23 10:54:42| Removing PID file (/run/squid.pid)
+2025/03/23 10:54:43| Set Current Directory to /var/spool/squid
+2025/03/23 10:54:43| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 10:54:43| Service Name: squid
+2025/03/23 10:54:43| Process ID 1
+2025/03/23 10:54:43| Process Roles: master worker
+2025/03/23 10:54:43| With 1048576 file descriptors available
+2025/03/23 10:54:43| Initializing IP Cache...
+2025/03/23 10:54:43| DNS Socket created at [::], FD 8
+2025/03/23 10:54:43| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 10:54:43| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 10:54:43| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 10:54:43| Logfile: opening log /var/log/squid/access.log
+2025/03/23 10:54:43| WARNING: log name now starts with a module name. Use 'stdio:/var/log/squid/access.log'
+2025/03/23 10:54:43| Unlinkd pipe opened on FD 14
+2025/03/23 10:54:43| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 10:54:43| Store logging disabled
+2025/03/23 10:54:43| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 10:54:43| Target number of buckets: 1402
+2025/03/23 10:54:43| Using 8192 Store buckets
+2025/03/23 10:54:43| Max Mem  size: 262144 KB
+2025/03/23 10:54:43| Max Swap size: 102400 KB
+2025/03/23 10:54:43| ERROR: /var/spool/squid/00: (2) No such file or directory
+2025/03/23 10:54:43| Not currently OK to rewrite swap log.
+2025/03/23 10:54:43| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 10:54:43| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 10:54:43| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.048 seconds = 0.028 user + 0.020 sys
+Maximum Resident Size: 687200 KB
+Page faults with physical i/o: 0
+2025/03/23 10:54:43| Removing PID file (/run/squid.pid)
+2025/03/23 10:54:45| Set Current Directory to /var/spool/squid
+2025/03/23 10:54:45| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 10:54:45| Service Name: squid
+2025/03/23 10:54:45| Process ID 1
+2025/03/23 10:54:45| Process Roles: master worker
+2025/03/23 10:54:45| With 1048576 file descriptors available
+2025/03/23 10:54:45| Initializing IP Cache...
+2025/03/23 10:54:45| DNS Socket created at [::], FD 8
+2025/03/23 10:54:45| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 10:54:45| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 10:54:45| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 10:54:45| Logfile: opening log /var/log/squid/access.log
+2025/03/23 10:54:45| WARNING: log name now starts with a module name. Use 'stdio:/var/log/squid/access.log'
+2025/03/23 10:54:45| Unlinkd pipe opened on FD 14
+2025/03/23 10:54:45| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 10:54:45| Store logging disabled
+2025/03/23 10:54:45| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 10:54:45| Target number of buckets: 1402
+2025/03/23 10:54:45| Using 8192 Store buckets
+2025/03/23 10:54:45| Max Mem  size: 262144 KB
+2025/03/23 10:54:45| Max Swap size: 102400 KB
+2025/03/23 10:54:45| ERROR: /var/spool/squid/00: (2) No such file or directory
+2025/03/23 10:54:45| Not currently OK to rewrite swap log.
+2025/03/23 10:54:45| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 10:54:45| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 10:54:45| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.047 seconds = 0.025 user + 0.022 sys
+Maximum Resident Size: 686560 KB
+Page faults with physical i/o: 0
+2025/03/23 10:54:45| Removing PID file (/run/squid.pid)
+2025/03/23 10:54:49| Set Current Directory to /var/spool/squid
+2025/03/23 10:54:49| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 10:54:49| Service Name: squid
+2025/03/23 10:54:49| Process ID 1
+2025/03/23 10:54:49| Process Roles: master worker
+2025/03/23 10:54:49| With 1048576 file descriptors available
+2025/03/23 10:54:49| Initializing IP Cache...
+2025/03/23 10:54:49| DNS Socket created at [::], FD 8
+2025/03/23 10:54:49| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 10:54:49| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 10:54:49| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 10:54:49| Logfile: opening log /var/log/squid/access.log
+2025/03/23 10:54:49| WARNING: log name now starts with a module name. Use 'stdio:/var/log/squid/access.log'
+2025/03/23 10:54:49| Unlinkd pipe opened on FD 14
+2025/03/23 10:54:49| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 10:54:49| Store logging disabled
+2025/03/23 10:54:49| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 10:54:49| Target number of buckets: 1402
+2025/03/23 10:54:49| Using 8192 Store buckets
+2025/03/23 10:54:49| Max Mem  size: 262144 KB
+2025/03/23 10:54:49| Max Swap size: 102400 KB
+2025/03/23 10:54:49| ERROR: /var/spool/squid/00: (2) No such file or directory
+2025/03/23 10:54:49| Not currently OK to rewrite swap log.
+2025/03/23 10:54:49| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 10:54:49| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 10:54:49| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.045 seconds = 0.024 user + 0.021 sys
+Maximum Resident Size: 687040 KB
+Page faults with physical i/o: 0
+2025/03/23 10:54:49| Removing PID file (/run/squid.pid)
+2025/03/23 10:54:56| Set Current Directory to /var/spool/squid
+2025/03/23 10:54:56| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 10:54:56| Service Name: squid
+2025/03/23 10:54:56| Process ID 1
+2025/03/23 10:54:56| Process Roles: master worker
+2025/03/23 10:54:56| With 1048576 file descriptors available
+2025/03/23 10:54:56| Initializing IP Cache...
+2025/03/23 10:54:56| DNS Socket created at [::], FD 8
+2025/03/23 10:54:56| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 10:54:56| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 10:54:56| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 10:54:56| Logfile: opening log /var/log/squid/access.log
+2025/03/23 10:54:56| WARNING: log name now starts with a module name. Use 'stdio:/var/log/squid/access.log'
+2025/03/23 10:54:56| Unlinkd pipe opened on FD 14
+2025/03/23 10:54:56| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 10:54:56| Store logging disabled
+2025/03/23 10:54:56| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 10:54:56| Target number of buckets: 1402
+2025/03/23 10:54:56| Using 8192 Store buckets
+2025/03/23 10:54:56| Max Mem  size: 262144 KB
+2025/03/23 10:54:56| Max Swap size: 102400 KB
+2025/03/23 10:54:56| ERROR: /var/spool/squid/00: (2) No such file or directory
+2025/03/23 10:54:56| Not currently OK to rewrite swap log.
+2025/03/23 10:54:56| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 10:54:56| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 10:54:56| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.049 seconds = 0.025 user + 0.024 sys
+Maximum Resident Size: 686560 KB
+Page faults with physical i/o: 0
+2025/03/23 10:54:56| Removing PID file (/run/squid.pid)
+2025/03/23 10:55:09| Set Current Directory to /var/spool/squid
+2025/03/23 10:55:09| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 10:55:09| Service Name: squid
+2025/03/23 10:55:09| Process ID 1
+2025/03/23 10:55:09| Process Roles: master worker
+2025/03/23 10:55:09| With 1048576 file descriptors available
+2025/03/23 10:55:09| Initializing IP Cache...
+2025/03/23 10:55:09| DNS Socket created at [::], FD 8
+2025/03/23 10:55:09| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 10:55:09| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 10:55:09| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 10:55:09| Logfile: opening log /var/log/squid/access.log
+2025/03/23 10:55:09| WARNING: log name now starts with a module name. Use 'stdio:/var/log/squid/access.log'
+2025/03/23 10:55:09| Unlinkd pipe opened on FD 14
+2025/03/23 10:55:09| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 10:55:09| Store logging disabled
+2025/03/23 10:55:09| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 10:55:09| Target number of buckets: 1402
+2025/03/23 10:55:09| Using 8192 Store buckets
+2025/03/23 10:55:09| Max Mem  size: 262144 KB
+2025/03/23 10:55:09| Max Swap size: 102400 KB
+2025/03/23 10:55:09| ERROR: /var/spool/squid/00: (2) No such file or directory
+2025/03/23 10:55:09| Not currently OK to rewrite swap log.
+2025/03/23 10:55:09| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 10:55:09| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 10:55:09| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.049 seconds = 0.029 user + 0.021 sys
+Maximum Resident Size: 687424 KB
+Page faults with physical i/o: 0
+2025/03/23 10:55:09| Removing PID file (/run/squid.pid)
+2025/03/23 10:55:35| Current Directory is /
+2025/03/23 10:55:35| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 10:55:35| Service Name: squid
+2025/03/23 10:55:35| Process ID 1
+2025/03/23 10:55:35| Process Roles: master worker
+2025/03/23 10:55:35| With 1048576 file descriptors available
+2025/03/23 10:55:35| Initializing IP Cache...
+2025/03/23 10:55:35| DNS Socket created at [::], FD 8
+2025/03/23 10:55:35| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 10:55:35| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 10:55:35| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 10:55:35| Logfile: opening log daemon:/var/log/squid/access.log
+2025/03/23 10:55:35| Logfile Daemon: opening log /var/log/squid/access.log
+2025/03/23 10:55:35| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 10:55:35| Store logging disabled
+2025/03/23 10:55:35| Swap maxSize 0 + 262144 KB, estimated 20164 objects
+2025/03/23 10:55:35| Target number of buckets: 1008
+2025/03/23 10:55:35| Using 8192 Store buckets
+2025/03/23 10:55:35| Max Mem  size: 262144 KB
+2025/03/23 10:55:35| Max Swap size: 0 KB
+2025/03/23 10:55:35| Using Least Load store dir selection
+2025/03/23 10:55:35| Current Directory is /
+2025/03/23 10:55:35| Finished loading MIME types and icons.
+2025/03/23 10:55:35| HTCP Disabled.
+2025/03/23 10:55:35| Pinger socket opened on FD 14
+2025/03/23 10:55:35| Squid plugin modules loaded: 0
+2025/03/23 10:55:35| Adaptation support is off.
+2025/03/23 10:55:35| Accepting HTTP Socket connections at conn3 local=[::]:3128 remote=[::] FD 12 flags=9
+2025/03/23 10:55:35| pinger: Initialising ICMP pinger ...
+2025/03/23 10:55:35| pinger: ICMP socket opened.
+2025/03/23 10:55:35| pinger: ICMPv6 socket opened
+2025/03/23 10:55:36| storeLateRelease: released 0 objects
+2025/03/23 10:56:19| Preparing for shutdown after 0 requests
+2025/03/23 10:56:19| Waiting 30 seconds for active connections to finish
+2025/03/23 10:56:19| Closing HTTP(S) port [::]:3128
+2025/03/23 10:56:19| Closing Pinger socket on FD 14
+2025/03/23 10:56:29| Set Current Directory to /var/spool/squid
+2025/03/23 10:56:29| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 10:56:29| Service Name: squid
+2025/03/23 10:56:29| Process ID 1
+2025/03/23 10:56:29| Process Roles: master worker
+2025/03/23 10:56:29| With 1048576 file descriptors available
+2025/03/23 10:56:29| Initializing IP Cache...
+2025/03/23 10:56:29| DNS Socket created at [::], FD 8
+2025/03/23 10:56:29| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 10:56:29| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 10:56:29| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 10:56:29| Logfile: opening log stdio:/var/log/squid/access.log
+2025/03/23 10:56:30| Unlinkd pipe opened on FD 14
+2025/03/23 10:56:30| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 10:56:30| Logfile: opening log /var/log/squid/store.log
+2025/03/23 10:56:30| WARNING: log name now starts with a module name. Use 'stdio:/var/log/squid/store.log'
+2025/03/23 10:56:30| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 10:56:30| Target number of buckets: 1402
+2025/03/23 10:56:30| Using 8192 Store buckets
+2025/03/23 10:56:30| Max Mem  size: 262144 KB
+2025/03/23 10:56:30| Max Swap size: 102400 KB
+2025/03/23 10:56:30| ERROR: /var/spool/squid/00: (2) No such file or directory
+2025/03/23 10:56:30| Not currently OK to rewrite swap log.
+2025/03/23 10:56:30| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 10:56:30| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 10:56:30| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.049 seconds = 0.031 user + 0.018 sys
+Maximum Resident Size: 687632 KB
+Page faults with physical i/o: 0
+2025/03/23 10:56:30| Removing PID file (/run/squid.pid)
+2025/03/23 10:56:30| Set Current Directory to /var/spool/squid
+2025/03/23 10:56:30| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 10:56:30| Service Name: squid
+2025/03/23 10:56:30| Process ID 1
+2025/03/23 10:56:30| Process Roles: master worker
+2025/03/23 10:56:30| With 1048576 file descriptors available
+2025/03/23 10:56:30| Initializing IP Cache...
+2025/03/23 10:56:30| DNS Socket created at [::], FD 8
+2025/03/23 10:56:30| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 10:56:30| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 10:56:30| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 10:56:30| Logfile: opening log stdio:/var/log/squid/access.log
+2025/03/23 10:56:30| Unlinkd pipe opened on FD 14
+2025/03/23 10:56:30| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 10:56:30| Logfile: opening log /var/log/squid/store.log
+2025/03/23 10:56:30| WARNING: log name now starts with a module name. Use 'stdio:/var/log/squid/store.log'
+2025/03/23 10:56:30| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 10:56:30| Target number of buckets: 1402
+2025/03/23 10:56:30| Using 8192 Store buckets
+2025/03/23 10:56:30| Max Mem  size: 262144 KB
+2025/03/23 10:56:30| Max Swap size: 102400 KB
+2025/03/23 10:56:30| ERROR: /var/spool/squid/00: (2) No such file or directory
+2025/03/23 10:56:30| Not currently OK to rewrite swap log.
+2025/03/23 10:56:30| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 10:56:30| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 10:56:30| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.046 seconds = 0.021 user + 0.025 sys
+Maximum Resident Size: 686720 KB
+Page faults with physical i/o: 0
+2025/03/23 10:56:30| Removing PID file (/run/squid.pid)
+2025/03/23 10:56:31| Set Current Directory to /var/spool/squid
+2025/03/23 10:56:31| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 10:56:31| Service Name: squid
+2025/03/23 10:56:31| Process ID 1
+2025/03/23 10:56:31| Process Roles: master worker
+2025/03/23 10:56:31| With 1048576 file descriptors available
+2025/03/23 10:56:31| Initializing IP Cache...
+2025/03/23 10:56:31| DNS Socket created at [::], FD 8
+2025/03/23 10:56:31| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 10:56:31| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 10:56:31| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 10:56:31| Logfile: opening log stdio:/var/log/squid/access.log
+2025/03/23 10:56:31| Unlinkd pipe opened on FD 14
+2025/03/23 10:56:31| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 10:56:31| Logfile: opening log /var/log/squid/store.log
+2025/03/23 10:56:31| WARNING: log name now starts with a module name. Use 'stdio:/var/log/squid/store.log'
+2025/03/23 10:56:31| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 10:56:31| Target number of buckets: 1402
+2025/03/23 10:56:31| Using 8192 Store buckets
+2025/03/23 10:56:31| Max Mem  size: 262144 KB
+2025/03/23 10:56:31| Max Swap size: 102400 KB
+2025/03/23 10:56:31| ERROR: /var/spool/squid/00: (2) No such file or directory
+2025/03/23 10:56:31| Not currently OK to rewrite swap log.
+2025/03/23 10:56:31| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 10:56:31| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 10:56:31| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.049 seconds = 0.031 user + 0.018 sys
+Maximum Resident Size: 686544 KB
+Page faults with physical i/o: 0
+2025/03/23 10:56:31| Removing PID file (/run/squid.pid)
+2025/03/23 10:56:32| Set Current Directory to /var/spool/squid
+2025/03/23 10:56:32| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 10:56:32| Service Name: squid
+2025/03/23 10:56:32| Process ID 1
+2025/03/23 10:56:32| Process Roles: master worker
+2025/03/23 10:56:32| With 1048576 file descriptors available
+2025/03/23 10:56:32| Initializing IP Cache...
+2025/03/23 10:56:32| DNS Socket created at [::], FD 8
+2025/03/23 10:56:32| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 10:56:32| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 10:56:32| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 10:56:32| Logfile: opening log stdio:/var/log/squid/access.log
+2025/03/23 10:56:32| Unlinkd pipe opened on FD 14
+2025/03/23 10:56:32| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 10:56:32| Logfile: opening log /var/log/squid/store.log
+2025/03/23 10:56:32| WARNING: log name now starts with a module name. Use 'stdio:/var/log/squid/store.log'
+2025/03/23 10:56:32| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 10:56:32| Target number of buckets: 1402
+2025/03/23 10:56:32| Using 8192 Store buckets
+2025/03/23 10:56:32| Max Mem  size: 262144 KB
+2025/03/23 10:56:32| Max Swap size: 102400 KB
+2025/03/23 10:56:32| ERROR: /var/spool/squid/00: (2) No such file or directory
+2025/03/23 10:56:32| Not currently OK to rewrite swap log.
+2025/03/23 10:56:32| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 10:56:32| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 10:56:32| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.051 seconds = 0.032 user + 0.019 sys
+Maximum Resident Size: 686832 KB
+Page faults with physical i/o: 0
+2025/03/23 10:56:32| Removing PID file (/run/squid.pid)
+2025/03/23 10:56:33| Set Current Directory to /var/spool/squid
+2025/03/23 10:56:33| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 10:56:33| Service Name: squid
+2025/03/23 10:56:33| Process ID 1
+2025/03/23 10:56:33| Process Roles: master worker
+2025/03/23 10:56:33| With 1048576 file descriptors available
+2025/03/23 10:56:33| Initializing IP Cache...
+2025/03/23 10:56:33| DNS Socket created at [::], FD 8
+2025/03/23 10:56:33| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 10:56:33| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 10:56:33| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 10:56:33| Logfile: opening log stdio:/var/log/squid/access.log
+2025/03/23 10:56:33| Unlinkd pipe opened on FD 14
+2025/03/23 10:56:33| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 10:56:33| Logfile: opening log /var/log/squid/store.log
+2025/03/23 10:56:33| WARNING: log name now starts with a module name. Use 'stdio:/var/log/squid/store.log'
+2025/03/23 10:56:33| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 10:56:33| Target number of buckets: 1402
+2025/03/23 10:56:33| Using 8192 Store buckets
+2025/03/23 10:56:33| Max Mem  size: 262144 KB
+2025/03/23 10:56:33| Max Swap size: 102400 KB
+2025/03/23 10:56:33| ERROR: /var/spool/squid/00: (2) No such file or directory
+2025/03/23 10:56:33| Not currently OK to rewrite swap log.
+2025/03/23 10:56:33| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 10:56:33| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 10:56:33| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.054 seconds = 0.026 user + 0.028 sys
+Maximum Resident Size: 686752 KB
+Page faults with physical i/o: 0
+2025/03/23 10:56:33| Removing PID file (/run/squid.pid)
+2025/03/23 10:56:35| Set Current Directory to /var/spool/squid
+2025/03/23 10:56:35| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 10:56:35| Service Name: squid
+2025/03/23 10:56:35| Process ID 1
+2025/03/23 10:56:35| Process Roles: master worker
+2025/03/23 10:56:35| With 1048576 file descriptors available
+2025/03/23 10:56:35| Initializing IP Cache...
+2025/03/23 10:56:35| DNS Socket created at [::], FD 8
+2025/03/23 10:56:35| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 10:56:35| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 10:56:35| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 10:56:35| Logfile: opening log stdio:/var/log/squid/access.log
+2025/03/23 10:56:35| Unlinkd pipe opened on FD 14
+2025/03/23 10:56:35| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 10:56:35| Logfile: opening log /var/log/squid/store.log
+2025/03/23 10:56:35| WARNING: log name now starts with a module name. Use 'stdio:/var/log/squid/store.log'
+2025/03/23 10:56:35| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 10:56:35| Target number of buckets: 1402
+2025/03/23 10:56:35| Using 8192 Store buckets
+2025/03/23 10:56:35| Max Mem  size: 262144 KB
+2025/03/23 10:56:35| Max Swap size: 102400 KB
+2025/03/23 10:56:35| ERROR: /var/spool/squid/00: (2) No such file or directory
+2025/03/23 10:56:35| Not currently OK to rewrite swap log.
+2025/03/23 10:56:35| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 10:56:35| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 10:56:35| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.048 seconds = 0.024 user + 0.024 sys
+Maximum Resident Size: 686800 KB
+Page faults with physical i/o: 0
+2025/03/23 10:56:35| Removing PID file (/run/squid.pid)
+2025/03/23 10:56:38| Set Current Directory to /var/spool/squid
+2025/03/23 10:56:39| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 10:56:39| Service Name: squid
+2025/03/23 10:56:39| Process ID 1
+2025/03/23 10:56:39| Process Roles: master worker
+2025/03/23 10:56:39| With 1048576 file descriptors available
+2025/03/23 10:56:39| Initializing IP Cache...
+2025/03/23 10:56:39| DNS Socket created at [::], FD 8
+2025/03/23 10:56:39| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 10:56:39| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 10:56:39| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 10:56:39| Logfile: opening log stdio:/var/log/squid/access.log
+2025/03/23 10:56:39| Unlinkd pipe opened on FD 14
+2025/03/23 10:56:39| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 10:56:39| Logfile: opening log /var/log/squid/store.log
+2025/03/23 10:56:39| WARNING: log name now starts with a module name. Use 'stdio:/var/log/squid/store.log'
+2025/03/23 10:56:39| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 10:56:39| Target number of buckets: 1402
+2025/03/23 10:56:39| Using 8192 Store buckets
+2025/03/23 10:56:39| Max Mem  size: 262144 KB
+2025/03/23 10:56:39| Max Swap size: 102400 KB
+2025/03/23 10:56:39| ERROR: /var/spool/squid/00: (2) No such file or directory
+2025/03/23 10:56:39| Not currently OK to rewrite swap log.
+2025/03/23 10:56:39| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 10:56:39| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 10:56:39| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.051 seconds = 0.027 user + 0.024 sys
+Maximum Resident Size: 687088 KB
+Page faults with physical i/o: 0
+2025/03/23 10:56:39| Removing PID file (/run/squid.pid)
+2025/03/23 10:56:45| Set Current Directory to /var/spool/squid
+2025/03/23 10:56:45| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 10:56:45| Service Name: squid
+2025/03/23 10:56:45| Process ID 1
+2025/03/23 10:56:45| Process Roles: master worker
+2025/03/23 10:56:45| With 1048576 file descriptors available
+2025/03/23 10:56:45| Initializing IP Cache...
+2025/03/23 10:56:45| DNS Socket created at [::], FD 8
+2025/03/23 10:56:45| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 10:56:45| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 10:56:45| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 10:56:45| Logfile: opening log stdio:/var/log/squid/access.log
+2025/03/23 10:56:46| Unlinkd pipe opened on FD 14
+2025/03/23 10:56:46| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 10:56:46| Logfile: opening log /var/log/squid/store.log
+2025/03/23 10:56:46| WARNING: log name now starts with a module name. Use 'stdio:/var/log/squid/store.log'
+2025/03/23 10:56:46| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 10:56:46| Target number of buckets: 1402
+2025/03/23 10:56:46| Using 8192 Store buckets
+2025/03/23 10:56:46| Max Mem  size: 262144 KB
+2025/03/23 10:56:46| Max Swap size: 102400 KB
+2025/03/23 10:56:46| ERROR: /var/spool/squid/00: (2) No such file or directory
+2025/03/23 10:56:46| Not currently OK to rewrite swap log.
+2025/03/23 10:56:46| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 10:56:46| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 10:56:46| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.047 seconds = 0.030 user + 0.017 sys
+Maximum Resident Size: 685952 KB
+Page faults with physical i/o: 0
+2025/03/23 10:56:46| Removing PID file (/run/squid.pid)
+2025/03/23 10:56:59| Set Current Directory to /var/spool/squid
+2025/03/23 10:56:59| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 10:56:59| Service Name: squid
+2025/03/23 10:56:59| Process ID 1
+2025/03/23 10:56:59| Process Roles: master worker
+2025/03/23 10:56:59| With 1048576 file descriptors available
+2025/03/23 10:56:59| Initializing IP Cache...
+2025/03/23 10:56:59| DNS Socket created at [::], FD 8
+2025/03/23 10:56:59| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 10:56:59| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 10:56:59| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 10:56:59| Logfile: opening log stdio:/var/log/squid/access.log
+2025/03/23 10:56:59| Unlinkd pipe opened on FD 14
+2025/03/23 10:56:59| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 10:56:59| Logfile: opening log /var/log/squid/store.log
+2025/03/23 10:56:59| WARNING: log name now starts with a module name. Use 'stdio:/var/log/squid/store.log'
+2025/03/23 10:56:59| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 10:56:59| Target number of buckets: 1402
+2025/03/23 10:56:59| Using 8192 Store buckets
+2025/03/23 10:56:59| Max Mem  size: 262144 KB
+2025/03/23 10:56:59| Max Swap size: 102400 KB
+2025/03/23 10:56:59| ERROR: /var/spool/squid/00: (2) No such file or directory
+2025/03/23 10:56:59| Not currently OK to rewrite swap log.
+2025/03/23 10:56:59| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 10:56:59| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 10:56:59| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.051 seconds = 0.029 user + 0.022 sys
+Maximum Resident Size: 687584 KB
+Page faults with physical i/o: 0
+2025/03/23 10:56:59| Removing PID file (/run/squid.pid)
+2025/03/23 10:57:25| Set Current Directory to /var/spool/squid
+2025/03/23 10:57:25| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 10:57:25| Service Name: squid
+2025/03/23 10:57:25| Process ID 1
+2025/03/23 10:57:25| Process Roles: master worker
+2025/03/23 10:57:25| With 1048576 file descriptors available
+2025/03/23 10:57:25| Initializing IP Cache...
+2025/03/23 10:57:25| DNS Socket created at [::], FD 8
+2025/03/23 10:57:25| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 10:57:25| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 10:57:25| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 10:57:25| Logfile: opening log stdio:/var/log/squid/access.log
+2025/03/23 10:57:25| Unlinkd pipe opened on FD 14
+2025/03/23 10:57:25| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 10:57:25| Logfile: opening log /var/log/squid/store.log
+2025/03/23 10:57:25| WARNING: log name now starts with a module name. Use 'stdio:/var/log/squid/store.log'
+2025/03/23 10:57:25| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2025/03/23 10:57:25| Target number of buckets: 1402
+2025/03/23 10:57:25| Using 8192 Store buckets
+2025/03/23 10:57:25| Max Mem  size: 262144 KB
+2025/03/23 10:57:25| Max Swap size: 102400 KB
+2025/03/23 10:57:25| ERROR: /var/spool/squid/00: (2) No such file or directory
+2025/03/23 10:57:25| Not currently OK to rewrite swap log.
+2025/03/23 10:57:25| storeDirWriteCleanLogs: Operation aborted.
+2025/03/23 10:57:25| FATAL: 	Failed to verify one of the swap directories, Check cache.log
+	for details.  Run 'squid -z' to create swap directories
+	if needed, or if running Squid for the first time.
+2025/03/23 10:57:25| Squid Cache (Version 5.9): Terminated abnormally.
+CPU Usage: 0.050 seconds = 0.023 user + 0.027 sys
+Maximum Resident Size: 687376 KB
+Page faults with physical i/o: 0
+2025/03/23 10:57:25| Removing PID file (/run/squid.pid)
+2025/03/23 10:58:12| Current Directory is /
+2025/03/23 10:58:12| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 10:58:12| Service Name: squid
+2025/03/23 10:58:12| Process ID 1
+2025/03/23 10:58:12| Process Roles: master worker
+2025/03/23 10:58:12| With 1048576 file descriptors available
+2025/03/23 10:58:12| Initializing IP Cache...
+2025/03/23 10:58:12| DNS Socket created at [::], FD 8
+2025/03/23 10:58:12| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 10:58:12| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 10:58:12| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 10:58:12| Logfile: opening log daemon:/var/log/squid/access.log
+2025/03/23 10:58:12| Logfile Daemon: opening log /var/log/squid/access.log
+2025/03/23 10:58:12| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 10:58:12| Store logging disabled
+2025/03/23 10:58:12| Swap maxSize 0 + 262144 KB, estimated 20164 objects
+2025/03/23 10:58:12| Target number of buckets: 1008
+2025/03/23 10:58:12| Using 8192 Store buckets
+2025/03/23 10:58:12| Max Mem  size: 262144 KB
+2025/03/23 10:58:12| Max Swap size: 0 KB
+2025/03/23 10:58:12| Using Least Load store dir selection
+2025/03/23 10:58:12| Current Directory is /
+2025/03/23 10:58:12| Finished loading MIME types and icons.
+2025/03/23 10:58:12| HTCP Disabled.
+2025/03/23 10:58:12| Pinger socket opened on FD 14
+2025/03/23 10:58:12| Squid plugin modules loaded: 0
+2025/03/23 10:58:12| Adaptation support is off.
+2025/03/23 10:58:12| Accepting HTTP Socket connections at conn3 local=[::]:3128 remote=[::] FD 12 flags=9
+2025/03/23 10:58:12| pinger: Initialising ICMP pinger ...
+2025/03/23 10:58:12| pinger: ICMP socket opened.
+2025/03/23 10:58:12| pinger: ICMPv6 socket opened
+2025/03/23 10:58:13| storeLateRelease: released 0 objects
+2025/03/23 10:58:17| SendEcho ERROR: sending to ICMPv6 packet to [2a00:800:1010::1]: (101) Network is unreachable
+2025/03/23 11:55:50| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/03/23 11:55:50| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/03/23 11:55:50| NETDB state saved; 2 entries, 2 msec
+2025/03/23 13:20:17| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/03/23 13:20:17| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/03/23 13:20:17| NETDB state saved; 2 entries, 4 msec
+2025/03/23 14:07:49| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/03/23 14:07:49| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/03/23 14:07:49| NETDB state saved; 2 entries, 3 msec
+2025/03/23 15:29:34| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/03/23 15:29:34| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/03/23 15:29:34| NETDB state saved; 2 entries, 3 msec
+2025/03/23 16:44:07| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/03/23 16:44:07| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/03/23 16:44:07| NETDB state saved; 2 entries, 2 msec
+2025/03/23 16:52:26| Preparing for shutdown after 6 requests
+2025/03/23 16:52:26| Waiting 30 seconds for active connections to finish
+2025/03/23 16:52:26| Closing HTTP(S) port [::]:3128
+2025/03/23 16:52:26| Closing Pinger socket on FD 14
+2025/03/23 16:52:30| Pinger exiting.
+2025/03/23 16:57:23| Current Directory is /
+2025/03/23 16:57:23| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 16:57:23| Service Name: squid
+2025/03/23 16:57:23| Process ID 1
+2025/03/23 16:57:23| Process Roles: master worker
+2025/03/23 16:57:23| With 1048576 file descriptors available
+2025/03/23 16:57:23| Initializing IP Cache...
+2025/03/23 16:57:23| DNS Socket created at [::], FD 8
+2025/03/23 16:57:23| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 16:57:23| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 16:57:23| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 16:57:23| Logfile: opening log daemon:/var/log/squid/access.log
+2025/03/23 16:57:23| Logfile Daemon: opening log /var/log/squid/access.log
+2025/03/23 16:57:23| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 16:57:23| Store logging disabled
+2025/03/23 16:57:23| Swap maxSize 0 + 262144 KB, estimated 20164 objects
+2025/03/23 16:57:23| Target number of buckets: 1008
+2025/03/23 16:57:23| Using 8192 Store buckets
+2025/03/23 16:57:23| Max Mem  size: 262144 KB
+2025/03/23 16:57:23| Max Swap size: 0 KB
+2025/03/23 16:57:23| Using Least Load store dir selection
+2025/03/23 16:57:23| Current Directory is /
+2025/03/23 16:57:23| Finished loading MIME types and icons.
+2025/03/23 16:57:23| HTCP Disabled.
+2025/03/23 16:57:23| Pinger socket opened on FD 14
+2025/03/23 16:57:23| Squid plugin modules loaded: 0
+2025/03/23 16:57:23| Adaptation support is off.
+2025/03/23 16:57:23| Accepting HTTP Socket connections at conn3 local=[::]:3128 remote=[::] FD 12 flags=9
+2025/03/23 16:57:23| pinger: Initialising ICMP pinger ...
+2025/03/23 16:57:23| pinger: ICMP socket opened.
+2025/03/23 16:57:23| pinger: ICMPv6 socket opened
+2025/03/23 16:57:24| storeLateRelease: released 0 objects
+2025/03/23 17:00:45| Preparing for shutdown after 0 requests
+2025/03/23 17:00:45| Waiting 30 seconds for active connections to finish
+2025/03/23 17:00:45| Closing HTTP(S) port [::]:3128
+2025/03/23 17:00:45| Closing Pinger socket on FD 14
+2025/03/23 17:00:54| Pinger exiting.
+2025/03/23 17:01:59| Current Directory is /
+2025/03/23 17:02:00| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 17:02:00| Service Name: squid
+2025/03/23 17:02:00| Process ID 1
+2025/03/23 17:02:00| Process Roles: master worker
+2025/03/23 17:02:00| With 1048576 file descriptors available
+2025/03/23 17:02:00| Initializing IP Cache...
+2025/03/23 17:02:00| DNS Socket created at [::], FD 8
+2025/03/23 17:02:00| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 17:02:00| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 17:02:00| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 17:02:00| Logfile: opening log daemon:/var/log/squid/access.log
+2025/03/23 17:02:00| Logfile Daemon: opening log /var/log/squid/access.log
+2025/03/23 17:02:00| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 17:02:00| Store logging disabled
+2025/03/23 17:02:00| Swap maxSize 0 + 262144 KB, estimated 20164 objects
+2025/03/23 17:02:00| Target number of buckets: 1008
+2025/03/23 17:02:00| Using 8192 Store buckets
+2025/03/23 17:02:00| Max Mem  size: 262144 KB
+2025/03/23 17:02:00| Max Swap size: 0 KB
+2025/03/23 17:02:00| Using Least Load store dir selection
+2025/03/23 17:02:00| Current Directory is /
+2025/03/23 17:02:00| Finished loading MIME types and icons.
+2025/03/23 17:02:00| HTCP Disabled.
+2025/03/23 17:02:00| Pinger socket opened on FD 14
+2025/03/23 17:02:00| Squid plugin modules loaded: 0
+2025/03/23 17:02:00| Adaptation support is off.
+2025/03/23 17:02:00| Accepting HTTP Socket connections at conn3 local=[::]:3128 remote=[::] FD 12 flags=9
+2025/03/23 17:02:00| pinger: Initialising ICMP pinger ...
+2025/03/23 17:02:00| pinger: ICMP socket opened.
+2025/03/23 17:02:00| pinger: ICMPv6 socket opened
+2025/03/23 17:02:01| storeLateRelease: released 0 objects
+2025/03/23 17:09:07| Preparing for shutdown after 0 requests
+2025/03/23 17:09:07| Waiting 30 seconds for active connections to finish
+2025/03/23 17:09:07| Closing HTTP(S) port [::]:3128
+2025/03/23 17:09:07| Closing Pinger socket on FD 14
+2025/03/23 17:09:30| Current Directory is /
+2025/03/23 17:09:30| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 17:09:30| Service Name: squid
+2025/03/23 17:09:30| Process ID 1
+2025/03/23 17:09:30| Process Roles: master worker
+2025/03/23 17:09:30| With 1048576 file descriptors available
+2025/03/23 17:09:30| Initializing IP Cache...
+2025/03/23 17:09:30| DNS Socket created at [::], FD 8
+2025/03/23 17:09:30| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 17:09:30| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 17:09:30| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 17:09:30| Logfile: opening log daemon:/var/log/squid/access.log
+2025/03/23 17:09:30| Logfile Daemon: opening log /var/log/squid/access.log
+2025/03/23 17:09:30| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 17:09:30| Store logging disabled
+2025/03/23 17:09:30| Swap maxSize 0 + 262144 KB, estimated 20164 objects
+2025/03/23 17:09:30| Target number of buckets: 1008
+2025/03/23 17:09:30| Using 8192 Store buckets
+2025/03/23 17:09:30| Max Mem  size: 262144 KB
+2025/03/23 17:09:30| Max Swap size: 0 KB
+2025/03/23 17:09:30| Using Least Load store dir selection
+2025/03/23 17:09:30| Current Directory is /
+2025/03/23 17:09:30| Finished loading MIME types and icons.
+2025/03/23 17:09:30| HTCP Disabled.
+2025/03/23 17:09:30| Pinger socket opened on FD 14
+2025/03/23 17:09:30| Squid plugin modules loaded: 0
+2025/03/23 17:09:30| Adaptation support is off.
+2025/03/23 17:09:30| Accepting HTTP Socket connections at conn3 local=[::]:3128 remote=[::] FD 12 flags=9
+2025/03/23 17:09:30| pinger: Initialising ICMP pinger ...
+2025/03/23 17:09:30| pinger: ICMP socket opened.
+2025/03/23 17:09:30| pinger: ICMPv6 socket opened
+2025/03/23 17:09:31| storeLateRelease: released 0 objects
+2025/03/23 17:09:46| Preparing for shutdown after 0 requests
+2025/03/23 17:09:46| Waiting 30 seconds for active connections to finish
+2025/03/23 17:09:46| Closing HTTP(S) port [::]:3128
+2025/03/23 17:09:46| Closing Pinger socket on FD 14
+2025/03/23 17:09:50| Pinger exiting.
+2025/03/23 17:10:03| Current Directory is /
+2025/03/23 17:10:03| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 17:10:03| Service Name: squid
+2025/03/23 17:10:03| Process ID 1
+2025/03/23 17:10:03| Process Roles: master worker
+2025/03/23 17:10:03| With 1048576 file descriptors available
+2025/03/23 17:10:03| Initializing IP Cache...
+2025/03/23 17:10:03| DNS Socket created at [::], FD 8
+2025/03/23 17:10:03| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 17:10:03| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 17:10:03| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 17:10:03| Logfile: opening log daemon:/var/log/squid/access.log
+2025/03/23 17:10:03| Logfile Daemon: opening log /var/log/squid/access.log
+2025/03/23 17:10:03| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 17:10:03| Store logging disabled
+2025/03/23 17:10:03| Swap maxSize 0 + 262144 KB, estimated 20164 objects
+2025/03/23 17:10:03| Target number of buckets: 1008
+2025/03/23 17:10:03| Using 8192 Store buckets
+2025/03/23 17:10:03| Max Mem  size: 262144 KB
+2025/03/23 17:10:03| Max Swap size: 0 KB
+2025/03/23 17:10:03| Using Least Load store dir selection
+2025/03/23 17:10:03| Current Directory is /
+2025/03/23 17:10:03| Finished loading MIME types and icons.
+2025/03/23 17:10:03| HTCP Disabled.
+2025/03/23 17:10:03| Pinger socket opened on FD 14
+2025/03/23 17:10:03| Squid plugin modules loaded: 0
+2025/03/23 17:10:03| Adaptation support is off.
+2025/03/23 17:10:03| Accepting HTTP Socket connections at conn3 local=[::]:3128 remote=[::] FD 12 flags=9
+2025/03/23 17:10:03| pinger: Initialising ICMP pinger ...
+2025/03/23 17:10:03| pinger: ICMP socket opened.
+2025/03/23 17:10:03| pinger: ICMPv6 socket opened
+2025/03/23 17:10:04| storeLateRelease: released 0 objects
+2025/03/23 17:11:08| Preparing for shutdown after 0 requests
+2025/03/23 17:11:08| Waiting 30 seconds for active connections to finish
+2025/03/23 17:11:08| Closing HTTP(S) port [::]:3128
+2025/03/23 17:11:08| Closing Pinger socket on FD 14
+2025/03/23 17:12:07| Current Directory is /
+2025/03/23 17:12:07| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 17:12:07| Service Name: squid
+2025/03/23 17:12:07| Process ID 1
+2025/03/23 17:12:07| Process Roles: master worker
+2025/03/23 17:12:07| With 1048576 file descriptors available
+2025/03/23 17:12:07| Initializing IP Cache...
+2025/03/23 17:12:07| DNS Socket created at [::], FD 8
+2025/03/23 17:12:07| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 17:12:07| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 17:12:07| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 17:12:07| Logfile: opening log daemon:/var/log/squid/access.log
+2025/03/23 17:12:07| Logfile Daemon: opening log /var/log/squid/access.log
+2025/03/23 17:12:07| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 17:12:07| Store logging disabled
+2025/03/23 17:12:07| Swap maxSize 0 + 262144 KB, estimated 20164 objects
+2025/03/23 17:12:07| Target number of buckets: 1008
+2025/03/23 17:12:07| Using 8192 Store buckets
+2025/03/23 17:12:07| Max Mem  size: 262144 KB
+2025/03/23 17:12:07| Max Swap size: 0 KB
+2025/03/23 17:12:07| Using Least Load store dir selection
+2025/03/23 17:12:07| Current Directory is /
+2025/03/23 17:12:07| Finished loading MIME types and icons.
+2025/03/23 17:12:07| HTCP Disabled.
+2025/03/23 17:12:07| Pinger socket opened on FD 14
+2025/03/23 17:12:07| Squid plugin modules loaded: 0
+2025/03/23 17:12:07| Adaptation support is off.
+2025/03/23 17:12:07| Accepting HTTP Socket connections at conn3 local=[::]:3128 remote=[::] FD 12 flags=9
+2025/03/23 17:12:07| pinger: Initialising ICMP pinger ...
+2025/03/23 17:12:07| pinger: ICMP socket opened.
+2025/03/23 17:12:07| pinger: ICMPv6 socket opened
+2025/03/23 17:12:08| storeLateRelease: released 0 objects
+2025/03/23 17:16:51| Preparing for shutdown after 0 requests
+2025/03/23 17:16:51| Waiting 30 seconds for active connections to finish
+2025/03/23 17:16:51| Closing HTTP(S) port [::]:3128
+2025/03/23 17:16:51| Closing Pinger socket on FD 14
+2025/03/23 17:17:50| Current Directory is /
+2025/03/23 17:17:50| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/23 17:17:50| Service Name: squid
+2025/03/23 17:17:50| Process ID 1
+2025/03/23 17:17:50| Process Roles: master worker
+2025/03/23 17:17:50| With 1048576 file descriptors available
+2025/03/23 17:17:50| Initializing IP Cache...
+2025/03/23 17:17:50| DNS Socket created at [::], FD 8
+2025/03/23 17:17:50| DNS Socket created at 0.0.0.0, FD 9
+2025/03/23 17:17:50| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/23 17:17:50| Adding ndots 1 from /etc/resolv.conf
+2025/03/23 17:17:50| Logfile: opening log daemon:/var/log/squid/access.log
+2025/03/23 17:17:50| Logfile Daemon: opening log /var/log/squid/access.log
+2025/03/23 17:17:50| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/23 17:17:50| Store logging disabled
+2025/03/23 17:17:50| Swap maxSize 0 + 262144 KB, estimated 20164 objects
+2025/03/23 17:17:50| Target number of buckets: 1008
+2025/03/23 17:17:50| Using 8192 Store buckets
+2025/03/23 17:17:50| Max Mem  size: 262144 KB
+2025/03/23 17:17:50| Max Swap size: 0 KB
+2025/03/23 17:17:50| Using Least Load store dir selection
+2025/03/23 17:17:50| Current Directory is /
+2025/03/23 17:17:50| Finished loading MIME types and icons.
+2025/03/23 17:17:50| HTCP Disabled.
+2025/03/23 17:17:50| Pinger socket opened on FD 14
+2025/03/23 17:17:50| Squid plugin modules loaded: 0
+2025/03/23 17:17:50| Adaptation support is off.
+2025/03/23 17:17:50| Accepting HTTP Socket connections at conn3 local=[::]:3128 remote=[::] FD 12 flags=9
+2025/03/23 17:17:50| pinger: Initialising ICMP pinger ...
+2025/03/23 17:17:50| pinger: ICMP socket opened.
+2025/03/23 17:17:50| pinger: ICMPv6 socket opened
+2025/03/23 17:17:51| storeLateRelease: released 0 objects
+2025/03/26 16:50:07| Current Directory is /
+2025/03/26 16:50:08| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/03/26 16:50:08| Service Name: squid
+2025/03/26 16:50:08| Process ID 1
+2025/03/26 16:50:08| Process Roles: master worker
+2025/03/26 16:50:08| With 1048576 file descriptors available
+2025/03/26 16:50:08| Initializing IP Cache...
+2025/03/26 16:50:08| DNS Socket created at [::], FD 8
+2025/03/26 16:50:08| DNS Socket created at 0.0.0.0, FD 9
+2025/03/26 16:50:08| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2025/03/26 16:50:08| Adding ndots 1 from /etc/resolv.conf
+2025/03/26 16:50:08| Logfile: opening log daemon:/var/log/squid/access.log
+2025/03/26 16:50:08| Logfile Daemon: opening log /var/log/squid/access.log
+2025/03/26 16:50:08| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/03/26 16:50:08| Store logging disabled
+2025/03/26 16:50:08| Swap maxSize 0 + 262144 KB, estimated 20164 objects
+2025/03/26 16:50:08| Target number of buckets: 1008
+2025/03/26 16:50:08| Using 8192 Store buckets
+2025/03/26 16:50:08| Max Mem  size: 262144 KB
+2025/03/26 16:50:08| Max Swap size: 0 KB
+2025/03/26 16:50:08| Using Least Load store dir selection
+2025/03/26 16:50:08| Current Directory is /
+2025/03/26 16:50:08| Finished loading MIME types and icons.
+2025/03/26 16:50:08| HTCP Disabled.
+2025/03/26 16:50:08| Pinger socket opened on FD 14
+2025/03/26 16:50:08| Squid plugin modules loaded: 0
+2025/03/26 16:50:08| Adaptation support is off.
+2025/03/26 16:50:08| Accepting HTTP Socket connections at conn3 local=[::]:3128 remote=[::] FD 12 flags=9
+2025/03/26 16:50:08| pinger: Initialising ICMP pinger ...
+2025/03/26 16:50:08| pinger: ICMP socket opened.
+2025/03/26 16:50:08| pinger: ICMPv6 socket opened
+2025/03/26 16:50:09| storeLateRelease: released 0 objects
+2025/03/26 17:27:09| Preparing for shutdown after 0 requests
+2025/03/26 17:27:09| Waiting 30 seconds for active connections to finish
+2025/03/26 17:27:09| Closing HTTP(S) port [::]:3128
+2025/03/26 17:27:09| Closing Pinger socket on FD 14
+2025/03/26 17:27:10| Pinger exiting.

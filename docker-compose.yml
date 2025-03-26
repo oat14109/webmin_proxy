@@ -1,0 +1,51 @@
+version: '3.8'
+
+services:
+  # squid:
+  #   build: .
+  #   container_name: squid-proxy
+  #   ports:
+  #     - "3128:3128"
+  #   command: [ "squid", "-N", "-d", "1" ]
+  #   volumes:
+  #     - ./squid-config/squid.conf:/etc/squid/squid.conf
+  #     - squid-cache:/var/spool/squid
+  #     # - squid-logs:/var/log/squid
+  #     - ./logs:/var/log/squid        # <-- เพิ่มให้ log อยู่ใน ./logs
+  #   restart: unless-stopped
+  #   networks:
+  #     - proxy-net
+
+  fail2ban:
+    image: crazymax/fail2ban:latest
+    container_name: fail2ban
+    privileged: true  # จำเป็นสำหรับ iptables access
+    network_mode: "host"
+    volumes:
+      - ./fail2ban-config:/data
+      - ./logs:/var/log/squid:ro
+      - /etc/fail2ban:/etc/fail2ban
+    restart: always
+
+    
+  webmin:
+    build: ./webmin-docker
+    container_name: webmin
+    ports:
+      - "10000:10000"
+      - "3128:3128"
+    volumes:
+      - ./logs:/var/log/squid:ro
+      - squid-cache:/var/spool/squid:ro
+      - ./squid-config/squid.conf:/etc/squid/squid.conf
+    restart: unless-stopped
+    networks:
+      - proxy-net
+
+
+volumes:
+  squid-cache:
+
+networks:
+  proxy-net:
+    driver: bridge
