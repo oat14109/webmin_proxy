@@ -1,0 +1,22 @@
+[DEFAULT]
+bantime = 3600
+findtime = 300
+maxretry = 5
+backend = auto
+banaction = iptables-multiport
+usedns = warn
+
+[squid]
+enabled  = true
+port     = 3128
+filter   = squid
+logpath  = /var/log/squid/access.log
+backend  = auto
+
+[webmin-auth]
+enabled = true
+port = 10000
+filter = webmin-auth
+logpath = /var/log/auth.log
+maxretry = 4
+bantime  = 600
