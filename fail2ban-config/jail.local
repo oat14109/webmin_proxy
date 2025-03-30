@@ -11,12 +11,12 @@ enabled  = true
 port     = 3128
 filter   = squid
 logpath  = /var/log/squid/access.log
-backend  = auto
+maxretry = 5
 
 [webmin-auth]
-enabled = true
+enabled  = true
 port = 10000
 filter = webmin-auth
-logpath = /var/log/auth.log
+logpath = /var/log/auth.log  ; หรือ /var/webmin/miniserv.log ถ้า Webmin เขียน log ตรงนี้
 maxretry = 4
 bantime  = 600

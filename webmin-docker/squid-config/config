@@ -1,0 +1,6 @@
+squid_path=/etc/squid/squid.conf
+apply_cmd=squid -k reconfigure
+start_cmd=service squid start
+stop_cmd=service squid stop
+pid_file=/run/squid.pid
+status_cmd=ps aux | grep [s]quid

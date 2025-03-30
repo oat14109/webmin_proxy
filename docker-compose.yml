@@ -20,24 +20,31 @@ services:
     image: crazymax/fail2ban:latest
     container_name: fail2ban
     privileged: true  # จำเป็นสำหรับ iptables access
-    network_mode: "host"
+    # network_mode: "host"
+    networks:
+      - proxy-net
     volumes:
+      # โฟลเดอร์ config ทั้งหมด
       - ./fail2ban-config:/data
+      # ตรงนี้ read-only ให้ Fail2ban แค่ดู log
+      # แต่ถ้าอยากดู log อื่นด้วยก็อาจ mount เพิ่ม
       - ./logs:/var/log/squid:ro
-      - /etc/fail2ban:/etc/fail2ban
+      # ไม่ต้อง mount /etc/fail2ban ซ้ำ ถ้าโฮสต์ไม่มีไฟล์ fail2ban ติดตั้ง
+      # - /etc/fail2ban:/etc/fail2ban
     restart: always
 
     
   webmin:
     build: ./webmin-docker
     container_name: webmin
+    # network_mode: "host"
     ports:
       - "10000:10000"
       - "3128:3128"
     volumes:
-      - ./logs:/var/log/squid:ro
-      - squid-cache:/var/spool/squid:ro
-      - ./squid-config/squid.conf:/etc/squid/squid.conf
+      - ./logs:/var/log/squid
+      - squid-cache:/var/spool/squid
+      - ./squid-config/squid.conf:/etc/squid/squid.conf:rw
     restart: unless-stopped
     networks:
       - proxy-net
@@ -47,5 +54,5 @@ volumes:
   squid-cache:
 
 networks:
-  proxy-net:
-    driver: bridge
+   proxy-net:
+     driver: bridge
