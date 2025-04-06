@@ -83,7 +83,6 @@ RUN apt-get update && apt-get install -y \
     iproute2 \
     squid \
     systemd \
-    systemd-cron \
     cron \
     fail2ban \
     && rm -rf /var/lib/apt/lists/*
