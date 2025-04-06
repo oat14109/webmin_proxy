@@ -84,6 +84,8 @@ RUN apt-get update && apt-get install -y \
     squid \
     systemd \
     systemd-cron \
+    cron \
+    fail2ban \
     && rm -rf /var/lib/apt/lists/*
 
 # ติดตั้ง Webmin
@@ -101,7 +103,7 @@ RUN chmod +x /run.sh
 
 
 # # ✅ คัดลอก Webmin squid config ล่วงหน้า
-# COPY squid-config/config /etc/webmin/squid/config
+COPY squid-config/config /etc/webmin/squid/config
 
 # เปิด port 10000 (Webmin) และ 3128 (Squid)
 EXPOSE 10000 3128
