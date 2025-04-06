@@ -85,6 +85,9 @@ RUN apt-get update && apt-get install -y \
     systemd \
     cron \
     fail2ban \
+    python3 \
+    python3-pip \
+    supervisor \
     && rm -rf /var/lib/apt/lists/*
 
 # ติดตั้ง Webmin
@@ -101,8 +104,11 @@ COPY run.sh /run.sh
 RUN chmod +x /run.sh
 
 
-# # ✅ คัดลอก Webmin squid config ล่วงหน้า
+# ✅ คัดลอก Webmin squid config ล่วงหน้า
 COPY squid-config/config /etc/webmin/squid/config
+
+# คัดลอก config supervisor
+# COPY supervisord.conf /etc/supervisord.conf
 
 # เปิด port 10000 (Webmin) และ 3128 (Squid)
 EXPOSE 10000 3128
@@ -110,3 +116,4 @@ EXPOSE 10000 3128
 # เมื่อ container เริ่ม ให้รัน /run.sh
 CMD ["/run.sh"]
 
+# CMD ["supervisord", "-c", "/etc/supervisord.conf"]
