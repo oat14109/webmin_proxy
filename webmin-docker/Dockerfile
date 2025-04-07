@@ -82,9 +82,12 @@ RUN apt-get update && apt-get install -y \
     net-tools \
     iproute2 \
     squid \
+    squid-cgi \
     systemd \
     cron \
     fail2ban \
+    iptables \
+    nftables \
     python3 \
     python3-pip \
     supervisor \

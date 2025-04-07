@@ -42,6 +42,9 @@ services:
     ports:
       - "10000:10000"
       - "3128:3128"
+    cap_add:
+      - NET_ADMIN
+      - NET_RAW
     volumes:
       - ./logs/webmin:/var/webmin
       - ./logs:/var/log/squid

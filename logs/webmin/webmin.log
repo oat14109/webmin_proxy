@@ -3,3 +3,7 @@
 1743994665.214.0 [07/Apr/2025 02:57:45] root 666b65c780f2ef663e877ff247ef83be 192.168.65.1 fail2ban restart.cgi "restart" "-" "-"
 1743994673.217.0 [07/Apr/2025 02:57:53] root 666b65c780f2ef663e877ff247ef83be 192.168.65.1 fail2ban stop.cgi "stop" "-" "-"
 1743994675.509.0 [07/Apr/2025 02:57:55] root 666b65c780f2ef663e877ff247ef83be 192.168.65.1 fail2ban start.cgi "start" "-" "-"
+1743994865.173.0 [07/Apr/2025 03:01:05] root 666b65c780f2ef663e877ff247ef83be 192.168.65.1 fail2ban start.cgi "start" "-" "-"
+1744032600.19483.0 [07/Apr/2025 13:30:00] root 666b65c780f2ef663e877ff247ef83be 192.168.65.1 squid restart.cgi "apply" "-" "-"
+1744043608.25594.0 [07/Apr/2025 16:33:28] root 666b65c780f2ef663e877ff247ef83be 192.168.65.1 firewall apply.cgi "apply" "-" "-"
+1744044764.162.0 [07/Apr/2025 16:52:44] root 666b65c780f2ef663e877ff247ef83be 192.168.65.1 squid restart.cgi "apply" "-" "-"

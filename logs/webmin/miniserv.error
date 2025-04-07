@@ -26,3 +26,77 @@ sh: 1: cannot create /var/webmin/modules/authentic-theme/stats-server-555.log: D
 [07/Apr/2025:02:57:27 +0000] Reloading configuration
 [07/Apr/2025:02:57:28 +0000] [192.168.65.1] /stats.cgi : Failed to open /etc/webmin/authentic-theme/stats.pl for writing : No such file or directory
 [07/Apr/2025:02:57:34 +0000] Reloading configuration
+[07/Apr/2025:03:00:32 +0000] miniserv.pl started
+[07/Apr/2025:03:00:32 +0000] IPv6 support enabled
+[07/Apr/2025:03:00:32 +0000] Using MD5 module Digest::MD5
+[07/Apr/2025:03:00:32 +0000] Using SHA512 module Crypt::SHA
+[07/Apr/2025:03:00:32 +0000] PAM authentication enabled
+[07/Apr/2025:03:00:33 +0000] Reloading configuration
+[07/Apr/2025:03:00:34 +0000] [192.168.65.1] /stats.cgi : Failed to open /etc/webmin/authentic-theme/stats.pl for writing : No such file or directory
+[07/Apr/2025:03:00:39 +0000] Reloading configuration
+[07/Apr/2025:03:00:40 +0000] [192.168.65.1] /stats.cgi : Failed to open /etc/webmin/authentic-theme/stats.pl for writing : No such file or directory
+[07/Apr/2025:03:00:46 +0000] Reloading configuration
+[07/Apr/2025:03:00:47 +0000] [192.168.65.1] /stats.cgi : Failed to open /etc/webmin/authentic-theme/stats.pl for writing : No such file or directory
+[07/Apr/2025:03:00:52 +0000] Reloading configuration
+[07/Apr/2025:03:30:23 +0000] Reloading configuration
+[07/Apr/2025:13:17:50 +0000] [192.168.65.1] /squid/save_manual.cgi : Failed to replace /etc/squid/squid.conf with /etc/squid/squid.conf.webmintmp.16943.0 : Device or resource busy
+Argument "squid" isn't numeric in array or hash lookup at ./squid-lib.pl line 48.
+Argument "squid" isn't numeric in array or hash lookup at ./squid-lib.pl line 48.
+Argument "squid" isn't numeric in array or hash lookup at ./squid-lib.pl line 48.
+Argument "squid" isn't numeric in array or hash lookup at ./squid-lib.pl line 48.
+Argument "squid" isn't numeric in array or hash lookup at ./squid-lib.pl line 48.
+Argument "squid" isn't numeric in array or hash lookup at ./squid-lib.pl line 48.
+Argument "squid" isn't numeric in array or hash lookup at ./squid-lib.pl line 48.
+Argument "squid" isn't numeric in array or hash lookup at ./squid-lib.pl line 48.
+Argument "squid" isn't numeric in array or hash lookup at ./squid-lib.pl line 48.
+Argument "squid" isn't numeric in array or hash lookup at ./squid-lib.pl line 48.
+[07/Apr/2025:13:29:23 +0000] [192.168.65.1] /squid/save_manual.cgi : Failed to replace /etc/squid/squid.conf with /etc/squid/squid.conf.webmintmp.19057.0 : Device or resource busy
+[07/Apr/2025:13:29:54 +0000] [192.168.65.1] /squid/save_manual.cgi : Failed to replace /etc/squid/squid.conf with /etc/squid/squid.conf.webmintmp.19188.0 : Device or resource busy
+[07/Apr/2025:13:31:47 +0000] miniserv.pl started
+[07/Apr/2025:13:31:47 +0000] IPv6 support enabled
+[07/Apr/2025:13:31:47 +0000] Using MD5 module Digest::MD5
+[07/Apr/2025:13:31:47 +0000] Using SHA512 module Crypt::SHA
+[07/Apr/2025:13:31:47 +0000] PAM authentication enabled
+[07/Apr/2025:13:32:03 +0000] Reloading configuration
+[07/Apr/2025:13:45:01 +0000] miniserv.pl started
+[07/Apr/2025:13:45:01 +0000] IPv6 support enabled
+[07/Apr/2025:13:45:01 +0000] Using MD5 module Digest::MD5
+[07/Apr/2025:13:45:01 +0000] Using SHA512 module Crypt::SHA
+[07/Apr/2025:13:45:01 +0000] PAM authentication enabled
+[07/Apr/2025:13:45:03 +0000] Reloading configuration
+[07/Apr/2025:13:45:04 +0000] [192.168.65.1] /stats.cgi : Failed to open /etc/webmin/authentic-theme/stats.pl for writing : No such file or directory
+[07/Apr/2025:13:45:10 +0000] Reloading configuration
+[07/Apr/2025:13:45:11 +0000] [192.168.65.1] /stats.cgi : Failed to open /etc/webmin/authentic-theme/stats.pl for writing : No such file or directory
+[07/Apr/2025:13:45:17 +0000] Reloading configuration
+[07/Apr/2025:13:45:18 +0000] [192.168.65.1] /stats.cgi : Failed to open /etc/webmin/authentic-theme/stats.pl for writing : No such file or directory
+[07/Apr/2025:13:45:24 +0000] Reloading configuration
+[07/Apr/2025:13:45:25 +0000] [192.168.65.1] /stats.cgi : Failed to open /etc/webmin/authentic-theme/stats.pl for writing : No such file or directory
+[07/Apr/2025:13:45:31 +0000] Reloading configuration
+[07/Apr/2025:13:45:32 +0000] [192.168.65.1] /stats.cgi : Failed to open /etc/webmin/authentic-theme/stats.pl for writing : No such file or directory
+[07/Apr/2025:13:46:06 +0000] Reloading configuration
+[07/Apr/2025:13:50:26 +0000] [192.168.65.1] /squid-internal-static/icons/SN.png : File not found
+[07/Apr/2025:14:03:18 +0000] [192.168.65.1] /squid-internal-static/icons/SN.png : File not found
+[07/Apr/2025:14:04:03 +0000] [192.168.65.1] /squid-internal-static/icons/SN.png : File not found
+[07/Apr/2025:14:04:05 +0000] [192.168.65.1] /squid/cache_object://localhost/ : File not found
+[07/Apr/2025:14:04:12 +0000] [192.168.65.1] /squid-internal-static/icons/SN.png : File not found
+[07/Apr/2025:14:04:20 +0000] [192.168.65.1] /squid-internal-static/icons/SN.png : File not found
+[07/Apr/2025:14:31:48 +0000] Reloading configuration
+[07/Apr/2025:16:13:17 +0000] [192.168.65.1] /squid-internal-static/icons/SN.png : File not found
+[07/Apr/2025:16:13:26 +0000] [192.168.65.1] /squid-internal-static/icons/SN.png : File not found
+[07/Apr/2025:16:24:38 +0000] [192.168.65.1] /squid-internal-static/icons/SN.png : File not found
+[07/Apr/2025:16:26:31 +0000] [192.168.65.1] /squid-internal-static/icons/SN.png : File not found
+[07/Apr/2025:16:26:45 +0000] [192.168.65.1] /squid-internal-static/icons/SN.png : File not found
+[07/Apr/2025:16:27:02 +0000] [192.168.65.1] /squid-internal-static/icons/SN.png : File not found
+[07/Apr/2025:16:27:05 +0000] [192.168.65.1] /squid/cache_object://localhost/ : File not found
+[07/Apr/2025:16:28:14 +0000] [192.168.65.1] /squid-internal-static/icons/SN.png : File not found
+[07/Apr/2025:16:28:21 +0000] [192.168.65.1] /squid-internal-static/icons/SN.png : File not found
+[07/Apr/2025:16:49:04 +0000] miniserv.pl started
+[07/Apr/2025:16:49:04 +0000] IPv6 support enabled
+[07/Apr/2025:16:49:04 +0000] Using MD5 module Digest::MD5
+[07/Apr/2025:16:49:04 +0000] Using SHA512 module Crypt::SHA
+[07/Apr/2025:16:49:04 +0000] PAM authentication enabled
+[07/Apr/2025:16:52:39 +0000] Reloading configuration
+[07/Apr/2025:16:53:07 +0000] [192.168.65.1] /squid-internal-static/icons/SN.png : File not found
+[07/Apr/2025:16:54:16 +0000] [192.168.65.1] /squid-internal-static/icons/SN.png : File not found
+[07/Apr/2025:17:06:22 +0000] [192.168.65.1] /squid-internal-static/icons/SN.png : File not found
+[07/Apr/2025:17:06:25 +0000] [192.168.65.1] /squid-internal-static/icons/SN.png : File not found
