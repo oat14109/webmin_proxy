@@ -6,6 +6,9 @@ backend = auto
 banaction = iptables-multiport
 usedns = warn
 
+[sshd]
+enabled = false
+
 [squid]
 enabled  = true
 port     = 3128
@@ -17,6 +20,6 @@ maxretry = 5
 enabled  = true
 port = 10000
 filter = webmin-auth
-logpath = /var/log/auth.log  ; หรือ /var/webmin/miniserv.log ถ้า Webmin เขียน log ตรงนี้
+logpath = /var/webmin/miniserv.error
 maxretry = 4
 bantime  = 600

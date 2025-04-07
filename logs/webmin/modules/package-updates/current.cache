@@ -1,0 +1,3266 @@
+$VAR1 = [
+          {
+            'desc' => 'add and remove users and groups',
+            'update' => 'adduser',
+            'system' => 'apt',
+            'version' => '3.118ubuntu5',
+            'epoch' => undef,
+            'name' => 'adduser'
+          },
+          {
+            'update' => 'apt',
+            'desc' => 'commandline package manager',
+            'name' => 'apt',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '2.4.13'
+          },
+          {
+            'update' => 'apt-transport-https',
+            'desc' => 'transitional package for https support',
+            'name' => 'apt-transport-https',
+            'version' => '2.4.13',
+            'system' => 'apt',
+            'epoch' => undef
+          },
+          {
+            'system' => 'apt',
+            'version' => '12ubuntu4.7',
+            'epoch' => undef,
+            'name' => 'base-files',
+            'desc' => 'Debian base system miscellaneous files',
+            'update' => 'base-files'
+          },
+          {
+            'desc' => 'Debian base system master password and group files',
+            'update' => 'base-passwd',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '3.5.52build1',
+            'name' => 'base-passwd'
+          },
+          {
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '5.1-6ubuntu1.1',
+            'name' => 'bash',
+            'desc' => 'GNU Bourne Again SHell',
+            'update' => 'bash'
+          },
+          {
+            'desc' => 'GNU assembler, linker and binary utilities',
+            'update' => 'binutils',
+            'system' => 'apt',
+            'version' => '2.38-4ubuntu2.7',
+            'epoch' => undef,
+            'name' => 'binutils'
+          },
+          {
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '2.38-4ubuntu2.7',
+            'name' => 'binutils-common',
+            'desc' => 'Common files for the GNU assembler, linker and binary utilities',
+            'update' => 'binutils-common'
+          },
+          {
+            'desc' => 'GNU binary utilities, for x86-64-linux-gnu target',
+            'update' => 'binutils-x86-64-linux-gnu',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '2.38-4ubuntu2.7',
+            'name' => 'binutils-x86-64-linux-gnu'
+          },
+          {
+            'desc' => 'basic utilities from 4.4BSD-Lite',
+            'update' => 'bsdutils',
+            'version' => '2.37.2-4ubuntu3.4',
+            'system' => 'apt',
+            'epoch' => '1',
+            'name' => 'bsdutils'
+          },
+          {
+            'desc' => 'Informational list of build-essential packages',
+            'update' => 'build-essential',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '12.9ubuntu3',
+            'name' => 'build-essential'
+          },
+          {
+            'name' => 'bzip2',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '1.0.8-5build1',
+            'update' => 'bzip2',
+            'desc' => 'high-quality block-sorting file compressor - utilities'
+          },
+          {
+            'name' => 'ca-certificates',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '20240203~22.04.1',
+            'update' => 'ca-certificates',
+            'desc' => 'Common CA certificates'
+          },
+          {
+            'name' => 'coreutils',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '8.32-4.1ubuntu1.2',
+            'update' => 'coreutils',
+            'desc' => 'GNU core utilities'
+          },
+          {
+            'update' => 'cpp',
+            'desc' => 'GNU C preprocessor (cpp)',
+            'name' => 'cpp',
+            'epoch' => '4',
+            'system' => 'apt',
+            'version' => '11.2.0-1ubuntu1'
+          },
+          {
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '11.4.0-1ubuntu1~22.04',
+            'name' => 'cpp-11',
+            'desc' => 'GNU C preprocessor',
+            'update' => 'cpp-11'
+          },
+          {
+            'desc' => 'process scheduling daemon',
+            'update' => 'cron',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '3.0pl1-137ubuntu3',
+            'name' => 'cron'
+          },
+          {
+            'desc' => 'POSIX-compliant shell',
+            'update' => 'dash',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '0.5.11+git20210903+057cd650a4ed-3build1',
+            'name' => 'dash'
+          },
+          {
+            'desc' => 'simple interprocess messaging system (daemon and utilities)',
+            'update' => 'dbus',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '1.12.20-2ubuntu4.1',
+            'name' => 'dbus'
+          },
+          {
+            'desc' => 'Debian configuration management system',
+            'update' => 'debconf',
+            'version' => '1.5.79ubuntu1',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'debconf'
+          },
+          {
+            'desc' => 'Miscellaneous utilities specific to Debian',
+            'update' => 'debianutils',
+            'system' => 'apt',
+            'version' => '5.5-1ubuntu2',
+            'epoch' => undef,
+            'name' => 'debianutils'
+          },
+          {
+            'update' => 'diffutils',
+            'desc' => 'File comparison utilities',
+            'name' => 'diffutils',
+            'epoch' => '1',
+            'system' => 'apt',
+            'version' => '3.8-0ubuntu2'
+          },
+          {
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '2.2.27-3ubuntu2.3',
+            'name' => 'dirmngr',
+            'desc' => 'GNU privacy guard - network certificate management service',
+            'update' => 'dirmngr'
+          },
+          {
+            'update' => 'distro-info-data',
+            'desc' => 'information about the distributions\' releases (data files)',
+            'name' => 'distro-info-data',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '0.52ubuntu0.8'
+          },
+          {
+            'desc' => 'Linux Kernel Device Mapper userspace library',
+            'update' => 'dmsetup',
+            'epoch' => '2',
+            'system' => 'apt',
+            'version' => '1.02.175-2.1ubuntu5',
+            'name' => 'dmsetup'
+          },
+          {
+            'name' => 'dpkg',
+            'version' => '1.21.1ubuntu2.3',
+            'system' => 'apt',
+            'epoch' => undef,
+            'update' => 'dpkg',
+            'desc' => 'Debian package management system'
+          },
+          {
+            'name' => 'dpkg-dev',
+            'version' => '1.21.1ubuntu2.3',
+            'system' => 'apt',
+            'epoch' => undef,
+            'update' => 'dpkg-dev',
+            'desc' => 'Debian package development tools'
+          },
+          {
+            'name' => 'e2fsprogs',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '1.46.5-2ubuntu1.2',
+            'update' => 'e2fsprogs',
+            'desc' => 'ext2/ext3/ext4 file system utilities'
+          },
+          {
+            'desc' => 'ban hosts that cause multiple authentication errors',
+            'update' => 'fail2ban',
+            'system' => 'apt',
+            'version' => '0.11.2-6',
+            'epoch' => undef,
+            'name' => 'fail2ban'
+          },
+          {
+            'name' => 'fakeroot',
+            'version' => '1.28-1ubuntu1',
+            'system' => 'apt',
+            'epoch' => undef,
+            'update' => 'fakeroot',
+            'desc' => 'tool for simulating superuser privileges'
+          },
+          {
+            'update' => 'findutils',
+            'desc' => 'utilities for finding files--find, xargs',
+            'name' => 'findutils',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '4.8.0-1ubuntu3'
+          },
+          {
+            'desc' => 'generic font configuration library - configuration',
+            'update' => 'fontconfig-config',
+            'system' => 'apt',
+            'version' => '2.13.1-4.2ubuntu5',
+            'epoch' => undef,
+            'name' => 'fontconfig-config'
+          },
+          {
+            'name' => 'fonts-dejavu-core',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '2.37-2build1',
+            'update' => 'fonts-dejavu-core',
+            'desc' => 'Vera font family derivate with additional characters'
+          },
+          {
+            'desc' => 'GNU C++ compiler',
+            'update' => 'g++',
+            'system' => 'apt',
+            'version' => '11.2.0-1ubuntu1',
+            'epoch' => '4',
+            'name' => 'g++'
+          },
+          {
+            'name' => 'g++-11',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '11.4.0-1ubuntu1~22.04',
+            'update' => 'g++-11',
+            'desc' => 'GNU C++ compiler'
+          },
+          {
+            'update' => 'gcc',
+            'desc' => 'GNU C compiler',
+            'name' => 'gcc',
+            'epoch' => '4',
+            'system' => 'apt',
+            'version' => '11.2.0-1ubuntu1'
+          },
+          {
+            'desc' => 'GNU C compiler',
+            'update' => 'gcc-11',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '11.4.0-1ubuntu1~22.04',
+            'name' => 'gcc-11'
+          },
+          {
+            'system' => 'apt',
+            'version' => '11.4.0-1ubuntu1~22.04',
+            'epoch' => undef,
+            'name' => 'gcc-11-base',
+            'desc' => 'GCC, the GNU Compiler Collection (base package)',
+            'update' => 'gcc-11-base'
+          },
+          {
+            'update' => 'gcc-12-base',
+            'desc' => 'GCC, the GNU Compiler Collection (base package)',
+            'name' => 'gcc-12-base',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '12.3.0-1ubuntu1~22.04'
+          },
+          {
+            'name' => 'gir1.2-glib-2.0',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '1.72.0-1',
+            'update' => 'gir1.2-glib-2.0',
+            'desc' => 'Introspection data for GLib, GObject, Gio and GModule'
+          },
+          {
+            'update' => 'gir1.2-packagekitglib-1.0',
+            'desc' => 'GObject introspection data for the PackageKit GLib library',
+            'name' => 'gir1.2-packagekitglib-1.0',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '1.2.5-2ubuntu3'
+          },
+          {
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '2.2.27-3ubuntu2.3',
+            'name' => 'gnupg',
+            'desc' => 'GNU privacy guard - a free PGP replacement',
+            'update' => 'gnupg'
+          },
+          {
+            'update' => 'gnupg-l10n',
+            'desc' => 'GNU privacy guard - localization files',
+            'name' => 'gnupg-l10n',
+            'version' => '2.2.27-3ubuntu2.3',
+            'system' => 'apt',
+            'epoch' => undef
+          },
+          {
+            'name' => 'gnupg-utils',
+            'version' => '2.2.27-3ubuntu2.3',
+            'system' => 'apt',
+            'epoch' => undef,
+            'update' => 'gnupg-utils',
+            'desc' => 'GNU privacy guard - utility programs'
+          },
+          {
+            'desc' => 'GNU Privacy Guard -- minimalist public key operations',
+            'update' => 'gpg',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '2.2.27-3ubuntu2.3',
+            'name' => 'gpg'
+          },
+          {
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '2.2.27-3ubuntu2.3',
+            'name' => 'gpg-agent',
+            'desc' => 'GNU privacy guard - cryptographic agent',
+            'update' => 'gpg-agent'
+          },
+          {
+            'desc' => 'GNU privacy guard - Web Key Service client',
+            'update' => 'gpg-wks-client',
+            'version' => '2.2.27-3ubuntu2.3',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'gpg-wks-client'
+          },
+          {
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '2.2.27-3ubuntu2.3',
+            'name' => 'gpg-wks-server',
+            'desc' => 'GNU privacy guard - Web Key Service server',
+            'update' => 'gpg-wks-server'
+          },
+          {
+            'version' => '2.2.27-3ubuntu2.3',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'gpgconf',
+            'desc' => 'GNU privacy guard - core configuration utilities',
+            'update' => 'gpgconf'
+          },
+          {
+            'version' => '2.2.27-3ubuntu2.3',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'gpgsm',
+            'desc' => 'GNU privacy guard - S/MIME version',
+            'update' => 'gpgsm'
+          },
+          {
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '2.2.27-3ubuntu2.3',
+            'name' => 'gpgv',
+            'desc' => 'GNU privacy guard - signature verification tool',
+            'update' => 'gpgv'
+          },
+          {
+            'desc' => 'GNU grep, egrep and fgrep',
+            'update' => 'grep',
+            'system' => 'apt',
+            'version' => '3.7-1build1',
+            'epoch' => undef,
+            'name' => 'grep'
+          },
+          {
+            'name' => 'gzip',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '1.10-4ubuntu4.1',
+            'update' => 'gzip',
+            'desc' => 'GNU compression utilities'
+          },
+          {
+            'update' => 'hostname',
+            'desc' => 'utility to set/show the host name or domain name',
+            'name' => 'hostname',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '3.23ubuntu2'
+          },
+          {
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '1.3.2a-28',
+            'name' => 'html2text',
+            'desc' => 'advanced HTML to text converter',
+            'update' => 'html2text'
+          },
+          {
+            'desc' => 'helper tools for all init systems',
+            'update' => 'init-system-helpers',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '1.62',
+            'name' => 'init-system-helpers'
+          },
+          {
+            'system' => 'apt',
+            'version' => '5.15.0-1ubuntu2',
+            'epoch' => undef,
+            'name' => 'iproute2',
+            'desc' => 'networking and traffic control tools',
+            'update' => 'iproute2'
+          },
+          {
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '4.9.0-1',
+            'name' => 'iso-codes',
+            'desc' => 'ISO language, territory, currency, script codes and their translations',
+            'update' => 'iso-codes'
+          },
+          {
+            'desc' => 'Base support for JavaScript library packages',
+            'update' => 'javascript-common',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '11+nmu1',
+            'name' => 'javascript-common'
+          },
+          {
+            'version' => '2.3.1-1',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'libacl1',
+            'desc' => 'access control list - shared library',
+            'update' => 'libacl1'
+          },
+          {
+            'name' => 'libalgorithm-c3-perl',
+            'version' => '0.11-1',
+            'system' => 'apt',
+            'epoch' => undef,
+            'update' => 'libalgorithm-c3-perl',
+            'desc' => 'Perl module for merging hierarchies using the C3 algorithm'
+          },
+          {
+            'version' => '1.201-1',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'libalgorithm-diff-perl',
+            'desc' => 'module to find differences between files',
+            'update' => 'libalgorithm-diff-perl'
+          },
+          {
+            'desc' => 'module to find differences between files (XS accelerated)',
+            'update' => 'libalgorithm-diff-xs-perl',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '0.04-6build3',
+            'name' => 'libalgorithm-diff-xs-perl'
+          },
+          {
+            'name' => 'libalgorithm-merge-perl',
+            'system' => 'apt',
+            'version' => '0.08-3',
+            'epoch' => undef,
+            'update' => 'libalgorithm-merge-perl',
+            'desc' => 'Perl module for three-way merge of textual data'
+          },
+          {
+            'update' => 'libapparmor1',
+            'desc' => 'changehat AppArmor library',
+            'name' => 'libapparmor1',
+            'version' => '3.0.4-2ubuntu2.4',
+            'system' => 'apt',
+            'epoch' => undef
+          },
+          {
+            'update' => 'libappstream4',
+            'desc' => 'Library to access AppStream services',
+            'name' => 'libappstream4',
+            'version' => '0.15.2-2',
+            'system' => 'apt',
+            'epoch' => undef
+          },
+          {
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '2.4.13',
+            'name' => 'libapt-pkg6.0',
+            'desc' => 'package management runtime library',
+            'update' => 'libapt-pkg6.0'
+          },
+          {
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '0~20171227-0.3',
+            'name' => 'libargon2-1',
+            'desc' => 'memory-hard hashing function - runtime library',
+            'update' => 'libargon2-1'
+          },
+          {
+            'desc' => 'AddressSanitizer -- a fast memory error detector',
+            'update' => 'libasan6',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '11.4.0-1ubuntu1~22.04',
+            'name' => 'libasan6'
+          },
+          {
+            'system' => 'apt',
+            'version' => '2.5.5-1build1',
+            'epoch' => undef,
+            'name' => 'libassuan0',
+            'desc' => 'IPC library for the GnuPG components',
+            'update' => 'libassuan0'
+          },
+          {
+            'epoch' => '1',
+            'system' => 'apt',
+            'version' => '2.5.1-4build2',
+            'name' => 'libatm1',
+            'desc' => 'shared library for ATM (Asynchronous Transfer Mode)',
+            'update' => 'libatm1'
+          },
+          {
+            'desc' => 'support library providing __atomic built-in functions',
+            'update' => 'libatomic1',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '12.3.0-1ubuntu1~22.04',
+            'name' => 'libatomic1'
+          },
+          {
+            'desc' => 'extended attribute handling - shared library',
+            'update' => 'libattr1',
+            'system' => 'apt',
+            'epoch' => '1',
+            'version' => '2.5.1-1build1',
+            'name' => 'libattr1'
+          },
+          {
+            'name' => 'libaudit-common',
+            'epoch' => '1',
+            'system' => 'apt',
+            'version' => '3.0.7-1build1',
+            'update' => 'libaudit-common',
+            'desc' => 'Dynamic library for security auditing - common files'
+          },
+          {
+            'system' => 'apt',
+            'epoch' => '1',
+            'version' => '3.0.7-1build1',
+            'name' => 'libaudit1',
+            'desc' => 'Dynamic library for security auditing',
+            'update' => 'libaudit1'
+          },
+          {
+            'desc' => 'Perl interface to PAM library',
+            'update' => 'libauthen-pam-perl',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '0.16-3build9',
+            'name' => 'libauthen-pam-perl'
+          },
+          {
+            'update' => 'libb-hooks-endofscope-perl',
+            'desc' => 'module for executing code after a scope finished compilation',
+            'name' => 'libb-hooks-endofscope-perl',
+            'version' => '0.25-1',
+            'system' => 'apt',
+            'epoch' => undef
+          },
+          {
+            'update' => 'libb-hooks-op-check-perl',
+            'desc' => 'Perl wrapper for OP check callbacks',
+            'name' => 'libb-hooks-op-check-perl',
+            'version' => '0.22-1build5',
+            'system' => 'apt',
+            'epoch' => undef
+          },
+          {
+            'desc' => 'GNU binary utilities (private shared library)',
+            'update' => 'libbinutils',
+            'version' => '2.38-4ubuntu2.7',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'libbinutils'
+          },
+          {
+            'desc' => 'block device ID library',
+            'update' => 'libblkid1',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '2.37.2-4ubuntu3.4',
+            'name' => 'libblkid1'
+          },
+          {
+            'desc' => 'eBPF helper library (shared library)',
+            'update' => 'libbpf0',
+            'system' => 'apt',
+            'epoch' => '1',
+            'version' => '0.5.0-1ubuntu22.04.1',
+            'name' => 'libbpf0'
+          },
+          {
+            'update' => 'libbrotli1',
+            'desc' => 'library implementing brotli encoder and decoder (shared libraries)',
+            'name' => 'libbrotli1',
+            'version' => '1.0.9-2build6',
+            'system' => 'apt',
+            'epoch' => undef
+          },
+          {
+            'desc' => 'utility functions from BSD systems - shared library',
+            'update' => 'libbsd0',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '0.11.5-1',
+            'name' => 'libbsd0'
+          },
+          {
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '1.0.8-5build1',
+            'name' => 'libbz2-1.0',
+            'desc' => 'high-quality block-sorting file compressor library - runtime',
+            'update' => 'libbz2-1.0'
+          },
+          {
+            'desc' => 'GNU C Library: Binaries',
+            'update' => 'libc-bin',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '2.35-0ubuntu3.8',
+            'name' => 'libc-bin'
+          },
+          {
+            'update' => 'libc-dev-bin',
+            'desc' => 'GNU C Library: Development binaries',
+            'name' => 'libc-dev-bin',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '2.35-0ubuntu3.9'
+          },
+          {
+            'update' => 'libc-devtools',
+            'desc' => 'GNU C Library: Development tools',
+            'name' => 'libc-devtools',
+            'system' => 'apt',
+            'version' => '2.35-0ubuntu3.9',
+            'epoch' => undef
+          },
+          {
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '2.35-0ubuntu3.9',
+            'name' => 'libc6',
+            'desc' => 'GNU C Library: Shared libraries',
+            'update' => 'libc6'
+          },
+          {
+            'desc' => 'GNU C Library: Development Libraries and Header Files',
+            'update' => 'libc6-dev',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '2.35-0ubuntu3.9',
+            'name' => 'libc6-dev'
+          },
+          {
+            'system' => 'apt',
+            'version' => '0.7.9-2.2build3',
+            'epoch' => undef,
+            'name' => 'libcap-ng0',
+            'desc' => 'An alternate POSIX capabilities library',
+            'update' => 'libcap-ng0'
+          },
+          {
+            'name' => 'libcap2',
+            'epoch' => '1',
+            'system' => 'apt',
+            'version' => '2.44-1ubuntu0.22.04.1',
+            'update' => 'libcap2',
+            'desc' => 'POSIX 1003.1e capabilities (library)'
+          },
+          {
+            'update' => 'libcap2-bin',
+            'desc' => 'POSIX 1003.1e capabilities (utilities)',
+            'name' => 'libcap2-bin',
+            'system' => 'apt',
+            'epoch' => '1',
+            'version' => '2.44-1ubuntu0.22.04.2'
+          },
+          {
+            'desc' => 'GCC cc1 plugin for GDB',
+            'update' => 'libcc1-0',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '12.3.0-1ubuntu1~22.04',
+            'name' => 'libcc1-0'
+          },
+          {
+            'update' => 'libclass-c3-perl',
+            'desc' => 'pragma for using the C3 method resolution order',
+            'name' => 'libclass-c3-perl',
+            'system' => 'apt',
+            'version' => '0.35-1',
+            'epoch' => undef
+          },
+          {
+            'desc' => 'Perl module to accelerate Class::C3',
+            'update' => 'libclass-c3-xs-perl',
+            'system' => 'apt',
+            'version' => '0.15-1build2',
+            'epoch' => undef,
+            'name' => 'libclass-c3-xs-perl'
+          },
+          {
+            'desc' => 'Perl module to create accessors to class data',
+            'update' => 'libclass-data-inheritable-perl',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '0.08-3',
+            'name' => 'libclass-data-inheritable-perl'
+          },
+          {
+            'desc' => 'Perl module that provides information about classes',
+            'update' => 'libclass-inspector-perl',
+            'version' => '1.36-1',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'libclass-inspector-perl'
+          },
+          {
+            'name' => 'libclass-method-modifiers-perl',
+            'system' => 'apt',
+            'version' => '2.13-1',
+            'epoch' => undef,
+            'update' => 'libclass-method-modifiers-perl',
+            'desc' => 'Perl module providing method modifiers'
+          },
+          {
+            'system' => 'apt',
+            'version' => '1.6-1',
+            'epoch' => undef,
+            'name' => 'libclass-singleton-perl',
+            'desc' => 'implementation of a "Singleton" class',
+            'update' => 'libclass-singleton-perl'
+          },
+          {
+            'name' => 'libclass-xsaccessor-perl',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '1.19-3build9',
+            'update' => 'libclass-xsaccessor-perl',
+            'desc' => 'Perl module providing fast XS accessors'
+          },
+          {
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '1.46.5-2ubuntu1.2',
+            'name' => 'libcom-err2',
+            'desc' => 'common error description library',
+            'update' => 'libcom-err2'
+          },
+          {
+            'desc' => 'module that implements some sane defaults for Perl programs',
+            'update' => 'libcommon-sense-perl',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '3.75-2build1',
+            'name' => 'libcommon-sense-perl'
+          },
+          {
+            'name' => 'libcrypt-dev',
+            'version' => '4.4.27-1',
+            'system' => 'apt',
+            'epoch' => '1',
+            'update' => 'libcrypt-dev',
+            'desc' => 'libcrypt development files'
+          },
+          {
+            'name' => 'libcrypt1',
+            'version' => '4.4.27-1',
+            'system' => 'apt',
+            'epoch' => '1',
+            'update' => 'libcrypt1',
+            'desc' => 'libcrypt shared library'
+          },
+          {
+            'desc' => 'disk encryption support - shared library',
+            'update' => 'libcryptsetup12',
+            'system' => 'apt',
+            'version' => '2.4.3-1ubuntu1.3',
+            'epoch' => '2',
+            'name' => 'libcryptsetup12'
+          },
+          {
+            'system' => 'apt',
+            'version' => '2.38-4ubuntu2.7',
+            'epoch' => undef,
+            'name' => 'libctf-nobfd0',
+            'desc' => 'Compact C Type Format library (runtime, no BFD dependency)',
+            'update' => 'libctf-nobfd0'
+          },
+          {
+            'name' => 'libctf0',
+            'version' => '2.38-4ubuntu2.7',
+            'system' => 'apt',
+            'epoch' => undef,
+            'update' => 'libctf0',
+            'desc' => 'Compact C Type Format library (runtime, BFD dependency)'
+          },
+          {
+            'update' => 'libcurl3-gnutls',
+            'desc' => 'easy-to-use client-side URL transfer library (GnuTLS flavour)',
+            'name' => 'libcurl3-gnutls',
+            'version' => '7.81.0-1ubuntu1.20',
+            'system' => 'apt',
+            'epoch' => undef
+          },
+          {
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '0.112-1',
+            'name' => 'libdata-optlist-perl',
+            'desc' => 'module to parse and validate simple name/value option pairs',
+            'update' => 'libdata-optlist-perl'
+          },
+          {
+            'desc' => 'Perl extension providing localization support for DateTime',
+            'update' => 'libdatetime-locale-perl',
+            'system' => 'apt',
+            'version' => '1.33-1',
+            'epoch' => '1',
+            'name' => 'libdatetime-locale-perl'
+          },
+          {
+            'epoch' => '2',
+            'system' => 'apt',
+            'version' => '1.55-1build1',
+            'name' => 'libdatetime-perl',
+            'desc' => 'module for manipulating dates, times and timestamps',
+            'update' => 'libdatetime-perl'
+          },
+          {
+            'update' => 'libdatetime-timezone-perl',
+            'desc' => 'framework exposing the Olson time zone database to Perl',
+            'name' => 'libdatetime-timezone-perl',
+            'system' => 'apt',
+            'epoch' => '1',
+            'version' => '2.51-1+2021e'
+          },
+          {
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '5.3.28+dfsg1-0.8ubuntu3',
+            'name' => 'libdb5.3',
+            'desc' => 'Berkeley v5.3 Database Libraries [runtime]',
+            'update' => 'libdb5.3'
+          },
+          {
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '4.050-5ubuntu0.22.04.1',
+            'name' => 'libdbd-mysql-perl',
+            'desc' => 'Perl5 database interface to the MariaDB/MySQL database',
+            'update' => 'libdbd-mysql-perl'
+          },
+          {
+            'desc' => 'Perl Database Interface (DBI)',
+            'update' => 'libdbi-perl',
+            'system' => 'apt',
+            'version' => '1.643-3build3',
+            'epoch' => undef,
+            'name' => 'libdbi-perl'
+          },
+          {
+            'name' => 'libdbus-1-3',
+            'version' => '1.12.20-2ubuntu4.1',
+            'system' => 'apt',
+            'epoch' => undef,
+            'update' => 'libdbus-1-3',
+            'desc' => 'simple interprocess messaging system (library)'
+          },
+          {
+            'name' => 'libdebconfclient0',
+            'system' => 'apt',
+            'version' => '0.261ubuntu1',
+            'epoch' => undef,
+            'update' => 'libdebconfclient0',
+            'desc' => 'Debian Configuration Management System (C-implementation library)'
+          },
+          {
+            'name' => 'libdeflate0',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '1.10-2',
+            'update' => 'libdeflate0',
+            'desc' => 'fast, whole-buffer DEFLATE-based compression and decompression'
+          },
+          {
+            'desc' => 'custom op checking attached to subroutines',
+            'update' => 'libdevel-callchecker-perl',
+            'system' => 'apt',
+            'version' => '0.008-1ubuntu4',
+            'epoch' => undef,
+            'name' => 'libdevel-callchecker-perl'
+          },
+          {
+            'name' => 'libdevel-caller-perl',
+            'version' => '2.06-2build4',
+            'system' => 'apt',
+            'epoch' => undef,
+            'update' => 'libdevel-caller-perl',
+            'desc' => 'module providing enhanced caller() support'
+          },
+          {
+            'desc' => 'Perl module that provides alias lexical variables',
+            'update' => 'libdevel-lexalias-perl',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '0.05-2build4',
+            'name' => 'libdevel-lexalias-perl'
+          },
+          {
+            'system' => 'apt',
+            'version' => '2.0400-1',
+            'epoch' => undef,
+            'name' => 'libdevel-stacktrace-perl',
+            'desc' => 'Perl module containing stack trace and related objects',
+            'update' => 'libdevel-stacktrace-perl'
+          },
+          {
+            'desc' => 'Linux Kernel Device Mapper userspace library',
+            'update' => 'libdevmapper1.02.1',
+            'version' => '1.02.175-2.1ubuntu5',
+            'system' => 'apt',
+            'epoch' => '2',
+            'name' => 'libdevmapper1.02.1'
+          },
+          {
+            'desc' => 'Dpkg perl modules',
+            'update' => 'libdpkg-perl',
+            'system' => 'apt',
+            'version' => '1.21.1ubuntu2.3',
+            'epoch' => undef,
+            'name' => 'libdpkg-perl'
+          },
+          {
+            'name' => 'libdw1',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '0.186-1ubuntu0.1',
+            'update' => 'libdw1',
+            'desc' => 'library that provides access to the DWARF debug information'
+          },
+          {
+            'update' => 'libdynaloader-functions-perl',
+            'desc' => 'deconstructed dynamic C library loading',
+            'name' => 'libdynaloader-functions-perl',
+            'system' => 'apt',
+            'version' => '0.003-1.1',
+            'epoch' => undef
+          },
+          {
+            'desc' => 'eCAP library',
+            'update' => 'libecap3',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '1.0.1-3.2ubuntu4',
+            'name' => 'libecap3'
+          },
+          {
+            'update' => 'libedit2',
+            'desc' => 'BSD editline and history libraries',
+            'name' => 'libedit2',
+            'version' => '3.1-20210910-1build1',
+            'system' => 'apt',
+            'epoch' => undef
+          },
+          {
+            'name' => 'libelf1',
+            'version' => '0.186-1ubuntu0.1',
+            'system' => 'apt',
+            'epoch' => undef,
+            'update' => 'libelf1',
+            'desc' => 'library to read and write ELF files'
+          },
+          {
+            'desc' => 'Encode::Encoding subclass that detects the encoding of data',
+            'update' => 'libencode-detect-perl',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '1.01-5build5',
+            'name' => 'libencode-detect-perl'
+          },
+          {
+            'name' => 'libeval-closure-perl',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '0.14-1',
+            'update' => 'libeval-closure-perl',
+            'desc' => 'Perl module to safely and cleanly create closures via string eval'
+          },
+          {
+            'update' => 'libexception-class-perl',
+            'desc' => 'module that allows you to declare real exception classes in Perl',
+            'name' => 'libexception-class-perl',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '1.45-1'
+          },
+          {
+            'version' => '2.4.7-1ubuntu0.5',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'libexpat1',
+            'desc' => 'XML parsing C library - runtime library',
+            'update' => 'libexpat1'
+          },
+          {
+            'desc' => 'XML parsing C library - development kit',
+            'update' => 'libexpat1-dev',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '2.4.7-1ubuntu0.5',
+            'name' => 'libexpat1-dev'
+          },
+          {
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '1.46.5-2ubuntu1.2',
+            'name' => 'libext2fs2',
+            'desc' => 'ext2/ext3/ext4 file system libraries',
+            'update' => 'libext2fs2'
+          },
+          {
+            'update' => 'libfakeroot',
+            'desc' => 'tool for simulating superuser privileges - shared libraries',
+            'name' => 'libfakeroot',
+            'system' => 'apt',
+            'version' => '1.28-1ubuntu1',
+            'epoch' => undef
+          },
+          {
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '3.4.2-4',
+            'name' => 'libffi8',
+            'desc' => 'Foreign Function Interface library runtime',
+            'update' => 'libffi8'
+          },
+          {
+            'name' => 'libfile-fcntllock-perl',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '0.22-3build7',
+            'update' => 'libfile-fcntllock-perl',
+            'desc' => 'Perl module for file locking with fcntl(2)'
+          },
+          {
+            'update' => 'libfile-sharedir-perl',
+            'desc' => 'module to locate non-code files during run-time',
+            'name' => 'libfile-sharedir-perl',
+            'version' => '1.118-1',
+            'system' => 'apt',
+            'epoch' => undef
+          },
+          {
+            'update' => 'libfontconfig1',
+            'desc' => 'generic font configuration library - runtime',
+            'name' => 'libfontconfig1',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '2.13.1-4.2ubuntu5'
+          },
+          {
+            'system' => 'apt',
+            'version' => '2.11.1+dfsg-1ubuntu0.3',
+            'epoch' => undef,
+            'name' => 'libfreetype6',
+            'desc' => 'FreeType 2 font engine, shared library files',
+            'update' => 'libfreetype6'
+          },
+          {
+            'system' => 'apt',
+            'version' => '11.4.0-1ubuntu1~22.04',
+            'epoch' => undef,
+            'name' => 'libgcc-11-dev',
+            'desc' => 'GCC support library (development files)',
+            'update' => 'libgcc-11-dev'
+          },
+          {
+            'update' => 'libgcc-s1',
+            'desc' => 'GCC support library',
+            'name' => 'libgcc-s1',
+            'system' => 'apt',
+            'version' => '12.3.0-1ubuntu1~22.04',
+            'epoch' => undef
+          },
+          {
+            'desc' => 'LGPL Crypto library - runtime library',
+            'update' => 'libgcrypt20',
+            'system' => 'apt',
+            'version' => '1.9.4-3ubuntu3',
+            'epoch' => undef,
+            'name' => 'libgcrypt20'
+          },
+          {
+            'update' => 'libgd3',
+            'desc' => 'GD Graphics Library',
+            'name' => 'libgd3',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '2.3.0-2ubuntu2.3'
+          },
+          {
+            'desc' => 'GNU dbm database routines (legacy support runtime version) ',
+            'update' => 'libgdbm-compat4',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '1.23-1',
+            'name' => 'libgdbm-compat4'
+          },
+          {
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '1.23-1',
+            'name' => 'libgdbm6',
+            'desc' => 'GNU dbm database routines (runtime version) ',
+            'update' => 'libgdbm6'
+          },
+          {
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '1.72.0-1',
+            'name' => 'libgirepository-1.0-1',
+            'desc' => 'Library for handling GObject introspection data (runtime library)',
+            'update' => 'libgirepository-1.0-1'
+          },
+          {
+            'update' => 'libglib2.0-0',
+            'desc' => 'GLib library of C routines',
+            'name' => 'libglib2.0-0',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '2.72.4-0ubuntu2.4'
+          },
+          {
+            'update' => 'libglib2.0-bin',
+            'desc' => 'Programs for the GLib library',
+            'name' => 'libglib2.0-bin',
+            'version' => '2.72.4-0ubuntu2.4',
+            'system' => 'apt',
+            'epoch' => undef
+          },
+          {
+            'name' => 'libglib2.0-data',
+            'system' => 'apt',
+            'version' => '2.72.4-0ubuntu2.4',
+            'epoch' => undef,
+            'update' => 'libglib2.0-data',
+            'desc' => 'Common files for GLib library'
+          },
+          {
+            'desc' => 'Multiprecision arithmetic library',
+            'update' => 'libgmp10',
+            'system' => 'apt',
+            'epoch' => '2',
+            'version' => '6.2.1+dfsg-3ubuntu1',
+            'name' => 'libgmp10'
+          },
+          {
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '3.7.3-4ubuntu1.5',
+            'name' => 'libgnutls30',
+            'desc' => 'GNU TLS library - main runtime library',
+            'update' => 'libgnutls30'
+          },
+          {
+            'version' => '12.3.0-1ubuntu1~22.04',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'libgomp1',
+            'desc' => 'GCC OpenMP (GOMP) support library',
+            'update' => 'libgomp1'
+          },
+          {
+            'desc' => 'GnuPG development runtime library',
+            'update' => 'libgpg-error0',
+            'version' => '1.43-3',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'libgpg-error0'
+          },
+          {
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '1.19.2-2ubuntu0.4',
+            'name' => 'libgssapi-krb5-2',
+            'desc' => 'MIT Kerberos runtime libraries - krb5 GSS-API Mechanism',
+            'update' => 'libgssapi-krb5-2'
+          },
+          {
+            'desc' => 'Core GStreamer libraries and elements',
+            'update' => 'libgstreamer1.0-0',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '1.20.3-0ubuntu1.1',
+            'name' => 'libgstreamer1.0-0'
+          },
+          {
+            'name' => 'libhogweed6',
+            'version' => '3.7.3-1build2',
+            'system' => 'apt',
+            'epoch' => undef,
+            'update' => 'libhogweed6',
+            'desc' => 'low level cryptographic library (public-key cryptos)'
+          },
+          {
+            'update' => 'libicu70',
+            'desc' => 'International Components for Unicode',
+            'name' => 'libicu70',
+            'system' => 'apt',
+            'version' => '70.1-2',
+            'epoch' => undef
+          },
+          {
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '2.3.2-2build1',
+            'name' => 'libidn2-0',
+            'desc' => 'Internationalized domain names (IDNA2008/TR46) library',
+            'update' => 'libidn2-0'
+          },
+          {
+            'system' => 'apt',
+            'epoch' => '1',
+            'version' => '1.15-2build2',
+            'name' => 'libio-pty-perl',
+            'desc' => 'Perl module for pseudo tty IO',
+            'update' => 'libio-pty-perl'
+          },
+          {
+            'name' => 'libip4tc2',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '1.8.7-1ubuntu5.2',
+            'update' => 'libip4tc2',
+            'desc' => 'netfilter libip4tc library'
+          },
+          {
+            'version' => '0.24-2build1',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'libisl23',
+            'desc' => 'manipulating sets and relations of integer points bounded by linear constraints',
+            'update' => 'libisl23'
+          },
+          {
+            'desc' => 'GNU Transactional Memory Library',
+            'update' => 'libitm1',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '12.3.0-1ubuntu1~22.04',
+            'name' => 'libitm1'
+          },
+          {
+            'update' => 'libjansson4',
+            'desc' => 'C library for encoding, decoding and manipulating JSON data',
+            'name' => 'libjansson4',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '2.13.1-1.1build3'
+          },
+          {
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '2.1-3.1ubuntu0.22.04.1',
+            'name' => 'libjbig0',
+            'desc' => 'JBIGkit libraries',
+            'update' => 'libjbig0'
+          },
+          {
+            'name' => 'libjpeg-turbo8',
+            'system' => 'apt',
+            'version' => '2.1.2-0ubuntu1',
+            'epoch' => undef,
+            'update' => 'libjpeg-turbo8',
+            'desc' => 'IJG JPEG compliant runtime library.'
+          },
+          {
+            'name' => 'libjpeg8',
+            'system' => 'apt',
+            'version' => '8c-2ubuntu10',
+            'epoch' => undef,
+            'update' => 'libjpeg8',
+            'desc' => 'Independent JPEG Group\'s JPEG runtime library (dependency package)'
+          },
+          {
+            'name' => 'libjs-jquery',
+            'system' => 'apt',
+            'version' => '3.6.0+dfsg+~3.5.13-1',
+            'epoch' => undef,
+            'update' => 'libjs-jquery',
+            'desc' => 'JavaScript library for dynamic web applications'
+          },
+          {
+            'system' => 'apt',
+            'version' => '4.3.2-1',
+            'epoch' => undef,
+            'name' => 'libjs-sphinxdoc',
+            'desc' => 'JavaScript support for Sphinx documentation',
+            'update' => 'libjs-sphinxdoc'
+          },
+          {
+            'update' => 'libjs-underscore',
+            'desc' => 'JavaScript\'s functional programming helper library',
+            'name' => 'libjs-underscore',
+            'version' => '1.13.2~dfsg-2',
+            'system' => 'apt',
+            'epoch' => undef
+          },
+          {
+            'update' => 'libjson-c5',
+            'desc' => 'JSON manipulation library - shared library',
+            'name' => 'libjson-c5',
+            'system' => 'apt',
+            'version' => '0.15-3~ubuntu1.22.04.2',
+            'epoch' => undef
+          },
+          {
+            'version' => '4.030-1build3',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'libjson-xs-perl',
+            'desc' => 'module for manipulating JSON-formatted data (C/XS-accelerated)',
+            'update' => 'libjson-xs-perl'
+          },
+          {
+            'desc' => 'MIT Kerberos runtime libraries - Crypto Library',
+            'update' => 'libk5crypto3',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '1.19.2-2ubuntu0.4',
+            'name' => 'libk5crypto3'
+          },
+          {
+            'update' => 'libkeyutils1',
+            'desc' => 'Linux Key Management Utilities (library)',
+            'name' => 'libkeyutils1',
+            'version' => '1.6.1-2ubuntu3',
+            'system' => 'apt',
+            'epoch' => undef
+          },
+          {
+            'version' => '29-1ubuntu1',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'libkmod2',
+            'desc' => 'libkmod shared library',
+            'update' => 'libkmod2'
+          },
+          {
+            'desc' => 'MIT Kerberos runtime libraries',
+            'update' => 'libkrb5-3',
+            'system' => 'apt',
+            'version' => '1.19.2-2ubuntu0.4',
+            'epoch' => undef,
+            'name' => 'libkrb5-3'
+          },
+          {
+            'desc' => 'MIT Kerberos runtime libraries - Support library',
+            'update' => 'libkrb5support0',
+            'system' => 'apt',
+            'version' => '1.19.2-2ubuntu0.4',
+            'epoch' => undef,
+            'name' => 'libkrb5support0'
+          },
+          {
+            'version' => '1.6.0-2ubuntu0.2',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'libksba8',
+            'desc' => 'X.509 and CMS support library',
+            'update' => 'libksba8'
+          },
+          {
+            'name' => 'libldap-2.5-0',
+            'system' => 'apt',
+            'version' => '2.5.18+dfsg-0ubuntu0.22.04.3',
+            'epoch' => undef,
+            'update' => 'libldap-2.5-0',
+            'desc' => 'OpenLDAP libraries'
+          },
+          {
+            'update' => 'libldap-common',
+            'desc' => 'OpenLDAP common files for libraries',
+            'name' => 'libldap-common',
+            'version' => '2.5.18+dfsg-0ubuntu0.22.04.3',
+            'system' => 'apt',
+            'epoch' => undef
+          },
+          {
+            'name' => 'liblocale-gettext-perl',
+            'system' => 'apt',
+            'version' => '1.07-4build3',
+            'epoch' => undef,
+            'update' => 'liblocale-gettext-perl',
+            'desc' => 'module using libc functions for internationalization in Perl'
+          },
+          {
+            'system' => 'apt',
+            'version' => '12.3.0-1ubuntu1~22.04',
+            'epoch' => undef,
+            'name' => 'liblsan0',
+            'desc' => 'LeakSanitizer -- a memory leak detector (runtime)',
+            'update' => 'liblsan0'
+          },
+          {
+            'update' => 'libltdl7',
+            'desc' => 'System independent dlopen wrapper for GNU libtool',
+            'name' => 'libltdl7',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '2.4.6-15build2'
+          },
+          {
+            'desc' => 'Fast LZ compression algorithm library - runtime',
+            'update' => 'liblz4-1',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '1.9.3-2build2',
+            'name' => 'liblz4-1'
+          },
+          {
+            'desc' => 'XZ-format compression library',
+            'update' => 'liblzma5',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '5.2.5-2ubuntu1',
+            'name' => 'liblzma5'
+          },
+          {
+            'update' => 'libmd0',
+            'desc' => 'message digest functions from BSD systems - shared library',
+            'name' => 'libmd0',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '1.0.4-1build1'
+          },
+          {
+            'version' => '1.0.4-3build2',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'libmnl0',
+            'desc' => 'minimalistic Netlink communication library',
+            'update' => 'libmnl0'
+          },
+          {
+            'update' => 'libmodule-implementation-perl',
+            'desc' => 'module for loading one of several alternate implementations of a module',
+            'name' => 'libmodule-implementation-perl',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '0.09-1.1'
+          },
+          {
+            'name' => 'libmodule-runtime-perl',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '0.016-1',
+            'update' => 'libmodule-runtime-perl',
+            'desc' => 'Perl module for runtime module handling'
+          },
+          {
+            'version' => '2.37.2-4ubuntu3.4',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'libmount1',
+            'desc' => 'device mounting library',
+            'update' => 'libmount1'
+          },
+          {
+            'update' => 'libmpc3',
+            'desc' => 'multiple precision complex floating-point library',
+            'name' => 'libmpc3',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '1.2.1-2build1'
+          },
+          {
+            'desc' => 'library for decimal floating point arithmetic (runtime library)',
+            'update' => 'libmpdec3',
+            'version' => '2.5.1-2build2',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'libmpdec3'
+          },
+          {
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '4.1.0-3build3',
+            'name' => 'libmpfr6',
+            'desc' => 'multiple precision floating-point computation',
+            'update' => 'libmpfr6'
+          },
+          {
+            'name' => 'libmro-compat-perl',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '0.15-1',
+            'update' => 'libmro-compat-perl',
+            'desc' => 'mro::* interface compatibility for Perls < 5.9.5'
+          },
+          {
+            'name' => 'libmysqlclient21',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '8.0.41-0ubuntu0.22.04.1',
+            'update' => 'libmysqlclient21',
+            'desc' => 'MySQL database client library'
+          },
+          {
+            'system' => 'apt',
+            'version' => '0.29-1',
+            'epoch' => undef,
+            'name' => 'libnamespace-autoclean-perl',
+            'desc' => 'module to remove imported symbols after compilation',
+            'update' => 'libnamespace-autoclean-perl'
+          },
+          {
+            'desc' => 'module for keeping imports and functions out of the current namespace',
+            'update' => 'libnamespace-clean-perl',
+            'version' => '0.27-1',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'libnamespace-clean-perl'
+          },
+          {
+            'update' => 'libncurses6',
+            'desc' => 'shared libraries for terminal handling',
+            'name' => 'libncurses6',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '6.3-2ubuntu0.1'
+          },
+          {
+            'name' => 'libncursesw6',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '6.3-2ubuntu0.1',
+            'update' => 'libncursesw6',
+            'desc' => 'shared libraries for terminal handling (wide character support)'
+          },
+          {
+            'name' => 'libnet-ssleay-perl',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '1.92-1build2',
+            'update' => 'libnet-ssleay-perl',
+            'desc' => 'Perl module for Secure Sockets Layer (SSL)'
+          },
+          {
+            'name' => 'libnetfilter-conntrack3',
+            'version' => '1.0.9-1',
+            'system' => 'apt',
+            'epoch' => undef,
+            'update' => 'libnetfilter-conntrack3',
+            'desc' => 'Netfilter netlink-conntrack library'
+          },
+          {
+            'desc' => 'low level cryptographic library (symmetric and one-way cryptos)',
+            'update' => 'libnettle8',
+            'version' => '3.7.3-1build2',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'libnettle8'
+          },
+          {
+            'name' => 'libnfnetlink0',
+            'system' => 'apt',
+            'version' => '1.0.1-3build3',
+            'epoch' => undef,
+            'update' => 'libnfnetlink0',
+            'desc' => 'Netfilter netlink library'
+          },
+          {
+            'update' => 'libnftables1',
+            'desc' => 'Netfilter nftables high level userspace API library',
+            'name' => 'libnftables1',
+            'version' => '1.0.2-1ubuntu3',
+            'system' => 'apt',
+            'epoch' => undef
+          },
+          {
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '1.2.1-1build1',
+            'name' => 'libnftnl11',
+            'desc' => 'Netfilter nftables userspace API library',
+            'update' => 'libnftnl11'
+          },
+          {
+            'name' => 'libnghttp2-14',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '1.43.0-1ubuntu0.2',
+            'update' => 'libnghttp2-14',
+            'desc' => 'library implementing HTTP/2 protocol (shared library)'
+          },
+          {
+            'desc' => 'replacement for GNU Pth using system threads',
+            'update' => 'libnpth0',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '1.6-3build2',
+            'name' => 'libnpth0'
+          },
+          {
+            'desc' => 'libnsl development files',
+            'update' => 'libnsl-dev',
+            'system' => 'apt',
+            'version' => '1.3.0-2build2',
+            'epoch' => undef,
+            'name' => 'libnsl-dev'
+          },
+          {
+            'version' => '1.3.0-2build2',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'libnsl2',
+            'desc' => 'Public client interface for NIS(YP) and NIS+',
+            'update' => 'libnsl2'
+          },
+          {
+            'desc' => 'nss module providing dynamic user and group name resolution',
+            'update' => 'libnss-systemd',
+            'system' => 'apt',
+            'version' => '249.11-0ubuntu3.15',
+            'epoch' => undef,
+            'name' => 'libnss-systemd'
+          },
+          {
+            'name' => 'libp11-kit0',
+            'system' => 'apt',
+            'version' => '0.24.0-6build1',
+            'epoch' => undef,
+            'update' => 'libp11-kit0',
+            'desc' => 'library for loading and coordinating access to PKCS#11 modules - runtime'
+          },
+          {
+            'update' => 'libpackage-stash-perl',
+            'desc' => 'module providing routines for manipulating stashes',
+            'name' => 'libpackage-stash-perl',
+            'version' => '0.39-1',
+            'system' => 'apt',
+            'epoch' => undef
+          },
+          {
+            'desc' => 'Perl module providing routines for manipulating stashes (XS version)',
+            'update' => 'libpackage-stash-xs-perl',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '0.29-1build5',
+            'name' => 'libpackage-stash-xs-perl'
+          },
+          {
+            'desc' => 'Library for accessing PackageKit using GLib',
+            'update' => 'libpackagekit-glib2-18',
+            'version' => '1.2.5-2ubuntu3',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'libpackagekit-glib2-18'
+          },
+          {
+            'desc' => 'module to inspect and manipulate lexical variables',
+            'update' => 'libpadwalker-perl',
+            'system' => 'apt',
+            'version' => '2.5-1build2',
+            'epoch' => undef,
+            'name' => 'libpadwalker-perl'
+          },
+          {
+            'system' => 'apt',
+            'epoch' => '1',
+            'version' => '2.44-1ubuntu0.22.04.2',
+            'name' => 'libpam-cap',
+            'desc' => 'POSIX 1003.1e capabilities (PAM module)',
+            'update' => 'libpam-cap'
+          },
+          {
+            'desc' => 'Pluggable Authentication Modules for PAM',
+            'update' => 'libpam-modules',
+            'version' => '1.4.0-11ubuntu2.5',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'libpam-modules'
+          },
+          {
+            'update' => 'libpam-modules-bin',
+            'desc' => 'Pluggable Authentication Modules for PAM - helper binaries',
+            'name' => 'libpam-modules-bin',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '1.4.0-11ubuntu2.5'
+          },
+          {
+            'update' => 'libpam-runtime',
+            'desc' => 'Runtime support for the PAM library',
+            'name' => 'libpam-runtime',
+            'version' => '1.4.0-11ubuntu2.5',
+            'system' => 'apt',
+            'epoch' => undef
+          },
+          {
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '249.11-0ubuntu3.15',
+            'name' => 'libpam-systemd',
+            'desc' => 'system and service manager - PAM module',
+            'update' => 'libpam-systemd'
+          },
+          {
+            'version' => '1.4.0-11ubuntu2.5',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'libpam0g',
+            'desc' => 'Pluggable Authentication Modules library',
+            'update' => 'libpam0g'
+          },
+          {
+            'update' => 'libparams-classify-perl',
+            'desc' => 'Perl module for argument type classification',
+            'name' => 'libparams-classify-perl',
+            'system' => 'apt',
+            'version' => '0.015-1build5',
+            'epoch' => undef
+          },
+          {
+            'desc' => 'Perl extension for simple stand-alone param checking functions',
+            'update' => 'libparams-util-perl',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '1.102-1build3',
+            'name' => 'libparams-util-perl'
+          },
+          {
+            'desc' => 'module to build an optimized subroutine parameter validator',
+            'update' => 'libparams-validationcompiler-perl',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '0.30-1',
+            'name' => 'libparams-validationcompiler-perl'
+          },
+          {
+            'name' => 'libpcre2-8-0',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '10.39-3ubuntu0.1',
+            'update' => 'libpcre2-8-0',
+            'desc' => 'New Perl Compatible Regular Expression Library- 8 bit runtime files'
+          },
+          {
+            'desc' => 'Old Perl 5 Compatible Regular Expression Library - runtime files',
+            'update' => 'libpcre3',
+            'epoch' => '2',
+            'system' => 'apt',
+            'version' => '8.39-13ubuntu0.22.04.1',
+            'name' => 'libpcre3'
+          },
+          {
+            'name' => 'libperl5.34',
+            'version' => '5.34.0-3ubuntu1.3',
+            'system' => 'apt',
+            'epoch' => undef,
+            'update' => 'libperl5.34',
+            'desc' => 'shared Perl library'
+          },
+          {
+            'name' => 'libpng16-16',
+            'system' => 'apt',
+            'version' => '1.6.37-3build5',
+            'epoch' => undef,
+            'update' => 'libpng16-16',
+            'desc' => 'PNG library - runtime (version 1.6)'
+          },
+          {
+            'update' => 'libpolkit-agent-1-0',
+            'desc' => 'PolicyKit Authentication Agent API',
+            'name' => 'libpolkit-agent-1-0',
+            'system' => 'apt',
+            'version' => '0.105-33',
+            'epoch' => undef
+          },
+          {
+            'update' => 'libpolkit-gobject-1-0',
+            'desc' => 'PolicyKit Authorization API',
+            'name' => 'libpolkit-gobject-1-0',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '0.105-33'
+          },
+          {
+            'version' => '1.18-3build1',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'libpopt0',
+            'desc' => 'lib for parsing cmdline parameters',
+            'update' => 'libpopt0'
+          },
+          {
+            'version' => '3.3.17-6ubuntu2.1',
+            'system' => 'apt',
+            'epoch' => '2',
+            'name' => 'libprocps8',
+            'desc' => 'library for accessing process information from /proc',
+            'update' => 'libprocps8'
+          },
+          {
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '0.21.0-1.2build2',
+            'name' => 'libpsl5',
+            'desc' => 'Library for Public Suffix List (shared libraries)',
+            'update' => 'libpsl5'
+          },
+          {
+            'desc' => 'header files and a static library for Python (default)',
+            'update' => 'libpython3-dev',
+            'version' => '3.10.6-1~22.04.1',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'libpython3-dev'
+          },
+          {
+            'update' => 'libpython3-stdlib',
+            'desc' => 'interactive high-level object-oriented language (default python3 version)',
+            'name' => 'libpython3-stdlib',
+            'system' => 'apt',
+            'version' => '3.10.6-1~22.04.1',
+            'epoch' => undef
+          },
+          {
+            'update' => 'libpython3.10',
+            'desc' => 'Shared Python runtime library (version 3.10)',
+            'name' => 'libpython3.10',
+            'system' => 'apt',
+            'version' => '3.10.12-1~22.04.9',
+            'epoch' => undef
+          },
+          {
+            'name' => 'libpython3.10-dev',
+            'system' => 'apt',
+            'version' => '3.10.12-1~22.04.9',
+            'epoch' => undef,
+            'update' => 'libpython3.10-dev',
+            'desc' => 'Header files and a static library for Python (v3.10)'
+          },
+          {
+            'desc' => 'Minimal subset of the Python language (version 3.10)',
+            'update' => 'libpython3.10-minimal',
+            'version' => '3.10.12-1~22.04.9',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'libpython3.10-minimal'
+          },
+          {
+            'version' => '3.10.12-1~22.04.9',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'libpython3.10-stdlib',
+            'desc' => 'Interactive high-level object-oriented language (standard library, version 3.10)',
+            'update' => 'libpython3.10-stdlib'
+          },
+          {
+            'desc' => 'QR Code encoding library',
+            'update' => 'libqrencode4',
+            'system' => 'apt',
+            'version' => '4.1.1-1',
+            'epoch' => undef,
+            'name' => 'libqrencode4'
+          },
+          {
+            'system' => 'apt',
+            'version' => '12.3.0-1ubuntu1~22.04',
+            'epoch' => undef,
+            'name' => 'libquadmath0',
+            'desc' => 'GCC Quad-Precision Math Library',
+            'update' => 'libquadmath0'
+          },
+          {
+            'desc' => 'GNU readline and history libraries, run-time libraries',
+            'update' => 'libreadline8',
+            'system' => 'apt',
+            'version' => '8.1.2-1',
+            'epoch' => undef,
+            'name' => 'libreadline8'
+          },
+          {
+            'system' => 'apt',
+            'version' => '2.050-3',
+            'epoch' => undef,
+            'name' => 'libreadonly-perl',
+            'desc' => 'facility for creating read-only scalars, arrays and hashes',
+            'update' => 'libreadonly-perl'
+          },
+          {
+            'version' => '0.204-1',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'libref-util-perl',
+            'desc' => 'set of utility functions for checking references',
+            'update' => 'libref-util-perl'
+          },
+          {
+            'name' => 'libref-util-xs-perl',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '0.117-1build5',
+            'update' => 'libref-util-xs-perl',
+            'desc' => 'XS implementation for Ref::Util'
+          },
+          {
+            'update' => 'librole-tiny-perl',
+            'desc' => 'Perl module for minimalist role composition',
+            'name' => 'librole-tiny-perl',
+            'system' => 'apt',
+            'version' => '2.002004-1',
+            'epoch' => undef
+          },
+          {
+            'name' => 'librtmp1',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '2.4+20151223.gitfa8646d.1-2build4',
+            'update' => 'librtmp1',
+            'desc' => 'toolkit for RTMP streams (shared library)'
+          },
+          {
+            'update' => 'libsasl2-2',
+            'desc' => 'Cyrus SASL - authentication abstraction library',
+            'name' => 'libsasl2-2',
+            'system' => 'apt',
+            'version' => '2.1.27+dfsg2-3ubuntu1.2',
+            'epoch' => undef
+          },
+          {
+            'name' => 'libsasl2-modules',
+            'version' => '2.1.27+dfsg2-3ubuntu1.2',
+            'system' => 'apt',
+            'epoch' => undef,
+            'update' => 'libsasl2-modules',
+            'desc' => 'Cyrus SASL - pluggable authentication modules'
+          },
+          {
+            'update' => 'libsasl2-modules-db',
+            'desc' => 'Cyrus SASL - pluggable authentication modules (DB)',
+            'name' => 'libsasl2-modules-db',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '2.1.27+dfsg2-3ubuntu1.2'
+          },
+          {
+            'desc' => 'high level interface to Linux seccomp filter',
+            'update' => 'libseccomp2',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '2.5.3-2ubuntu2',
+            'name' => 'libseccomp2'
+          },
+          {
+            'desc' => 'SELinux runtime shared libraries',
+            'update' => 'libselinux1',
+            'version' => '3.3-1build2',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'libselinux1'
+          },
+          {
+            'update' => 'libsemanage-common',
+            'desc' => 'Common files for SELinux policy management libraries',
+            'name' => 'libsemanage-common',
+            'system' => 'apt',
+            'version' => '3.3-1build2',
+            'epoch' => undef
+          },
+          {
+            'desc' => 'SELinux policy management library',
+            'update' => 'libsemanage2',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '3.3-1build2',
+            'name' => 'libsemanage2'
+          },
+          {
+            'desc' => 'SELinux library for manipulating binary security policies',
+            'update' => 'libsepol2',
+            'system' => 'apt',
+            'version' => '3.3-1build1',
+            'epoch' => undef,
+            'name' => 'libsepol2'
+          },
+          {
+            'update' => 'libsmartcols1',
+            'desc' => 'smart column output alignment library',
+            'name' => 'libsmartcols1',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '2.37.2-4ubuntu3.4'
+          },
+          {
+            'name' => 'libsocket6-perl',
+            'version' => '0.29-1build4',
+            'system' => 'apt',
+            'epoch' => undef,
+            'update' => 'libsocket6-perl',
+            'desc' => 'Perl extensions for IPv6'
+          },
+          {
+            'system' => 'apt',
+            'version' => '0.47-1',
+            'epoch' => undef,
+            'name' => 'libspecio-perl',
+            'desc' => 'Perl module providing type constraints and coercions',
+            'update' => 'libspecio-perl'
+          },
+          {
+            'name' => 'libsqlite3-0',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '3.37.2-2ubuntu0.3',
+            'update' => 'libsqlite3-0',
+            'desc' => 'SQLite 3 shared library'
+          },
+          {
+            'name' => 'libss2',
+            'version' => '1.46.5-2ubuntu1.2',
+            'system' => 'apt',
+            'epoch' => undef,
+            'update' => 'libss2',
+            'desc' => 'command-line interface parsing library'
+          },
+          {
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '0.9.6-2ubuntu0.22.04.3',
+            'name' => 'libssh-4',
+            'desc' => 'tiny C SSH library (OpenSSL flavor)',
+            'update' => 'libssh-4'
+          },
+          {
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '3.0.2-0ubuntu1.18',
+            'name' => 'libssl3',
+            'desc' => 'Secure Sockets Layer toolkit - shared libraries',
+            'update' => 'libssl3'
+          },
+          {
+            'name' => 'libstdc++-11-dev',
+            'system' => 'apt',
+            'version' => '11.4.0-1ubuntu1~22.04',
+            'epoch' => undef,
+            'update' => 'libstdc++-11-dev',
+            'desc' => 'GNU Standard C++ Library v3 (development files)'
+          },
+          {
+            'update' => 'libstdc++6',
+            'desc' => 'GNU Standard C++ Library v3',
+            'name' => 'libstdc++6',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '12.3.0-1ubuntu1~22.04'
+          },
+          {
+            'update' => 'libstemmer0d',
+            'desc' => 'Snowball stemming algorithms for use in Information Retrieval',
+            'name' => 'libstemmer0d',
+            'version' => '2.2.0-1build1',
+            'system' => 'apt',
+            'epoch' => undef
+          },
+          {
+            'update' => 'libsub-exporter-perl',
+            'desc' => 'sophisticated exporter for custom-built routines',
+            'name' => 'libsub-exporter-perl',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '0.988-1'
+          },
+          {
+            'desc' => 'module for using Sub::Exporter only if needed',
+            'update' => 'libsub-exporter-progressive-perl',
+            'version' => '0.001013-1',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'libsub-exporter-progressive-perl'
+          },
+          {
+            'desc' => 'module to retrieve names of code references',
+            'update' => 'libsub-identify-perl',
+            'version' => '0.14-1build5',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'libsub-identify-perl'
+          },
+          {
+            'name' => 'libsub-install-perl',
+            'system' => 'apt',
+            'version' => '0.928-1.1',
+            'epoch' => undef,
+            'update' => 'libsub-install-perl',
+            'desc' => 'module for installing subroutines into packages easily'
+          },
+          {
+            'update' => 'libsub-name-perl',
+            'desc' => 'module for assigning a new name to referenced sub',
+            'name' => 'libsub-name-perl',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '0.26-1build3'
+          },
+          {
+            'desc' => 'helper modules for subroutines',
+            'update' => 'libsub-quote-perl',
+            'version' => '2.006006-1',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'libsub-quote-perl'
+          },
+          {
+            'name' => 'libsystemd0',
+            'system' => 'apt',
+            'version' => '249.11-0ubuntu3.15',
+            'epoch' => undef,
+            'update' => 'libsystemd0',
+            'desc' => 'systemd utility library'
+          },
+          {
+            'desc' => 'Manage ASN.1 structures (runtime)',
+            'update' => 'libtasn1-6',
+            'version' => '4.18.0-4build1',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'libtasn1-6'
+          },
+          {
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '1.4.5-2build1',
+            'name' => 'libtdb1',
+            'desc' => 'Trivial Database - shared library',
+            'update' => 'libtdb1'
+          },
+          {
+            'name' => 'libtiff5',
+            'system' => 'apt',
+            'version' => '4.3.0-6ubuntu0.10',
+            'epoch' => undef,
+            'update' => 'libtiff5',
+            'desc' => 'Tag Image File Format (TIFF) library'
+          },
+          {
+            'update' => 'libtinfo6',
+            'desc' => 'shared low-level terminfo library for terminal handling',
+            'name' => 'libtinfo6',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '6.3-2ubuntu0.1'
+          },
+          {
+            'name' => 'libtirpc-common',
+            'system' => 'apt',
+            'version' => '1.3.2-2ubuntu0.1',
+            'epoch' => undef,
+            'update' => 'libtirpc-common',
+            'desc' => 'transport-independent RPC library - common files'
+          },
+          {
+            'name' => 'libtirpc-dev',
+            'system' => 'apt',
+            'version' => '1.3.2-2ubuntu0.1',
+            'epoch' => undef,
+            'update' => 'libtirpc-dev',
+            'desc' => 'transport-independent RPC library - development files'
+          },
+          {
+            'system' => 'apt',
+            'version' => '1.3.2-2ubuntu0.1',
+            'epoch' => undef,
+            'name' => 'libtirpc3',
+            'desc' => 'transport-independent RPC library',
+            'update' => 'libtirpc3'
+          },
+          {
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '0.31-1',
+            'name' => 'libtry-tiny-perl',
+            'desc' => 'module providing minimalistic try/catch',
+            'update' => 'libtry-tiny-perl'
+          },
+          {
+            'update' => 'libtsan0',
+            'desc' => 'ThreadSanitizer -- a Valgrind-based detector of data races (runtime)',
+            'name' => 'libtsan0',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '11.4.0-1ubuntu1~22.04'
+          },
+          {
+            'name' => 'libtypes-serialiser-perl',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '1.01-1',
+            'update' => 'libtypes-serialiser-perl',
+            'desc' => 'module providing simple data types for common serialisation formats'
+          },
+          {
+            'desc' => 'UBSan -- undefined behaviour sanitizer (runtime)',
+            'update' => 'libubsan1',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '12.3.0-1ubuntu1~22.04',
+            'name' => 'libubsan1'
+          },
+          {
+            'update' => 'libudev1',
+            'desc' => 'libudev shared library',
+            'name' => 'libudev1',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '249.11-0ubuntu3.12'
+          },
+          {
+            'name' => 'libunistring2',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '1.0-1',
+            'update' => 'libunistring2',
+            'desc' => 'Unicode string library for C'
+          },
+          {
+            'update' => 'libunwind8',
+            'desc' => 'library to determine the call-chain of a program - runtime',
+            'name' => 'libunwind8',
+            'system' => 'apt',
+            'version' => '1.3.2-2build2.1',
+            'epoch' => undef
+          },
+          {
+            'update' => 'libuuid1',
+            'desc' => 'Universally Unique ID library',
+            'name' => 'libuuid1',
+            'system' => 'apt',
+            'version' => '2.37.2-4ubuntu3.4',
+            'epoch' => undef
+          },
+          {
+            'name' => 'libvariable-magic-perl',
+            'version' => '0.62-1build5',
+            'system' => 'apt',
+            'epoch' => undef,
+            'update' => 'libvariable-magic-perl',
+            'desc' => 'module to associate user-defined magic to variables from Perl'
+          },
+          {
+            'name' => 'libwebp7',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '1.2.2-2ubuntu0.22.04.2',
+            'update' => 'libwebp7',
+            'desc' => 'Lossy compression of digital photographic images'
+          },
+          {
+            'system' => 'apt',
+            'epoch' => '2',
+            'version' => '1.7.5-1ubuntu0.3',
+            'name' => 'libx11-6',
+            'desc' => 'X11 client-side library',
+            'update' => 'libx11-6'
+          },
+          {
+            'desc' => 'X11 client-side library',
+            'update' => 'libx11-data',
+            'system' => 'apt',
+            'epoch' => '2',
+            'version' => '1.7.5-1ubuntu0.3',
+            'name' => 'libx11-data'
+          },
+          {
+            'update' => 'libxau6',
+            'desc' => 'X11 authorisation library',
+            'name' => 'libxau6',
+            'version' => '1.0.9-1build5',
+            'system' => 'apt',
+            'epoch' => '1'
+          },
+          {
+            'update' => 'libxcb1',
+            'desc' => 'X C Binding',
+            'name' => 'libxcb1',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '1.14-3ubuntu3'
+          },
+          {
+            'name' => 'libxdmcp6',
+            'version' => '1.1.3-0ubuntu5',
+            'system' => 'apt',
+            'epoch' => '1',
+            'update' => 'libxdmcp6',
+            'desc' => 'X11 Display Manager Control Protocol library'
+          },
+          {
+            'name' => 'libxml2',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '2.9.13+dfsg-1ubuntu0.6',
+            'update' => 'libxml2',
+            'desc' => 'GNOME XML library'
+          },
+          {
+            'name' => 'libxmlb2',
+            'system' => 'apt',
+            'version' => '0.3.6-2build1',
+            'epoch' => undef,
+            'update' => 'libxmlb2',
+            'desc' => 'Binary XML library'
+          },
+          {
+            'name' => 'libxpm4',
+            'epoch' => '1',
+            'system' => 'apt',
+            'version' => '3.5.12-1ubuntu0.22.04.2',
+            'update' => 'libxpm4',
+            'desc' => 'X11 pixmap library'
+          },
+          {
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '0.005-1build2',
+            'name' => 'libxstring-perl',
+            'desc' => 'module containing isolated string helpers from B',
+            'update' => 'libxstring-perl'
+          },
+          {
+            'desc' => 'netfilter xtables library',
+            'update' => 'libxtables12',
+            'system' => 'apt',
+            'version' => '1.8.7-1ubuntu5.2',
+            'epoch' => undef,
+            'name' => 'libxtables12'
+          },
+          {
+            'update' => 'libxxhash0',
+            'desc' => 'shared library for xxhash',
+            'name' => 'libxxhash0',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '0.8.1-1'
+          },
+          {
+            'name' => 'libyaml-0-2',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '0.2.2-1build2',
+            'update' => 'libyaml-0-2',
+            'desc' => 'Fast YAML 1.1 parser and emitter library'
+          },
+          {
+            'desc' => 'fast lossless compression algorithm',
+            'update' => 'libzstd1',
+            'version' => '1.4.8+dfsg-3build1',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'libzstd1'
+          },
+          {
+            'update' => 'linux-libc-dev',
+            'desc' => 'Linux Kernel Headers for development',
+            'name' => 'linux-libc-dev',
+            'version' => '5.15.0-136.147',
+            'system' => 'apt',
+            'epoch' => undef
+          },
+          {
+            'update' => 'login',
+            'desc' => 'system login tools',
+            'name' => 'login',
+            'epoch' => '1',
+            'system' => 'apt',
+            'version' => '4.8.1-2ubuntu2.2'
+          },
+          {
+            'system' => 'apt',
+            'version' => '3.19.0-1ubuntu1.1',
+            'epoch' => undef,
+            'name' => 'logrotate',
+            'desc' => 'Log rotation utility',
+            'update' => 'logrotate'
+          },
+          {
+            'version' => '1.46.5-2ubuntu1.2',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'logsave',
+            'desc' => 'save the output of a command in a log file',
+            'update' => 'logsave'
+          },
+          {
+            'desc' => 'Linux Standard Base init script functionality',
+            'update' => 'lsb-base',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '11.1.0ubuntu4',
+            'name' => 'lsb-base'
+          },
+          {
+            'version' => '11.1.0ubuntu4',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'lsb-release',
+            'desc' => 'Linux Standard Base version reporting utility',
+            'update' => 'lsb-release'
+          },
+          {
+            'update' => 'lto-disabled-list',
+            'desc' => 'list of packages not to build with LTO',
+            'name' => 'lto-disabled-list',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '24'
+          },
+          {
+            'name' => 'make',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '4.3-4.1build1',
+            'update' => 'make',
+            'desc' => 'utility for directing compilation'
+          },
+          {
+            'system' => 'apt',
+            'version' => '5.10-1ubuntu1',
+            'epoch' => undef,
+            'name' => 'manpages',
+            'desc' => 'Manual pages about using a GNU/Linux system',
+            'update' => 'manpages'
+          },
+          {
+            'desc' => 'Manual pages about using GNU/Linux for development',
+            'update' => 'manpages-dev',
+            'version' => '5.10-1ubuntu1',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'manpages-dev'
+          },
+          {
+            'version' => '1.3.4.20200120-3',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'mawk',
+            'desc' => 'Pattern scanning and text processing language',
+            'update' => 'mawk'
+          },
+          {
+            'update' => 'media-types',
+            'desc' => 'List of standard media types and their usual file extension',
+            'name' => 'media-types',
+            'system' => 'apt',
+            'version' => '7.0.0',
+            'epoch' => undef
+          },
+          {
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '2.37.2-4ubuntu3.4',
+            'name' => 'mount',
+            'desc' => 'tools for mounting and manipulating filesystems',
+            'update' => 'mount'
+          },
+          {
+            'desc' => 'MySQL database common files, e.g. /etc/mysql/my.cnf',
+            'update' => 'mysql-common',
+            'version' => '5.8+1.0.8',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'mysql-common'
+          },
+          {
+            'update' => 'ncurses-base',
+            'desc' => 'basic terminal type definitions',
+            'name' => 'ncurses-base',
+            'system' => 'apt',
+            'version' => '6.3-2ubuntu0.1',
+            'epoch' => undef
+          },
+          {
+            'desc' => 'terminal-related programs and man pages',
+            'update' => 'ncurses-bin',
+            'system' => 'apt',
+            'version' => '6.3-2ubuntu0.1',
+            'epoch' => undef,
+            'name' => 'ncurses-bin'
+          },
+          {
+            'update' => 'net-tools',
+            'desc' => 'NET-3 networking toolkit',
+            'name' => 'net-tools',
+            'system' => 'apt',
+            'version' => '1.60+git20181103.0eebece-1ubuntu5',
+            'epoch' => undef
+          },
+          {
+            'name' => 'netbase',
+            'version' => '6.3',
+            'system' => 'apt',
+            'epoch' => undef,
+            'update' => 'netbase',
+            'desc' => 'Basic TCP/IP networking system'
+          },
+          {
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '2.1-2ubuntu0.22.04.2',
+            'name' => 'networkd-dispatcher',
+            'desc' => 'Dispatcher service for systemd-networkd connection status changes',
+            'update' => 'networkd-dispatcher'
+          },
+          {
+            'name' => 'nftables',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '1.0.2-1ubuntu3',
+            'update' => 'nftables',
+            'desc' => 'Program to control packet filtering rules by Netfilter project'
+          },
+          {
+            'update' => 'openssl',
+            'desc' => 'Secure Sockets Layer toolkit - cryptographic utility',
+            'name' => 'openssl',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '3.0.2-0ubuntu1.19'
+          },
+          {
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '1.2.5-2ubuntu3',
+            'name' => 'packagekit',
+            'desc' => 'Provides a package management service',
+            'update' => 'packagekit'
+          },
+          {
+            'name' => 'packagekit-tools',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '1.2.5-2ubuntu3',
+            'update' => 'packagekit-tools',
+            'desc' => 'Provides PackageKit command-line tools'
+          },
+          {
+            'name' => 'passwd',
+            'system' => 'apt',
+            'epoch' => '1',
+            'version' => '4.8.1-2ubuntu2.2',
+            'update' => 'passwd',
+            'desc' => 'change and administer password and group data'
+          },
+          {
+            'desc' => 'Apply a diff file to an original',
+            'update' => 'patch',
+            'system' => 'apt',
+            'version' => '2.7.6-7build2',
+            'epoch' => undef,
+            'name' => 'patch'
+          },
+          {
+            'name' => 'perl',
+            'version' => '5.34.0-3ubuntu1.3',
+            'system' => 'apt',
+            'epoch' => undef,
+            'update' => 'perl',
+            'desc' => 'Larry Wall\'s Practical Extraction and Report Language'
+          },
+          {
+            'desc' => 'minimal Perl system',
+            'update' => 'perl-base',
+            'system' => 'apt',
+            'version' => '5.34.0-3ubuntu1.3',
+            'epoch' => undef,
+            'name' => 'perl-base'
+          },
+          {
+            'name' => 'perl-modules-5.34',
+            'system' => 'apt',
+            'version' => '5.34.0-3ubuntu1.3',
+            'epoch' => undef,
+            'update' => 'perl-modules-5.34',
+            'desc' => 'Core Perl modules'
+          },
+          {
+            'name' => 'perl-openssl-defaults',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '5build2',
+            'update' => 'perl-openssl-defaults',
+            'desc' => 'version compatibility baseline for Perl OpenSSL packages'
+          },
+          {
+            'version' => '1.1.1-1build2',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'pinentry-curses',
+            'desc' => 'curses-based PIN or pass-phrase entry dialog for GnuPG',
+            'update' => 'pinentry-curses'
+          },
+          {
+            'desc' => 'run commands as another user with polkit authorization',
+            'update' => 'pkexec',
+            'system' => 'apt',
+            'version' => '0.105-33',
+            'epoch' => undef,
+            'name' => 'pkexec'
+          },
+          {
+            'name' => 'policykit-1',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '0.105-33',
+            'update' => 'policykit-1',
+            'desc' => 'transitional package for polkitd and pkexec'
+          },
+          {
+            'desc' => 'framework for managing administrative policies and privileges',
+            'update' => 'polkitd',
+            'system' => 'apt',
+            'version' => '0.105-33',
+            'epoch' => undef,
+            'name' => 'polkitd'
+          },
+          {
+            'version' => '3.3.17-6ubuntu2.1',
+            'system' => 'apt',
+            'epoch' => '2',
+            'name' => 'procps',
+            'desc' => '/proc file system utilities',
+            'update' => 'procps'
+          },
+          {
+            'desc' => 'accurate, machine-readable list of domain name suffixes',
+            'update' => 'publicsuffix',
+            'version' => '20211207.1025-1',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'publicsuffix'
+          },
+          {
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '2.4.0ubuntu4',
+            'name' => 'python-apt-common',
+            'desc' => 'Python interface to libapt-pkg (locales)',
+            'update' => 'python-apt-common'
+          },
+          {
+            'desc' => 'interactive high-level object-oriented language (default python3 version)',
+            'update' => 'python3',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '3.10.6-1~22.04.1',
+            'name' => 'python3'
+          },
+          {
+            'name' => 'python3-apt',
+            'system' => 'apt',
+            'version' => '2.4.0ubuntu4',
+            'epoch' => undef,
+            'update' => 'python3-apt',
+            'desc' => 'Python 3 interface to libapt-pkg'
+          },
+          {
+            'update' => 'python3-blinker',
+            'desc' => 'fast, simple object-to-object and broadcast signaling library',
+            'name' => 'python3-blinker',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '1.4+dfsg1-0.4'
+          },
+          {
+            'desc' => 'Foreign Function Interface for Python 3 calling C code - runtime',
+            'update' => 'python3-cffi-backend',
+            'version' => '1.15.0-1build2',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'python3-cffi-backend'
+          },
+          {
+            'desc' => 'Python library exposing cryptographic recipes and primitives (Python 3)',
+            'update' => 'python3-cryptography',
+            'system' => 'apt',
+            'version' => '3.4.8-1ubuntu2.2',
+            'epoch' => undef,
+            'name' => 'python3-cryptography'
+          },
+          {
+            'desc' => 'simple interprocess messaging system (Python 3 interface)',
+            'update' => 'python3-dbus',
+            'system' => 'apt',
+            'version' => '1.2.18-3build1',
+            'epoch' => undef,
+            'name' => 'python3-dbus'
+          },
+          {
+            'desc' => 'header files and a static library for Python (default)',
+            'update' => 'python3-dev',
+            'version' => '3.10.6-1~22.04.1',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'python3-dev'
+          },
+          {
+            'desc' => 'Linux OS platform information API',
+            'update' => 'python3-distro',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '1.7.0-1',
+            'name' => 'python3-distro'
+          },
+          {
+            'desc' => 'information about distributions\' releases (Python 3 module)',
+            'update' => 'python3-distro-info',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '1.1ubuntu0.2',
+            'name' => 'python3-distro-info'
+          },
+          {
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '3.10.8-1~22.04',
+            'name' => 'python3-distutils',
+            'desc' => 'distutils package for Python 3.x',
+            'update' => 'python3-distutils'
+          },
+          {
+            'system' => 'apt',
+            'version' => '3.42.1-0ubuntu1',
+            'epoch' => undef,
+            'name' => 'python3-gi',
+            'desc' => 'Python 3 bindings for gobject-introspection libraries',
+            'update' => 'python3-gi'
+          },
+          {
+            'desc' => 'comprehensive HTTP client library written for Python3',
+            'update' => 'python3-httplib2',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '0.20.2-2',
+            'name' => 'python3-httplib2'
+          },
+          {
+            'update' => 'python3-importlib-metadata',
+            'desc' => 'library to access the metadata for a Python package - Python 3.x',
+            'name' => 'python3-importlib-metadata',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '4.6.4-1'
+          },
+          {
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '0.7.1-3',
+            'name' => 'python3-jeepney',
+            'desc' => 'pure Python D-Bus interface',
+            'update' => 'python3-jeepney'
+          },
+          {
+            'system' => 'apt',
+            'version' => '2.3.0-1ubuntu0.2',
+            'epoch' => undef,
+            'name' => 'python3-jwt',
+            'desc' => 'Python 3 implementation of JSON Web Token',
+            'update' => 'python3-jwt'
+          },
+          {
+            'desc' => 'store and access your passwords safely',
+            'update' => 'python3-keyring',
+            'system' => 'apt',
+            'version' => '23.5.0-1',
+            'epoch' => undef,
+            'name' => 'python3-keyring'
+          },
+          {
+            'name' => 'python3-launchpadlib',
+            'version' => '1.10.16-1',
+            'system' => 'apt',
+            'epoch' => undef,
+            'update' => 'python3-launchpadlib',
+            'desc' => 'Launchpad web services client library (Python 3)'
+          },
+          {
+            'desc' => 'client for lazr.restful-based web services (Python 3)',
+            'update' => 'python3-lazr.restfulclient',
+            'system' => 'apt',
+            'version' => '0.14.4-1',
+            'epoch' => undef,
+            'name' => 'python3-lazr.restfulclient'
+          },
+          {
+            'update' => 'python3-lazr.uri',
+            'desc' => 'library for parsing, manipulating, and generating URIs',
+            'name' => 'python3-lazr.uri',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '1.0.6-2'
+          },
+          {
+            'update' => 'python3-lib2to3',
+            'desc' => 'Interactive high-level object-oriented language (lib2to3)',
+            'name' => 'python3-lib2to3',
+            'version' => '3.10.8-1~22.04',
+            'system' => 'apt',
+            'epoch' => undef
+          },
+          {
+            'name' => 'python3-minimal',
+            'system' => 'apt',
+            'version' => '3.10.6-1~22.04.1',
+            'epoch' => undef,
+            'update' => 'python3-minimal',
+            'desc' => 'minimal subset of the Python language (default python3 version)'
+          },
+          {
+            'name' => 'python3-more-itertools',
+            'system' => 'apt',
+            'version' => '8.10.0-2',
+            'epoch' => undef,
+            'update' => 'python3-more-itertools',
+            'desc' => 'library with routines for operating on iterables, beyond itertools (Python 3)'
+          },
+          {
+            'name' => 'python3-oauthlib',
+            'system' => 'apt',
+            'version' => '3.2.0-1ubuntu0.1',
+            'epoch' => undef,
+            'update' => 'python3-oauthlib',
+            'desc' => 'generic, spec-compliant implementation of OAuth for Python3'
+          },
+          {
+            'name' => 'python3-pip',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '22.0.2+dfsg-1ubuntu0.5',
+            'update' => 'python3-pip',
+            'desc' => 'Python package installer'
+          },
+          {
+            'update' => 'python3-pkg-resources',
+            'desc' => 'Package Discovery and Resource Access using pkg_resources',
+            'name' => 'python3-pkg-resources',
+            'system' => 'apt',
+            'version' => '59.6.0-1.2ubuntu0.22.04.2',
+            'epoch' => undef
+          },
+          {
+            'desc' => 'simple Linux inotify Python bindings',
+            'update' => 'python3-pyinotify',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '0.9.6-1.3',
+            'name' => 'python3-pyinotify'
+          },
+          {
+            'name' => 'python3-pyparsing',
+            'version' => '2.4.7-1',
+            'system' => 'apt',
+            'epoch' => undef,
+            'update' => 'python3-pyparsing',
+            'desc' => 'alternative to creating and executing simple grammars - Python 3.x'
+          },
+          {
+            'update' => 'python3-secretstorage',
+            'desc' => 'Python module for storing secrets - Python 3.x version',
+            'name' => 'python3-secretstorage',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '3.3.1-1'
+          },
+          {
+            'update' => 'python3-setuptools',
+            'desc' => 'Python3 Distutils Enhancements',
+            'name' => 'python3-setuptools',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '59.6.0-1.2ubuntu0.22.04.2'
+          },
+          {
+            'update' => 'python3-six',
+            'desc' => 'Python 2 and 3 compatibility library (Python 3 interface)',
+            'name' => 'python3-six',
+            'version' => '1.16.0-3ubuntu1',
+            'system' => 'apt',
+            'epoch' => undef
+          },
+          {
+            'name' => 'python3-software-properties',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '0.99.22.9',
+            'update' => 'python3-software-properties',
+            'desc' => 'manage the repositories that you install software from'
+          },
+          {
+            'name' => 'python3-systemd',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '234-3ubuntu2',
+            'update' => 'python3-systemd',
+            'desc' => 'Python 3 bindings for systemd'
+          },
+          {
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '1.3.6-1',
+            'name' => 'python3-wadllib',
+            'desc' => 'Python 3 library for navigating WADL files',
+            'update' => 'python3-wadllib'
+          },
+          {
+            'name' => 'python3-wheel',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '0.37.1-2ubuntu0.22.04.1',
+            'update' => 'python3-wheel',
+            'desc' => 'built-package format for Python'
+          },
+          {
+            'name' => 'python3-zipp',
+            'system' => 'apt',
+            'version' => '1.0.0-3ubuntu0.1',
+            'epoch' => undef,
+            'update' => 'python3-zipp',
+            'desc' => 'pathlib-compatible Zipfile object wrapper - Python 3.x'
+          },
+          {
+            'name' => 'python3.10',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '3.10.12-1~22.04.9',
+            'update' => 'python3.10',
+            'desc' => 'Interactive high-level object-oriented language (version 3.10)'
+          },
+          {
+            'desc' => 'Header files and a static library for Python (v3.10)',
+            'update' => 'python3.10-dev',
+            'system' => 'apt',
+            'version' => '3.10.12-1~22.04.9',
+            'epoch' => undef,
+            'name' => 'python3.10-dev'
+          },
+          {
+            'desc' => 'Minimal subset of the Python language (version 3.10)',
+            'update' => 'python3.10-minimal',
+            'system' => 'apt',
+            'version' => '3.10.12-1~22.04.9',
+            'epoch' => undef,
+            'name' => 'python3.10-minimal'
+          },
+          {
+            'desc' => 'QR Code encoder into PNG image',
+            'update' => 'qrencode',
+            'version' => '4.1.1-1',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'qrencode'
+          },
+          {
+            'desc' => 'GNU readline and history libraries, common files',
+            'update' => 'readline-common',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '8.1.2-1',
+            'name' => 'readline-common'
+          },
+          {
+            'name' => 'rpcsvc-proto',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '1.4.2-0ubuntu6',
+            'update' => 'rpcsvc-proto',
+            'desc' => 'RPC protocol compiler and definitions'
+          },
+          {
+            'name' => 'sed',
+            'system' => 'apt',
+            'version' => '4.8-1ubuntu2',
+            'epoch' => undef,
+            'update' => 'sed',
+            'desc' => 'GNU stream editor for filtering/transforming text'
+          },
+          {
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '0.0.17',
+            'name' => 'sensible-utils',
+            'desc' => 'Utilities for sensible alternative selection',
+            'update' => 'sensible-utils'
+          },
+          {
+            'update' => 'shared-mime-info',
+            'desc' => 'FreeDesktop.org shared MIME database and spec',
+            'name' => 'shared-mime-info',
+            'version' => '2.1-2',
+            'system' => 'apt',
+            'epoch' => undef
+          },
+          {
+            'desc' => 'manage the repositories that you install software from (common)',
+            'update' => 'software-properties-common',
+            'system' => 'apt',
+            'version' => '0.99.22.9',
+            'epoch' => undef,
+            'name' => 'software-properties-common'
+          },
+          {
+            'desc' => 'Full featured Web Proxy cache (HTTP proxy GnuTLS flavour)',
+            'update' => 'squid',
+            'version' => '5.9-0ubuntu0.22.04.2',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'squid'
+          },
+          {
+            'desc' => 'Full featured Web Proxy cache (HTTP proxy) - common files',
+            'update' => 'squid-common',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '5.9-0ubuntu0.22.04.2',
+            'name' => 'squid-common'
+          },
+          {
+            'name' => 'squid-langpack',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '20200403-1',
+            'update' => 'squid-langpack',
+            'desc' => 'Localized error pages for Squid'
+          },
+          {
+            'desc' => 'simple debconf wrapper for OpenSSL',
+            'update' => 'ssl-cert',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '1.1.2',
+            'name' => 'ssl-cert'
+          },
+          {
+            'update' => 'sudo',
+            'desc' => 'Provide limited super user privileges to specific users',
+            'name' => 'sudo',
+            'version' => '1.9.9-1ubuntu2.4',
+            'system' => 'apt',
+            'epoch' => undef
+          },
+          {
+            'name' => 'supervisor',
+            'system' => 'apt',
+            'version' => '4.2.1-1ubuntu1',
+            'epoch' => undef,
+            'update' => 'supervisor',
+            'desc' => 'System for controlling process state'
+          },
+          {
+            'system' => 'apt',
+            'version' => '249.11-0ubuntu3.15',
+            'epoch' => undef,
+            'name' => 'systemd',
+            'desc' => 'system and service manager',
+            'update' => 'systemd'
+          },
+          {
+            'update' => 'systemd-sysv',
+            'desc' => 'system and service manager - SysV links',
+            'name' => 'systemd-sysv',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '249.11-0ubuntu3.15'
+          },
+          {
+            'desc' => 'minimalistic service to synchronize local time with NTP servers',
+            'update' => 'systemd-timesyncd',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '249.11-0ubuntu3.15',
+            'name' => 'systemd-timesyncd'
+          },
+          {
+            'update' => 'sysvinit-utils',
+            'desc' => 'System-V-like utilities',
+            'name' => 'sysvinit-utils',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '3.01-1ubuntu1'
+          },
+          {
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '1.34+dfsg-1ubuntu0.1.22.04.2',
+            'name' => 'tar',
+            'desc' => 'GNU version of the tar archiving utility',
+            'update' => 'tar'
+          },
+          {
+            'name' => 'ubuntu-keyring',
+            'system' => 'apt',
+            'version' => '2021.03.26',
+            'epoch' => undef,
+            'update' => 'ubuntu-keyring',
+            'desc' => 'GnuPG keys of the Ubuntu archive'
+          },
+          {
+            'update' => 'ucf',
+            'desc' => 'Update Configuration File(s): preserve user changes to config files',
+            'name' => 'ucf',
+            'version' => '3.0043',
+            'system' => 'apt',
+            'epoch' => undef
+          },
+          {
+            'name' => 'unattended-upgrades',
+            'version' => '2.8ubuntu1',
+            'system' => 'apt',
+            'epoch' => undef,
+            'update' => 'unattended-upgrades',
+            'desc' => 'automatic installation of security upgrades'
+          },
+          {
+            'desc' => 'De-archiver for .zip files',
+            'update' => 'unzip',
+            'system' => 'apt',
+            'version' => '6.0-26ubuntu3.2',
+            'epoch' => undef,
+            'name' => 'unzip'
+          },
+          {
+            'desc' => 'Convert the system to the merged /usr directories scheme',
+            'update' => 'usrmerge',
+            'version' => '25ubuntu2',
+            'system' => 'apt',
+            'epoch' => undef,
+            'name' => 'usrmerge'
+          },
+          {
+            'desc' => 'miscellaneous system utilities',
+            'update' => 'util-linux',
+            'system' => 'apt',
+            'version' => '2.37.2-4ubuntu3.4',
+            'epoch' => undef,
+            'name' => 'util-linux'
+          },
+          {
+            'desc' => 'web-based administration interface for Unix systems',
+            'update' => 'webmin',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '2.303',
+            'name' => 'webmin'
+          },
+          {
+            'update' => 'wget',
+            'desc' => 'retrieves files from the web',
+            'name' => 'wget',
+            'epoch' => undef,
+            'system' => 'apt',
+            'version' => '1.21.2-2ubuntu1.1'
+          },
+          {
+            'name' => 'whois',
+            'version' => '5.5.13',
+            'system' => 'apt',
+            'epoch' => undef,
+            'update' => 'whois',
+            'desc' => 'intelligent WHOIS client'
+          },
+          {
+            'update' => 'xdg-user-dirs',
+            'desc' => 'tool to manage well known user directories',
+            'name' => 'xdg-user-dirs',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '0.17-2ubuntu4'
+          },
+          {
+            'update' => 'xz-utils',
+            'desc' => 'XZ-format compression utilities',
+            'name' => 'xz-utils',
+            'system' => 'apt',
+            'epoch' => undef,
+            'version' => '5.2.5-2ubuntu1'
+          },
+          {
+            'desc' => 'compression library - runtime',
+            'update' => 'zlib1g',
+            'system' => 'apt',
+            'epoch' => '1',
+            'version' => '1.2.11.dfsg-2ubuntu9.2',
+            'name' => 'zlib1g'
+          },
+          {
+            'name' => 'zlib1g-dev',
+            'version' => '1.2.11.dfsg-2ubuntu9.2',
+            'system' => 'apt',
+            'epoch' => '1',
+            'update' => 'zlib1g-dev',
+            'desc' => 'compression library - development'
+          }
+        ];

@@ -1,0 +1,5 @@
+1743958761.466.0 [06/Apr/2025 16:59:21] root 666b65c780f2ef663e877ff247ef83be 192.168.65.1 global miniserv.pl "login" "-" "-"
+1743994656.143.0 [07/Apr/2025 02:57:36] root 666b65c780f2ef663e877ff247ef83be 192.168.65.1 fail2ban start.cgi "start" "-" "-"
+1743994665.214.0 [07/Apr/2025 02:57:45] root 666b65c780f2ef663e877ff247ef83be 192.168.65.1 fail2ban restart.cgi "restart" "-" "-"
+1743994673.217.0 [07/Apr/2025 02:57:53] root 666b65c780f2ef663e877ff247ef83be 192.168.65.1 fail2ban stop.cgi "stop" "-" "-"
+1743994675.509.0 [07/Apr/2025 02:57:55] root 666b65c780f2ef663e877ff247ef83be 192.168.65.1 fail2ban start.cgi "start" "-" "-"

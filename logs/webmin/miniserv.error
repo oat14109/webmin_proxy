@@ -1,0 +1,28 @@
+[06/Apr/2025:16:58:48 +0000] miniserv.pl started
+[06/Apr/2025:16:58:48 +0000] IPv6 support enabled
+[06/Apr/2025:16:58:48 +0000] Using MD5 module Digest::MD5
+[06/Apr/2025:16:58:48 +0000] Using SHA512 module Crypt::SHA
+[06/Apr/2025:16:58:48 +0000] PAM authentication enabled
+[06/Apr/2025:16:58:49 +0000] Reloading configuration
+[06/Apr/2025:16:59:24 +0000] [192.168.65.1] /fail2ban/start.cgi :  * Starting Authentication failure monitor fail2ban 2025-04-06 16:59:24,679 fail2ban                [490]: ERROR   Failed during configuration: Have not found any log file for sshd jail    ...fail! 
+[06/Apr/2025:16:59:32 +0000] Reloading configuration
+sh: 1: cannot create /var/webmin/modules/authentic-theme/stats-server-555.log: Directory nonexistent
+[06/Apr/2025:16:59:34 +0000] [192.168.65.1] /authentic-theme/ws-555 : Websockets connection failed : Failed to connect to 127.0.0.1:555 : Connection refused
+[06/Apr/2025:16:59:36 +0000] [192.168.65.1] /fail2ban/start.cgi :  * Starting Authentication failure monitor fail2ban 2025-04-06 16:59:36,805 fail2ban                [588]: ERROR   Failed during configuration: Have not found any log file for sshd jail    ...fail! 
+[06/Apr/2025:16:59:39 +0000] Reloading configuration
+[06/Apr/2025:17:02:23 +0000] [192.168.65.1] /fail2ban/start.cgi :  * Starting Authentication failure monitor fail2ban 2025-04-06 17:02:23,332 fail2ban                [1268]: ERROR   Failed during configuration: Have not found any log file for sshd jail    ...fail! 
+[06/Apr/2025:17:02:44 +0000] [192.168.65.1] /fail2ban/start.cgi :  * Starting Authentication failure monitor fail2ban 2025-04-06 17:02:44,158 fail2ban                [1418]: ERROR   Failed during configuration: Have not found any log file for sshd jail    ...fail! 
+[06/Apr/2025:17:13:41 +0000] [192.168.65.1] /fail2ban/start.cgi :  * Starting Authentication failure monitor fail2ban 2025-04-06 17:13:41,116 fail2ban                [3069]: ERROR   Failed during configuration: Have not found any log file for sshd jail    ...fail! 
+[06/Apr/2025:17:13:50 +0000] [192.168.65.1] /fail2ban/start.cgi :  * Starting Authentication failure monitor fail2ban 2025-04-06 17:13:50,101 fail2ban                [3162]: ERROR   Failed during configuration: Have not found any log file for sshd jail    ...fail! 
+[06/Apr/2025:17:16:56 +0000] [192.168.65.1] /fail2ban/start.cgi :  * Starting Authentication failure monitor fail2ban 2025-04-06 17:16:56,724 fail2ban                [3642]: ERROR   Failed during configuration: Have not found any log file for sshd jail    ...fail! 
+[06/Apr/2025:18:11:21 +0000] Reloading configuration
+[07/Apr/2025:02:57:18 +0000] miniserv.pl started
+[07/Apr/2025:02:57:18 +0000] IPv6 support enabled
+[07/Apr/2025:02:57:18 +0000] Using MD5 module Digest::MD5
+[07/Apr/2025:02:57:18 +0000] Using SHA512 module Crypt::SHA
+[07/Apr/2025:02:57:18 +0000] PAM authentication enabled
+[07/Apr/2025:02:57:20 +0000] Reloading configuration
+[07/Apr/2025:02:57:21 +0000] [192.168.65.1] /stats.cgi : Failed to open /etc/webmin/authentic-theme/stats.pl for writing : No such file or directory
+[07/Apr/2025:02:57:27 +0000] Reloading configuration
+[07/Apr/2025:02:57:28 +0000] [192.168.65.1] /stats.cgi : Failed to open /etc/webmin/authentic-theme/stats.pl for writing : No such file or directory
+[07/Apr/2025:02:57:34 +0000] Reloading configuration

@@ -107,6 +107,7 @@ RUN chmod +x /run.sh
 # ✅ คัดลอก Webmin squid config ล่วงหน้า
 COPY squid-config/config /etc/webmin/squid/config
 
+
 # คัดลอก config supervisor
 # COPY supervisord.conf /etc/supervisord.conf
 
