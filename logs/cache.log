@@ -38568,3 +38568,134 @@ Page faults with physical i/o: 3
 2025/04/07 16:49:03| pinger: ICMP socket opened.
 2025/04/07 16:49:03| pinger: ICMPv6 socket opened
 2025/04/07 16:49:04 kid1| storeLateRelease: released 0 objects
+2025/04/07 17:12:18| SendEcho ERROR: sending to ICMPv6 packet to [2a00:800:1010::1]: (101) Network is unreachable
+2025/04/09 16:29:26 kid1| Current Directory is /
+2025/04/09 16:29:26 kid1| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/04/09 16:29:26 kid1| Service Name: squid
+2025/04/09 16:29:26 kid1| Process ID 48
+2025/04/09 16:29:26 kid1| Process Roles: worker
+2025/04/09 16:29:26 kid1| With 65535 file descriptors available
+2025/04/09 16:29:26 kid1| Initializing IP Cache...
+2025/04/09 16:29:26 kid1| DNS Socket created at [::], FD 7
+2025/04/09 16:29:26 kid1| DNS Socket created at 0.0.0.0, FD 8
+2025/04/09 16:29:26 kid1| Adding nameserver 8.8.8.8 from squid.conf
+2025/04/09 16:29:26 kid1| Adding nameserver 1.1.1.1 from squid.conf
+2025/04/09 16:29:26 kid1| Logfile: opening log /var/log/squid/access.log
+2025/04/09 16:29:26 kid1| WARNING: log name now starts with a module name. Use 'stdio:/var/log/squid/access.log'
+2025/04/09 16:29:26 kid1| Unlinkd pipe opened on FD 13
+2025/04/09 16:29:26 kid1| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/04/09 16:29:26 kid1| Store logging disabled
+2025/04/09 16:29:26 kid1| Swap maxSize 102400 + 65536 KB, estimated 12918 objects
+2025/04/09 16:29:26 kid1| Target number of buckets: 645
+2025/04/09 16:29:26 kid1| Using 8192 Store buckets
+2025/04/09 16:29:26 kid1| Max Mem  size: 65536 KB
+2025/04/09 16:29:26 kid1| Max Swap size: 102400 KB
+2025/04/09 16:29:26 kid1| Rebuilding storage in /var/spool/squid (dirty log)
+2025/04/09 16:29:26 kid1| Using Least Load store dir selection
+2025/04/09 16:29:26 kid1| Current Directory is /
+2025/04/09 16:29:26 kid1| Finished loading MIME types and icons.
+2025/04/09 16:29:26 kid1| HTCP Disabled.
+2025/04/09 16:29:26 kid1| Pinger socket opened on FD 18
+2025/04/09 16:29:26 kid1| Squid plugin modules loaded: 0
+2025/04/09 16:29:26 kid1| Adaptation support is off.
+2025/04/09 16:29:26 kid1| Accepting HTTP Socket connections at conn3 local=[::]:3128 remote=[::] FD 16 flags=9
+2025/04/09 16:29:26 kid1| Done reading /var/spool/squid swaplog (1 entries)
+2025/04/09 16:29:26 kid1| Finished rebuilding storage from disk.
+2025/04/09 16:29:26 kid1|         1 Entries scanned
+2025/04/09 16:29:26 kid1|         0 Invalid entries.
+2025/04/09 16:29:26 kid1|         0 With invalid flags.
+2025/04/09 16:29:26 kid1|         1 Objects loaded.
+2025/04/09 16:29:26 kid1|         0 Objects expired.
+2025/04/09 16:29:26 kid1|         0 Objects cancelled.
+2025/04/09 16:29:26 kid1|         0 Duplicate URLs purged.
+2025/04/09 16:29:26 kid1|         0 Swapfile clashes avoided.
+2025/04/09 16:29:26 kid1|   Took 0.02 seconds ( 42.32 objects/sec).
+2025/04/09 16:29:26 kid1| Beginning Validation Procedure
+2025/04/09 16:29:26 kid1|   Completed Validation Procedure
+2025/04/09 16:29:26 kid1|   Validated 1 Entries
+2025/04/09 16:29:26 kid1|   store_swap_size = 4.00 KB
+2025/04/09 16:29:26| pinger: Initialising ICMP pinger ...
+2025/04/09 16:29:26| pinger: ICMP socket opened.
+2025/04/09 16:29:26| pinger: ICMPv6 socket opened
+2025/04/09 16:29:27 kid1| storeLateRelease: released 0 objects
+2025/04/09 17:20:48 kid1| Current Directory is /
+2025/04/09 17:20:48 kid1| Starting Squid Cache version 5.9 for x86_64-pc-linux-gnu...
+2025/04/09 17:20:48 kid1| Service Name: squid
+2025/04/09 17:20:48 kid1| Process ID 6205
+2025/04/09 17:20:48 kid1| Process Roles: worker
+2025/04/09 17:20:48 kid1| With 65535 file descriptors available
+2025/04/09 17:20:48 kid1| Initializing IP Cache...
+2025/04/09 17:20:48 kid1| DNS Socket created at [::], FD 7
+2025/04/09 17:20:48 kid1| DNS Socket created at 0.0.0.0, FD 8
+2025/04/09 17:20:48 kid1| Adding nameserver 8.8.8.8 from squid.conf
+2025/04/09 17:20:48 kid1| Adding nameserver 1.1.1.1 from squid.conf
+2025/04/09 17:20:48 kid1| Logfile: opening log /var/log/squid/access.log
+2025/04/09 17:20:48 kid1| WARNING: log name now starts with a module name. Use 'stdio:/var/log/squid/access.log'
+2025/04/09 17:20:48 kid1| Unlinkd pipe opened on FD 13
+2025/04/09 17:20:48 kid1| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/04/09 17:20:48 kid1| Store logging disabled
+2025/04/09 17:20:48 kid1| Swap maxSize 102400 + 65536 KB, estimated 12918 objects
+2025/04/09 17:20:48 kid1| Target number of buckets: 645
+2025/04/09 17:20:48 kid1| Using 8192 Store buckets
+2025/04/09 17:20:48 kid1| Max Mem  size: 65536 KB
+2025/04/09 17:20:48 kid1| Max Swap size: 102400 KB
+2025/04/09 17:20:48 kid1| Rebuilding storage in /var/spool/squid (dirty log)
+2025/04/09 17:20:48 kid1| Using Least Load store dir selection
+2025/04/09 17:20:48 kid1| Current Directory is /
+2025/04/09 17:20:48 kid1| Finished loading MIME types and icons.
+2025/04/09 17:20:48 kid1| HTCP Disabled.
+2025/04/09 17:20:48 kid1| Pinger socket opened on FD 18
+2025/04/09 17:20:48 kid1| Squid plugin modules loaded: 0
+2025/04/09 17:20:48 kid1| Adaptation support is off.
+2025/04/09 17:20:48 kid1| Accepting HTTP Socket connections at conn3 local=[::]:3128 remote=[::] FD 16 flags=9
+2025/04/09 17:20:48 kid1| Done reading /var/spool/squid swaplog (1 entries)
+2025/04/09 17:20:48 kid1| Finished rebuilding storage from disk.
+2025/04/09 17:20:48 kid1|         1 Entries scanned
+2025/04/09 17:20:48 kid1|         0 Invalid entries.
+2025/04/09 17:20:48 kid1|         0 With invalid flags.
+2025/04/09 17:20:48 kid1|         1 Objects loaded.
+2025/04/09 17:20:48 kid1|         0 Objects expired.
+2025/04/09 17:20:48 kid1|         0 Objects cancelled.
+2025/04/09 17:20:48 kid1|         0 Duplicate URLs purged.
+2025/04/09 17:20:48 kid1|         0 Swapfile clashes avoided.
+2025/04/09 17:20:48 kid1|   Took 0.02 seconds ( 54.70 objects/sec).
+2025/04/09 17:20:48 kid1| Beginning Validation Procedure
+2025/04/09 17:20:48 kid1|   Completed Validation Procedure
+2025/04/09 17:20:48 kid1|   Validated 1 Entries
+2025/04/09 17:20:48 kid1|   store_swap_size = 4.00 KB
+2025/04/09 17:20:48| pinger: Initialising ICMP pinger ...
+2025/04/09 17:20:48| pinger: ICMP socket opened.
+2025/04/09 17:20:48| pinger: ICMPv6 socket opened
+2025/04/09 17:20:49 kid1| storeLateRelease: released 0 objects
+2025/04/09 17:36:20 kid1| Reconfiguring Squid Cache (version 5.9)...
+2025/04/09 17:36:20 kid1| Closing HTTP(S) port [::]:3128
+2025/04/09 17:36:20 kid1| Closing Pinger socket on FD 18
+2025/04/09 17:36:20 kid1| Logfile: closing log stdio:/var/log/squid/access.log
+2025/04/09 17:36:20 kid1| Startup: Initializing Authentication Schemes ...
+2025/04/09 17:36:20 kid1| Startup: Initialized Authentication Scheme 'basic'
+2025/04/09 17:36:20 kid1| Startup: Initialized Authentication Scheme 'digest'
+2025/04/09 17:36:20 kid1| Startup: Initialized Authentication Scheme 'negotiate'
+2025/04/09 17:36:20 kid1| Startup: Initialized Authentication Scheme 'ntlm'
+2025/04/09 17:36:20 kid1| Startup: Initialized Authentication.
+2025/04/09 17:36:20 kid1| Processing Configuration File: /etc/squid/squid.conf (depth 0)
+2025/04/09 17:36:20 kid1| UPGRADE: ACL 'manager' is now a built-in ACL. Remove it from your config file.
+2025/04/09 17:36:20 kid1| ERROR: action 'all' (line 151) already has a password
+2025/04/09 17:36:20 kid1| WARNING: HTTP requires the use of Via
+2025/04/09 17:36:20 kid1| Initializing https:// proxy context
+2025/04/09 17:36:20 kid1| Logfile: opening log /var/log/squid/access.log
+2025/04/09 17:36:20 kid1| WARNING: log name now starts with a module name. Use 'stdio:/var/log/squid/access.log'
+2025/04/09 17:36:20 kid1| Squid plugin modules loaded: 0
+2025/04/09 17:36:20 kid1| Adaptation support is off.
+2025/04/09 17:36:20 kid1| Store logging disabled
+2025/04/09 17:36:20 kid1| DNS Socket created at [::], FD 8
+2025/04/09 17:36:20 kid1| DNS Socket created at 0.0.0.0, FD 9
+2025/04/09 17:36:20 kid1| Adding nameserver 8.8.8.8 from squid.conf
+2025/04/09 17:36:20 kid1| Adding nameserver 1.1.1.1 from squid.conf
+2025/04/09 17:36:20 kid1| HTCP Disabled.
+2025/04/09 17:36:20 kid1| Pinger socket opened on FD 14
+2025/04/09 17:36:20 kid1| Finished loading MIME types and icons.
+2025/04/09 17:36:20 kid1| Accepting HTTP Socket connections at conn9 local=[::]:3128 remote=[::] FD 11 flags=9
+2025/04/09 17:36:20| pinger: Initialising ICMP pinger ...
+2025/04/09 17:36:20| pinger: ICMP socket opened.
+2025/04/09 17:36:20| pinger: ICMPv6 socket opened
+2025/04/09 17:36:30| Pinger exiting.

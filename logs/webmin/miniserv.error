@@ -100,3 +100,70 @@ Argument "squid" isn't numeric in array or hash lookup at ./squid-lib.pl line 48
 [07/Apr/2025:16:54:16 +0000] [192.168.65.1] /squid-internal-static/icons/SN.png : File not found
 [07/Apr/2025:17:06:22 +0000] [192.168.65.1] /squid-internal-static/icons/SN.png : File not found
 [07/Apr/2025:17:06:25 +0000] [192.168.65.1] /squid-internal-static/icons/SN.png : File not found
+[07/Apr/2025:17:15:03 +0000] [192.168.65.1] /squid-internal-static/icons/SN.png : File not found
+[07/Apr/2025:17:15:13 +0000] [192.168.65.1] /squid-internal-static/icons/SN.png : File not found
+[07/Apr/2025:17:16:07 +0000] Reloading configuration
+[07/Apr/2025:17:16:13 +0000] Reloading configuration
+[07/Apr/2025:17:16:23 +0000] Reloading configuration
+[07/Apr/2025:17:16:29 +0000] Reloading configuration
+[07/Apr/2025:17:16:34 +0000] Reloading configuration
+[07/Apr/2025:17:16:40 +0000] Reloading configuration
+[07/Apr/2025:17:17:10 +0000] Reloading configuration
+[07/Apr/2025:17:17:16 +0000] Reloading configuration
+[07/Apr/2025:17:17:44 +0000] Reloading configuration
+System has not been booted with systemd as init system (PID 1). Can't operate.
+Failed to connect to bus: Host is down
+System has not been booted with systemd as init system (PID 1). Can't operate.
+Failed to connect to bus: Host is down
+System has not been booted with systemd as init system (PID 1). Can't operate.
+Failed to connect to bus: Host is down
+System has not been booted with systemd as init system (PID 1). Can't operate.
+Failed to connect to bus: Host is down
+[07/Apr/2025:17:18:51 +0000] [192.168.65.1] /man/search.cgi?for=&and=1&exact=1&section=man : No manual page to search for entered
+[09/Apr/2025:16:29:29 +0000] miniserv.pl started
+[09/Apr/2025:16:29:29 +0000] IPv6 support enabled
+[09/Apr/2025:16:29:29 +0000] Using MD5 module Digest::MD5
+[09/Apr/2025:16:29:29 +0000] Using SHA512 module Crypt::SHA
+[09/Apr/2025:16:29:29 +0000] PAM authentication enabled
+[09/Apr/2025:16:29:29 +0000] Reloading configuration
+[09/Apr/2025:16:29:43 +0000] Reloading configuration
+[09/Apr/2025:16:30:01 +0000] Reloading configuration
+Argument "squid" isn't numeric in array or hash lookup at ./squid-lib.pl line 48.
+Argument "squid" isn't numeric in array or hash lookup at ./squid-lib.pl line 48.
+Argument "squid" isn't numeric in array or hash lookup at ./squid-lib.pl line 48.
+Argument "squid" isn't numeric in array or hash lookup at ./squid-lib.pl line 48.
+Argument "squid" isn't numeric in array or hash lookup at ./squid-lib.pl line 48.
+Argument "squid" isn't numeric in array or hash lookup at ./squid-lib.pl line 48.
+Argument "squid" isn't numeric in array or hash lookup at ./squid-lib.pl line 48.
+Argument "squid" isn't numeric in array or hash lookup at ./squid-lib.pl line 48.
+Argument "squid" isn't numeric in array or hash lookup at ./squid-lib.pl line 48.
+Argument "squid" isn't numeric in array or hash lookup at ./squid-lib.pl line 48.
+Argument "" isn't numeric in numeric gt (>) at /usr/share/webmin/squid/edit_pool.cgi line 150.
+Argument "" isn't numeric in numeric gt (>) at /usr/share/webmin/squid/edit_pool.cgi line 150.
+Argument "" isn't numeric in numeric gt (>) at /usr/share/webmin/squid/edit_pool.cgi line 150.
+Argument "" isn't numeric in numeric gt (>) at /usr/share/webmin/squid/edit_pool.cgi line 150.
+Argument "" isn't numeric in numeric gt (>) at /usr/share/webmin/squid/edit_pool.cgi line 150.
+Argument "" isn't numeric in numeric gt (>) at /usr/share/webmin/squid/edit_pool.cgi line 150.
+[09/Apr/2025:16:34:16 +0000] [192.168.65.1] /squid/save_manual.cgi : Failed to replace /etc/squid/squid.conf with /etc/squid/squid.conf.webmintmp.1543.0 : Device or resource busy
+[09/Apr/2025:16:34:21 +0000] [192.168.65.1] /squid/save_manual.cgi : Failed to replace /etc/squid/squid.conf with /etc/squid/squid.conf.webmintmp.1563.0 : Device or resource busy
+[09/Apr/2025:16:40:53 +0000] miniserv.pl started
+[09/Apr/2025:16:40:53 +0000] IPv6 support enabled
+[09/Apr/2025:16:40:53 +0000] Using MD5 module Digest::MD5
+[09/Apr/2025:16:40:53 +0000] Using SHA512 module Crypt::SHA
+[09/Apr/2025:16:40:53 +0000] PAM authentication enabled
+[09/Apr/2025:16:40:55 +0000] Reloading configuration
+[09/Apr/2025:17:29:30 +0000] Reloading configuration
+[09/Apr/2025:17:35:01 +0000] Restarting
+[09/Apr/2025:17:35:03 +0000] miniserv.pl started
+[09/Apr/2025:17:35:03 +0000] IPv6 support enabled
+[09/Apr/2025:17:35:03 +0000] Using MD5 module Digest::MD5
+[09/Apr/2025:17:35:03 +0000] Using SHA512 module Crypt::SHA
+[09/Apr/2025:17:35:03 +0000] PAM authentication enabled
+[09/Apr/2025:17:35:05 +0000] [192.168.65.1] /proc/kill_proc.cgi : Perl execution failed : Unrecognized signal name "HUP HUP" at /usr/share/webmin/web-lib-funcs.pl line 7676.
+
+[09/Apr/2025:17:35:19 +0000] Restarting
+[09/Apr/2025:17:35:21 +0000] miniserv.pl started
+[09/Apr/2025:17:35:21 +0000] IPv6 support enabled
+[09/Apr/2025:17:35:21 +0000] Using MD5 module Digest::MD5
+[09/Apr/2025:17:35:21 +0000] Using SHA512 module Crypt::SHA
+[09/Apr/2025:17:35:21 +0000] PAM authentication enabled

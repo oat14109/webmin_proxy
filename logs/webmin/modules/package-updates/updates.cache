@@ -1,91 +1,155 @@
 $VAR1 = [
           {
-            'version' => '2.35-0ubuntu3.9',
+            'update' => 'binutils-common',
+            'source' => 'jammy-updates',
+            'name' => 'binutils-common',
             'arch' => 'amd64',
-            'source' => 'jammy-updates',
-            'system' => 'apt',
-            'update' => 'libc-bin',
-            'name' => 'libc-bin'
-          },
-          {
-            'epoch' => '1',
-            'name' => 'libcap2',
-            'update' => 'libcap2',
-            'source' => 'jammy-updates',
-            'system' => 'apt',
-            'arch' => 'amd64',
-            'version' => '2.44-1ubuntu0.22.04.2'
-          },
-          {
-            'name' => 'libgnutls30',
-            'update' => 'libgnutls30',
-            'system' => 'apt',
-            'source' => 'jammy-updates',
-            'version' => '3.7.3-4ubuntu1.6',
-            'arch' => 'amd64'
-          },
-          {
-            'update' => 'libgssapi-krb5-2',
-            'name' => 'libgssapi-krb5-2',
-            'arch' => 'amd64',
-            'version' => '1.19.2-2ubuntu0.6',
-            'source' => 'jammy-updates',
+            'version' => '2.38-4ubuntu2.8',
             'system' => 'apt'
           },
           {
+            'version' => '2.38-4ubuntu2.8',
+            'system' => 'apt',
+            'update' => 'binutils-x86-64-linux-gnu',
+            'source' => 'jammy-updates',
+            'name' => 'binutils-x86-64-linux-gnu',
+            'arch' => 'amd64'
+          },
+          {
+            'name' => 'binutils',
+            'arch' => 'amd64',
+            'source' => 'jammy-updates',
+            'update' => 'binutils',
+            'system' => 'apt',
+            'version' => '2.38-4ubuntu2.8'
+          },
+          {
+            'arch' => 'amd64',
+            'name' => 'libbinutils',
+            'source' => 'jammy-updates',
+            'update' => 'libbinutils',
+            'system' => 'apt',
+            'version' => '2.38-4ubuntu2.8'
+          },
+          {
+            'update' => 'libc-bin',
+            'name' => 'libc-bin',
+            'arch' => 'amd64',
+            'source' => 'jammy-updates',
+            'system' => 'apt',
+            'version' => '2.35-0ubuntu3.9'
+          },
+          {
+            'version' => '2.44-1ubuntu0.22.04.2',
+            'system' => 'apt',
+            'epoch' => '1',
+            'update' => 'libcap2',
+            'source' => 'jammy-updates',
+            'name' => 'libcap2',
+            'arch' => 'amd64'
+          },
+          {
+            'version' => '2.38-4ubuntu2.8',
+            'system' => 'apt',
+            'update' => 'libctf-nobfd0',
+            'source' => 'jammy-updates',
+            'arch' => 'amd64',
+            'name' => 'libctf-nobfd0'
+          },
+          {
+            'system' => 'apt',
+            'version' => '2.38-4ubuntu2.8',
+            'update' => 'libctf0',
+            'arch' => 'amd64',
+            'name' => 'libctf0',
+            'source' => 'jammy-updates'
+          },
+          {
+            'source' => 'jammy-updates',
+            'arch' => 'amd64',
+            'name' => 'libexpat1-dev',
+            'update' => 'libexpat1-dev',
+            'version' => '2.4.7-1ubuntu0.6',
+            'system' => 'apt'
+          },
+          {
+            'update' => 'libexpat1',
+            'arch' => 'amd64',
+            'name' => 'libexpat1',
+            'source' => 'jammy-updates',
+            'system' => 'apt',
+            'version' => '2.4.7-1ubuntu0.6'
+          },
+          {
+            'system' => 'apt',
+            'version' => '3.7.3-4ubuntu1.6',
+            'update' => 'libgnutls30',
+            'arch' => 'amd64',
+            'name' => 'libgnutls30',
+            'source' => 'jammy-updates'
+          },
+          {
+            'arch' => 'amd64',
+            'name' => 'libgssapi-krb5-2',
+            'source' => 'jammy-updates',
+            'update' => 'libgssapi-krb5-2',
+            'system' => 'apt',
+            'version' => '1.19.2-2ubuntu0.6'
+          },
+          {
             'name' => 'libk5crypto3',
+            'arch' => 'amd64',
+            'source' => 'jammy-updates',
             'update' => 'libk5crypto3',
             'system' => 'apt',
-            'source' => 'jammy-updates',
+            'version' => '1.19.2-2ubuntu0.6'
+          },
+          {
             'version' => '1.19.2-2ubuntu0.6',
+            'system' => 'apt',
+            'update' => 'libkrb5-3',
+            'source' => 'jammy-updates',
+            'name' => 'libkrb5-3',
             'arch' => 'amd64'
           },
           {
             'version' => '1.19.2-2ubuntu0.6',
-            'arch' => 'amd64',
             'system' => 'apt',
+            'update' => 'libkrb5support0',
             'source' => 'jammy-updates',
-            'update' => 'libkrb5-3',
-            'name' => 'libkrb5-3'
+            'arch' => 'amd64',
+            'name' => 'libkrb5support0'
           },
           {
-            'system' => 'apt',
-            'source' => 'jammy-updates',
-            'arch' => 'amd64',
-            'version' => '1.19.2-2ubuntu0.6',
-            'name' => 'libkrb5support0',
-            'update' => 'libkrb5support0'
-          },
-          {
-            'source' => 'jammy-updates',
-            'system' => 'apt',
-            'arch' => 'amd64',
             'version' => '2.5.3-2ubuntu3~22.04.1',
+            'system' => 'apt',
+            'update' => 'libseccomp2',
+            'source' => 'jammy-updates',
             'name' => 'libseccomp2',
-            'update' => 'libseccomp2'
+            'arch' => 'amd64'
           },
           {
             'version' => '3.0.2-0ubuntu1.19',
-            'arch' => 'amd64',
-            'source' => 'jammy-updates',
             'system' => 'apt',
-            'update' => 'libssl3',
-            'name' => 'libssl3'
+            'source' => 'jammy-updates',
+            'arch' => 'amd64',
+            'name' => 'libssl3',
+            'update' => 'libssl3'
           },
           {
-            'arch' => 'amd64',
+            'system' => 'apt',
             'version' => '4.18.0-4ubuntu0.1',
-            'system' => 'apt',
-            'source' => 'jammy-updates',
             'update' => 'libtasn1-6',
-            'name' => 'libtasn1-6'
+            'name' => 'libtasn1-6',
+            'arch' => 'amd64',
+            'source' => 'jammy-updates'
           },
           {
-            'name' => 'libudev1',
             'update' => 'libudev1',
+            'arch' => 'amd64',
+            'name' => 'libudev1',
             'source' => 'jammy-updates',
             'system' => 'apt',
-            'version' => '249.11-0ubuntu3.15',
-            'arch' => 'amd64'
+            'version' => '249.11-0ubuntu3.15'
           }
         ];

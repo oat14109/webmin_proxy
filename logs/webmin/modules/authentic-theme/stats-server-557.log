@@ -1,5 +1,0 @@
-[07/Apr/2025:02:57:35 +0000] [192.168.65.1] /stats.cgi : WebSocket server is listening on port 557
-[07/Apr/2025:02:57:38 +0000] [192.168.65.1] /stats.cgi : WebSocket connection 39728 opened
-[07/Apr/2025:02:57:39 +0000] [192.168.65.1] /stats.cgi : WebSocket connection 39728 closed
-[07/Apr/2025:02:57:39 +0000] [192.168.65.1] /stats.cgi : WebSocket connection 39730 opened
-[07/Apr/2025:02:57:42 +0000] [192.168.65.1] /stats.cgi : WebSocket connection for user root is granted

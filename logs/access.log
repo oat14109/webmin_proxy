@@ -36,3 +36,9 @@
 1744044856.710      0 127.0.0.1 TCP_DENIED/403 3947 GET cache_object://localhost/ - HIER_NONE/- text/html
 1744045582.040      0 127.0.0.1 TCP_DENIED/403 3947 GET cache_object://localhost/ - HIER_NONE/- text/html
 1744045585.880      0 127.0.0.1 TCP_DENIED/403 3947 GET cache_object://localhost/ - HIER_NONE/- text/html
+1744045923.883   5499 192.168.65.1 TCP_REFRESH_UNMODIFIED/200 1600 GET http://example.com/ - HIER_DIRECT/23.192.228.84 text/html
+1744045927.067   3165 192.168.65.1 TCP_TUNNEL/200 25201 CONNECT www.google.com:443 - HIER_DIRECT/216.58.199.228 -
+1744046102.963      0 127.0.0.1 TCP_DENIED/403 3803 GET cache_object://localhost/ - HIER_NONE/- text/html
+1744046113.460      0 127.0.0.1 TCP_DENIED/403 3803 GET cache_object://localhost/ - HIER_NONE/- text/html
+1744047012.423 1085334 192.168.65.1 TCP_MISS_ABORTED/200 8576076 GET http://speedtest.tele2.net/10MB.zip - HIER_DIRECT/90.130.70.73 application/zip
+1744216824.357      0 172.18.0.1 NONE_NONE/000 0 - error:transaction-end-before-headers - HIER_NONE/- -

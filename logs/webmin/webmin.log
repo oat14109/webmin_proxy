@@ -7,3 +7,16 @@
 1744032600.19483.0 [07/Apr/2025 13:30:00] root 666b65c780f2ef663e877ff247ef83be 192.168.65.1 squid restart.cgi "apply" "-" "-"
 1744043608.25594.0 [07/Apr/2025 16:33:28] root 666b65c780f2ef663e877ff247ef83be 192.168.65.1 firewall apply.cgi "apply" "-" "-"
 1744044764.162.0 [07/Apr/2025 16:52:44] root 666b65c780f2ef663e877ff247ef83be 192.168.65.1 squid restart.cgi "apply" "-" "-"
+1744046085.3669.0 [07/Apr/2025 17:14:45] root 666b65c780f2ef663e877ff247ef83be 192.168.65.1 squid restart.cgi "apply" "-" "-"
+1744046165.4172.0 [07/Apr/2025 17:16:05] root 666b65c780f2ef663e877ff247ef83be 192.168.65.1 webmin change_startpage.cgi "startpage" "-" "-" deftab='webmin' gotomodule='' gotoone='0' nocols='' nocols_def='1' nohostname='0' notabs='0'
+1744046171.4224.0 [07/Apr/2025 17:16:11] root 666b65c780f2ef663e877ff247ef83be 192.168.65.1 webmin change_startpage.cgi "startpage" "-" "-" deftab='webmin' gotomodule='' gotoone='0' nocols='' nocols_def='1' nohostname='0' notabs='0'
+1744046182.4301.0 [07/Apr/2025 17:16:22] root 666b65c780f2ef663e877ff247ef83be 192.168.65.1 webmin change_startpage.cgi "startpage" "-" "-" deftab='webmin' gotomodule='' gotoone='0' nocols='' nocols_def='1' nohostname='0' notabs='0'
+1744046187.4350.0 [07/Apr/2025 17:16:27] root 666b65c780f2ef663e877ff247ef83be 192.168.65.1 webmin change_startpage.cgi "startpage" "-" "-" deftab='webmin' gotomodule='' gotoone='0' nocols='' nocols_def='1' nohostname='0' notabs='0'
+1744046193.4415.0 [07/Apr/2025 17:16:33] root 666b65c780f2ef663e877ff247ef83be 192.168.65.1 webmin change_startpage.cgi "startpage" "-" "-" deftab='webmin' gotomodule='' gotoone='0' nocols='' nocols_def='1' nohostname='0' notabs='0'
+1744046228.4539.0 [07/Apr/2025 17:17:08] root 666b65c780f2ef663e877ff247ef83be 192.168.65.1 webmin change_startpage.cgi "startpage" "-" "-" deftab='webmin' gotomodule='squid' gotoone='0' nocols='' nocols_def='1' nohostname='0' notabs='0'
+1744216199.486.0 [09/Apr/2025 16:29:59] root 5789b60ce239101d86fa33a02a84f571 192.168.65.1 global miniserv.pl "login" "-" "-"
+1744219253.6073.0 [09/Apr/2025 17:20:53] root 666b65c780f2ef663e877ff247ef83be 192.168.65.1 squid start.cgi "start" "-" "-"
+1744219264.6277.0 [09/Apr/2025 17:21:04] root 666b65c780f2ef663e877ff247ef83be 192.168.65.1 fail2ban start.cgi "start" "-" "-"
+1744220101.8691.0 [09/Apr/2025 17:35:01] root 666b65c780f2ef663e877ff247ef83be 192.168.65.1 proc kill_proc.cgi "kill" "-" "-" args0='/usr/bin/perl /usr/share/webmin/miniserv.pl /etc/webmin/miniserv.conf' pid='51' signal='HUP'
+1744220119.8905.0 [09/Apr/2025 17:35:19] root 666b65c780f2ef663e877ff247ef83be 192.168.65.1 proc kill_proc.cgi "kill" "-" "-" args0='/usr/bin/perl /usr/share/webmin/miniserv.pl --nofork /etc/webmin/miniserv.conf' pid='51' signal='HUP'
+1744220180.9216.0 [09/Apr/2025 17:36:20] root 666b65c780f2ef663e877ff247ef83be 192.168.65.1 proc kill_proc.cgi "kill" "-" "-" args0='/usr/sbin/squid -YC -f /etc/squid/squid.conf' pid='6203' signal='HUP'
